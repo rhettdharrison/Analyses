@@ -1,0 +1,3260 @@
+PLOT_ID,PLANT_NO,STEM_NO,LOCAL_NAME,SPECIES,HEIGHT,GBH,PLANTED,ALIVE
+292,1,1,Chiyombo 2,Brachystegia utilis,4.4,11,n,a
+292,1,2,Chiyombo 2,Brachystegia utilis,NA,8.9,n,a
+292,1,3,Chiyombo 2,Brachystegia utilis,NA,26.1,n,a
+292,2,1,Kaumbu,Lannea discolor,4.8,7,n,a
+292,3,1,Kamponi,Julbernardia globiflora,4,5,n,a
+292,4,1,Kabesha 1,Terminalia stuhlmannii,3.6,5,n,a
+292,5,1,Mpyoka,Hymenocardia acida,2.8,4.3,n,a
+292,6,1,Mtowa,Diplorhynchus condylocarpon,6,7.4,n,a
+292,7,1,Chiyombo 2,Brachystegia utilis,6.2,16.8,n,a
+292,8,1,Msolo,Pseudolachnostylis maprouneifolia,10.6,17.3,n,a
+292,8,2,Msolo,Pseudolachnostylis maprouneifolia,NA,24,n,a
+292,8,3,Msolo,Pseudolachnostylis maprouneifolia,NA,42.2,n,a
+292,9,1,Chiyombo 2,Brachystegia utilis,5.6,8.8,n,a
+292,9,2,Chiyombo 2,Brachystegia utilis,NA,11.9,n,a
+292,9,3,Chiyombo 2,Brachystegia utilis,NA,22.6,n,a
+292,9,4,Chiyombo 2,Brachystegia utilis,NA,9.4,n,a
+292,9,5,Chiyombo 2,Brachystegia utilis,NA,30.4,n,a
+292,10,1,Chiyombo 2,Brachystegia utilis,7.2,11,n,a
+292,11,1,Mulombe,Pterocarpus angolensis,10,14.9,n,a
+292,12,1,Gobogobo,Crosspteryx febrijuga,9.6,13.8,n,a
+292,13,1,Mukalakate,Monotes glaber,4.8,5,n,a
+292,14,1,Mtowa,Diplorhynchus condylocarpon,4,8.8,n,a
+292,14,2,Mtowa,Diplorhynchus condylocarpon,NA,8.8,n,a
+292,15,1,Kamponi,Julbernardia globiflora,7.2,11.8,n,a
+3163,1,1,Mtondo,Julbernardia paniculata,7.6,8.1,n,a
+3163,2,1,Mtondo,Julbernardia paniculata,6.8,7,n,a
+3163,3,1,Mtondo,Julbernardia paniculata,10.8,16,n,a
+3163,4,1,Mtondo,Julbernardia paniculata,13.8,7.9,n,a
+3163,4,2,Mtondo,Julbernardia paniculata,NA,21.9,n,a
+3163,5,1,Mtondo,Julbernardia paniculata,4.8,6,n,a
+3163,5,2,Mtondo,Julbernardia paniculata,NA,5,n,a
+3163,5,3,Mtondo,Julbernardia paniculata,NA,8.5,n,a
+3163,6,1,Kalamafupa,Combretum zeyheri,6,11.2,n,a
+3163,7,1,Mtondo,Julbernardia paniculata,8.2,8.4,n,a
+3163,8,1,Mtondo,Julbernardia paniculata,10.2,9.5,n,a
+3163,9,1,Mtondo,Julbernardia paniculata,5,8,n,a
+3163,10,1,Msolo,Pseudolachnostylis maprouneifolia,4.2,9,n,a
+3163,11,1,Mulumila,Mulumila sp1,2.2,7.1,n,a
+3163,12,1,Mtondo,Julbernardia paniculata,9.2,13.5,n,a
+3163,13,1,Mtondo,Julbernardia paniculata,8.6,7.2,n,a
+3163,14,1,Mtondo,Julbernardia paniculata,6.2,7,n,a
+3163,15,1,Mugulo,Diospyros kirkii,5.2,7,n,a
+3163,16,1,Mtondo,Julbernardia paniculata,7.8,7.7,n,a
+3163,17,1,Msolo,Pseudolachnostylis maprouneifolia,6.8,6,n,a
+3163,17,2,Msolo,Pseudolachnostylis maprouneifolia,NA,7,n,a
+3163,17,3,Msolo,Pseudolachnostylis maprouneifolia,NA,8.1,n,a
+3163,17,4,Msolo,Pseudolachnostylis maprouneifolia,NA,6.9,n,a
+3163,17,5,Msolo,Pseudolachnostylis maprouneifolia,NA,8.8,n,a
+3163,18,1,Mugulo,Diospyros kirkii,3.8,6.1,n,a
+3163,18,2,Mugulo,Diospyros kirkii,NA,7.5,n,a
+3163,19,1,Mtondo,Julbernardia paniculata,7.2,8.2,n,a
+3163,20,1,Mtondo,Julbernardia paniculata,9.6,14.2,n,a
+3163,21,1,Mtondo,Julbernardia paniculata,7.8,9.9,n,a
+3163,22,1,Kaumbu,Lannea discolor,6,9.9,n,a
+3163,23,1,Mugulo,Diospyros kirkii,4,6,n,a
+3163,24,1,Chimpakasa,Lonchocarpus capassa,9.8,16.5,n,a
+3163,25,1,Mukungula,Mukungula sp1,4.8,7.5,n,a
+3163,25,2,Mukungula,Mukungula sp1,NA,8,n,a
+3163,26,1,Kafifi,Acacia gerrardii,4.8,7,n,a
+3163,27,1,Mugulo,Diospyros kirkii,5.2,9.2,n,a
+3163,28,1,Mtondo,Julbernardia paniculata,9.6,17.7,n,a
+3163,29,1,Mtondo,Julbernardia paniculata,5.6,7.2,n,a
+3163,30,1,Mtondo,Julbernardia paniculata,7.2,6.3,n,a
+3163,31,1,Mugulo,Diospyros kirkii,4.8,7,n,a
+3163,32,1,Mtondo,Julbernardia paniculata,8.6,9.3,n,a
+3163,33,1,Mtondo,Julbernardia paniculata,10,17.7,n,a
+3163,34,1,Mtondo,Julbernardia paniculata,6.2,7.2,n,a
+3163,35,1,Mtondo,Julbernardia paniculata,10.2,11.4,n,a
+3163,36,1,Msolo,Pseudolachnostylis maprouneifolia,3.8,5.4,n,a
+3163,37,1,Kalama,Combretum molle,7,14,n,a
+3163,38,1,Mtondo,Julbernardia paniculata,9.4,11.9,n,a
+3163,39,1,Kalamafupa,Combretum zeyheri,5.4,9.2,n,a
+3163,40,1,Mtondo,Julbernardia paniculata,5.6,5.7,n,a
+3163,41,1,Chiyombo 1,Brachystegia boehmii,8.8,9.4,n,a
+3163,42,1,Mtondo,Julbernardia paniculata,10.6,13.6,n,a
+3163,43,1,Kalamafupa,Combretum zeyheri,5.4,11.5,n,a
+3163,44,1,Kalama,Combretum molle,6.8,10.4,n,a
+3163,45,1,Kalamafupa,Combretum zeyheri,8,7.9,n,a
+4878,1,1,Chimpakasa,Lonchocarpus capassa,6.4,14,n,a
+4878,2,1,Chiyombo 2,Brachystegia utilis,2.6,5,n,a
+4878,3,1,Mpondo,Bauhinia petersiana,3.6,7.9,n,a
+4878,4,1,Chimpakasa,Lonchocarpus capassa,9.2,18.4,n,a
+4878,4,2,Chimpakasa,Lonchocarpus capassa,NA,17,n,a
+4878,5,1,Kalama,Combretum adenogonium,6,13.8,n,a
+4878,6,1,Chiyombo 2,Brachystegia utilis,2.4,8,n,a
+4878,6,2,Chiyombo 2,Brachystegia utilis,NA,10.5,n,a
+4878,6,3,Chiyombo 2,Brachystegia utilis,NA,8,n,a
+4878,6,4,Chiyombo 2,Brachystegia utilis,NA,6.2,n,a
+4878,7,1,Chimpakasa,Lonchocarpus capassa,8.2,18.6,n,a
+4878,8,1,Musumbu,Brachystegia allenii,4.2,5,n,a
+4878,9,1,Mtowa,Diplorhynchus condylocarpon,6.6,12.9,n,a
+4878,10,1,Chimpakasa,Lonchocarpus capassa,7.2,13.7,n,a
+4878,11,1,Chiyombo 2,Brachystegia utilis,3.8,10,n,a
+4878,12,1,Mugulo,Diospyros kirkii,3.6,8.9,n,a
+4878,13,1,Mpondo,Bauhinia petersiana,2.8,5,n,a
+4878,14,1,Mugulo,Diospyros kirkii,4,9.5,n,a
+4878,14,2,Mugulo,Diospyros kirkii,NA,6.8,n,a
+4878,15,1,Chiyombo 2,Brachystegia utilis,3.8,11.6,n,a
+4878,15,2,Chiyombo 2,Brachystegia utilis,NA,12.4,n,a
+4878,17,1,Chiyombo 2,Brachystegia utilis,6.2,11.8,n,a
+4878,17,2,Chiyombo 2,Brachystegia utilis,NA,16,n,a
+4878,18,1,Mugulo,Diospyros kirkii,4,12.4,n,a
+4878,18,2,Mugulo,Diospyros kirkii,NA,11.6,n,a
+4878,19,1,Mbangozi,Pterocarpus rotundifolius,2,16,n,a
+4878,20,1,Mbangozi,Pterocarpus rotundifolius,8,14,n,a
+4878,21,1,Lwanhko,Lwankho sp1,3.4,5.1,n,a
+4878,21,2,Lwanhko,Lwankho sp1,NA,5.4,n,a
+4878,22,1,Mtowa,Diplorhynchus condylocarpon,5,8.6,n,a
+4878,23,1,Chiyombo 2,Brachystegia utilis,2,5.7,n,a
+4878,23,2,Chiyombo 2,Brachystegia utilis,NA,5.5,n,a
+4878,24,1,Mbangozi,Pterocarpus rotundifolius,6.2,12.2,n,a
+312,1,1,Msolo,Pseudolachnostylis maprouneifolia,12.2,22.3,n,a
+312,1,2,Msolo,Pseudolachnostylis maprouneifolia,NA,23.6,n,a
+312,1,3,Msolo,Pseudolachnostylis maprouneifolia,NA,22.5,n,a
+312,1,4,Msolo,Pseudolachnostylis maprouneifolia,NA,19.9,n,a
+312,2,1,Chitondotondo,Xeroderris stuhlmannii,13,39,n,a
+312,3,1,Kabizi,Kabizi sp1,12.6,29.9,n,a
+312,4,1,Kalamafupa,Combretum zeyheri,11.8,20,n,a
+312,5,1,Mubanga,Pericopsis angolensis,12,18.9,n,a
+312,6,1,Mulundu,Swartzia madagascariensis,7.4,16.1,n,a
+312,7,1,Chiyombo 2,Brachystegia utilis,4.6,25.4,n,a
+312,8,1,Kabizi,Kabizi sp1,12.8,28.9,n,a
+312,9,1,Mubanga,Pericopsis angolensis,7.4,15.9,n,a
+192,1,1,Kabesha 1,Terminalia stuhlmannii,14.6,22,n,a
+192,2,1,Kabandule,Kabandule sp1,2.8,11,n,a
+192,3,1,Kabizi,Kabizi sp1,11.4,14.3,n,a
+192,4,1,Mphangala,Dichrostachys cinerea,7.8,10.9,n,a
+192,5,1,Mubanga,Pericopsis angolensis,2.1,17.9,n,a
+192,6,1,Kabizi,Kabizi sp1,13.2,20,n,a
+251,1,1,Kalamafupa,Combretum zeyheri,5.6,8,n,a
+251,2,1,Kalama,Combretum adenogonium,6,9.9,n,a
+251,3,1,Mtowa,Diplorhynchus condylocarpon,5.4,8.5,n,a
+251,4,1,Mtowa,Diplorhynchus condylocarpon,3,6.2,n,a
+251,4,2,Mtowa,Diplorhynchus condylocarpon,NA,7,n,a
+251,5,1,Mpondo,Bauhinia petersiana,4,6.9,n,a
+251,5,2,Mpondo,Bauhinia petersiana,NA,5.6,n,a
+251,6,1,Mopani,Colophosphermum mopane,7,6.2,n,a
+251,6,2,Mopani,Colophosphermum mopane,NA,6.9,n,a
+251,6,3,Mopani,Colophosphermum mopane,NA,11.5,n,a
+251,7,1,Kalamafupa,Combretum zeyheri,4,16.6,n,a
+251,8,1,Mopani,Colophosphermum mopane,6,10,n,a
+251,8,2,Mopani,Colophosphermum mopane,NA,5.5,n,a
+251,9,1,Mopani,Colophosphermum mopane,9.4,12.5,n,a
+251,9,2,Mopani,Colophosphermum mopane,NA,14,n,a
+251,9,3,Mopani,Colophosphermum mopane,NA,16.5,n,a
+251,9,4,Mopani,Colophosphermum mopane,NA,28,n,a
+251,10,1,Mopani,Colophosphermum mopane,11,46.2,n,a
+251,11,1,Mopani,Colophosphermum mopane,5.6,9.2,n,a
+251,12,1,Mpondo,Bauhinia petersiana,2.8,5.2,n,a
+251,13,1,Kaumbu,Lannea discolor,9.4,17.8,n,a
+251,14,1,Mpondo,Bauhinia petersiana,2.6,6,n,a
+251,15,1,Mpondo,Bauhinia petersiana,5.6,6,n,a
+251,16,1,Chiyombo 1,Brachystegia boehmii,13.6,26,n,a
+251,16,2,Chiyombo 1,Brachystegia boehmii,NA,29.5,n,a
+251,17,1,Mukungula,Mukungula sp1,9.2,16.2,n,a
+251,17,2,Mukungula,Mukungula sp1,NA,19,n,a
+251,18,1,Kafifi,Acacia gerrardii,2.8,5,n,a
+251,19,1,Kalama,Combretum adenogonium,5.6,5.5,n,a
+251,20,1,Mpondo,Bauhinia petersiana,5.2,5,n,a
+251,21,1,Kalama,Combretum adenogonium,3.6,8.2,n,a
+251,22,1,Kalama,Combretum adenogonium,3.8,8,n,a
+251,23,1,Mbangozi,Pterocarpus rotundifolius,7.4,10,n,a
+251,24,1,Mpondo,Bauhinia petersiana,4.6,5,n,a
+251,25,1,Chimpakasa,Lonchocarpus capassa,10.6,14,n,a
+251,26,1,Mpondo,Bauhinia petersiana,8,8.5,n,a
+251,26,2,Mpondo,Bauhinia petersiana,NA,5.5,n,a
+251,26,3,Mpondo,Bauhinia petersiana,NA,8,n,a
+251,26,4,Mpondo,Bauhinia petersiana,NA,5.2,n,a
+251,26,5,Mpondo,Bauhinia petersiana,NA,5,n,a
+251,26,6,Mpondo,Bauhinia petersiana,NA,8.5,n,a
+251,27,1,Mbangozi,Pterocarpus rotundifolius,6.8,5,n,a
+251,27,2,Mbangozi,Pterocarpus rotundifolius,NA,9.7,n,a
+251,28,1,Mpondo,Bauhinia petersiana,7.4,12.5,n,a
+251,28,2,Mpondo,Bauhinia petersiana,NA,9.9,n,a
+251,29,1,Mpondo,Bauhinia petersiana,2.8,6,n,a
+251,30,1,Mbangozi,Pterocarpus rotundifolius,11.8,21.3,n,a
+251,31,1,Mpondo,Bauhinia petersiana,5.2,5,n,a
+251,32,1,Kaumbu,Lannea discolor,11.2,22.2,n,a
+251,33,1,Mbangozi,Pterocarpus rotundifolius,10.8,9.9,n,a
+251,33,2,Mbangozi,Pterocarpus rotundifolius,NA,12,n,a
+251,34,1,Chiyombo 1,Brachystegia boehmii,7.2,6.9,n,a
+251,35,1,Mtowa,Diplorhynchus condylocarpon,5.6,5.5,n,a
+251,36,1,Kalama,Combretum adenogonium,5.8,6.9,n,a
+251,37,1,Mbangozi,Pterocarpus rotundifolius,7.6,7.5,n,a
+251,38,1,Kamemena,Jasminum fluminense,7.4,12.5,n,a
+251,38,2,Kamemena,Jasminum fluminense,NA,12.9,n,a
+251,39,1,Mopani,Colophosphermum mopane,7.6,10.5,n,a
+251,40,1,Mopani,Colophosphermum mopane,7.6,9.5,n,a
+251,41,1,Mopani,Colophosphermum mopane,5.6,10.5,n,a
+251,41,2,Mopani,Colophosphermum mopane,NA,9.4,n,a
+251,41,3,Mopani,Colophosphermum mopane,NA,6.2,n,a
+251,42,1,Mopani,Colophosphermum mopane,5.4,5.5,n,a
+250,1,1,Mugulo,Diospyros kirkii,2.6,4.9,n,a
+250,2,1,Chiyombo 2,Brachystegia utilis,9.6,13.1,n,a
+250,2,2,Chiyombo 2,Brachystegia utilis,NA,8.5,n,a
+250,2,3,Chiyombo 2,Brachystegia utilis,NA,23,n,a
+250,3,1,Chiyombo 1,Brachystegia boehmii,10,16.5,n,a
+250,3,2,Chiyombo 1,Brachystegia boehmii,NA,16.4,n,a
+250,4,1,Kamponi,Julbernardia globiflora,10,6.8,n,a
+250,4,2,Kamponi,Julbernardia globiflora,NA,5.7,n,a
+250,6,1,Luvungwe,Dalbergia nitidula,5.6,9.7,n,a
+250,6,2,Luvungwe,Dalbergia nitidula,NA,6.1,n,a
+250,6,3,Luvungwe,Dalbergia nitidula,NA,6.3,n,a
+250,7,1,Lwanhko,Lwankho sp1,5.2,4.8,n,a
+250,8,1,Kabesha 2,Terminalia sericea,8,8.5,n,a
+250,9,1,Kamponi,Julbernardia globiflora,8.2,9,n,a
+250,10,1,Kalama,Combretum adenogonium,5.4,5,n,a
+250,11,1,Kafifi,Acacia gerrardii,6,5.9,n,a
+250,12,1,Kamponi,Julbernardia globiflora,12.6,18.9,n,a
+250,12,2,Kamponi,Julbernardia globiflora,NA,14.8,n,a
+250,13,1,Mopani,Colophosphermum mopane,8.2,12.8,n,a
+250,13,2,Mopani,Colophosphermum mopane,NA,9.8,n,a
+250,14,1,Kamponi,Julbernardia globiflora,9.2,9.9,n,a
+250,15,1,Mopani,Colophosphermum mopane,9,14.4,n,a
+250,16,1,Kaumbu,Lannea discolor,3.4,4.9,n,a
+250,17,1,Kamponi,Julbernardia globiflora,5.2,7.3,n,a
+250,18,1,Chiyombo 1,Brachystegia boehmii,5.4,8.1,n,a
+250,19,1,Kaumbu,Lannea discolor,5.8,10,n,a
+250,19,2,Kaumbu,Lannea discolor,NA,9,n,a
+250,20,1,Kamponi,Julbernardia globiflora,10,13.1,n,a
+250,21,1,Kamponi,Julbernardia globiflora,8,9.9,n,a
+250,22,1,Mbangozi,Pterocarpus rotundifolius,5.2,8.7,n,a
+250,23,1,Mbangozi,Pterocarpus rotundifolius,5,6.5,n,a
+250,24,1,Mbangozi,Pterocarpus rotundifolius,7.2,13.5,n,a
+250,25,1,Mpondo,Bauhinia petersiana,3.6,4.6,n,a
+250,26,1,Chiyombo 2,Brachystegia utilis,5.2,5.9,n,a
+250,27,1,Kamponi,Julbernardia globiflora,7.2,12.5,n,a
+250,27,2,Kamponi,Julbernardia globiflora,NA,11.2,n,a
+250,28,1,Mtowa,Diplorhynchus condylocarpon,6.4,16.4,n,a
+250,29,1,Kamponi,Julbernardia globiflora,8,8.9,n,a
+250,30,1,Chimpakasa,Lonchocarpus capassa,5.4,8.3,n,a
+250,31,1,Kamponi,Julbernardia globiflora,8,8.9,n,a
+250,32,1,Luvungwe,Dalbergia nitidula,6,6.9,n,a
+250,32,2,Luvungwe,Dalbergia nitidula,NA,12.5,n,a
+250,33,1,Chiyombo 2,Brachystegia utilis,11,36.4,n,a
+250,33,2,Chiyombo 2,Brachystegia utilis,NA,17,n,a
+250,34,1,Chiyombo 2,Brachystegia utilis,6.8,12,n,a
+250,35,1,Mtowa,Diplorhynchus condylocarpon,2.4,5,n,a
+281,1,1,Mukalakate,Monotes glaber,8,8.2,n,a
+281,2,1,Changwe,Xylopia odoratissima,8,5.7,n,a
+281,3,1,Kamponi,Julbernardia globiflora,7.8,5.8,n,a
+281,4,1,Msolo,Pseudolachnostylis maprouneifolia,5.8,11.6,n,a
+281,5,1,Chiyombo 2,Brachystegia utilis,10.6,15.1,n,a
+281,5,2,Chiyombo 2,Brachystegia utilis,NA,15.7,n,a
+281,6,1,Msolo,Pseudolachnostylis maprouneifolia,7.4,7,n,a
+281,7,1,Chiyombo 2,Brachystegia utilis,8.4,16.8,n,a
+281,7,2,Chiyombo 2,Brachystegia utilis,NA,9.9,n,a
+281,8,1,Mugulo,Diospyros kirkii,4.8,6.5,n,a
+281,8,2,Mugulo,Diospyros kirkii,NA,6.9,n,a
+281,8,3,Mugulo,Diospyros kirkii,NA,7.8,n,a
+281,9,1,Kamponi,Julbernardia globiflora,10.6,19,n,a
+281,10,1,Kamponi,Julbernardia globiflora,7,14.5,n,a
+281,11,1,Chiyombo 2,Brachystegia utilis,5.6,11.1,n,a
+281,11,2,Chiyombo 2,Brachystegia utilis,NA,8.5,n,a
+281,12,1,Kamemena,Jasminum fluminense,2.8,6.1,n,a
+281,13,1,Mukalakate,Monotes glaber,3,5.7,n,a
+281,14,1,Kamponi,Julbernardia globiflora,5.2,5.6,n,a
+281,15,1,Kamponi,Julbernardia globiflora,7.4,7,n,a
+281,16,1,Kamponi,Julbernardia globiflora,7.2,7.4,n,a
+281,17,1,Kamponi,Julbernardia globiflora,5.2,4.5,n,a
+281,18,1,Kaumbu,Lannea discolor,4.6,6.4,n,a
+281,19,1,Mukalakate,Monotes glaber,4.6,4.5,n,a
+281,19,2,Mukalakate,Monotes glaber,NA,8,n,a
+281,20,1,Kamponi,Julbernardia globiflora,9,11,n,a
+281,21,1,Msolo,Pseudolachnostylis maprouneifolia,4.6,7.7,n,a
+281,22,1,Kamponi,Julbernardia globiflora,8.8,15,n,a
+281,23,1,Chiyombo 2,Brachystegia utilis,7.2,17.5,n,a
+281,23,2,Chiyombo 2,Brachystegia utilis,NA,16.6,n,a
+281,24,1,Kaumbu,Lannea discolor,4.4,7,n,a
+281,25,1,Kamponi,Julbernardia globiflora,10,13.5,n,a
+281,26,1,Kamponi,Julbernardia globiflora,5.2,7.1,n,a
+281,27,1,Kamponi,Julbernardia globiflora,5.8,5,n,a
+281,28,1,Kamponi,Julbernardia globiflora,5.4,4.5,n,a
+281,29,1,Mukalakate,Monotes glaber,3.4,4.6,n,a
+281,30,1,Kamponi,Julbernardia globiflora,9.2,15.2,n,a
+281,31,1,Kamponi,Julbernardia globiflora,7.4,6.6,n,a
+281,32,1,Mugulo,Diospyros kirkii,7.6,13.7,n,a
+281,33,1,Kamponi,Julbernardia globiflora,11.8,18.1,n,a
+281,34,1,Mugulo,Diospyros kirkii,4.8,11.3,n,a
+281,35,1,Mukalakate,Monotes glaber,5.2,9.4,n,a
+281,36,1,Kamponi,Julbernardia globiflora,6.2,5.8,n,a
+281,37,1,Kamponi,Julbernardia globiflora,7,5,n,a
+281,38,1,Phululu,Phululu sp1,5.4,6.9,n,a
+281,39,1,Kaumbu,Lannea discolor,4.4,5.2,n,a
+281,40,1,Kamponi,Julbernardia globiflora,8,7,n,a
+281,41,1,Kamponi,Julbernardia globiflora,7.6,8.9,n,a
+281,42,1,Kamponi,Julbernardia globiflora,10,20.9,n,a
+281,43,1,Chiyombo 2,Brachystegia utilis,7.8,16.1,n,a
+281,43,2,Chiyombo 2,Brachystegia utilis,NA,13.1,n,a
+281,43,3,Chiyombo 2,Brachystegia utilis,NA,8.9,n,a
+257,1,1,Kalamafupa,Combretum zeyheri,4.2,7.7,n,a
+257,2,1,Mugulo,Diospyros kirkii,6.6,15.7,n,a
+257,3,1,Mugulo,Diospyros kirkii,7,13.2,n,a
+257,4,1,Chiyombo 2,Brachystegia utilis,6.4,9.5,n,a
+257,4,2,Chiyombo 2,Brachystegia utilis,NA,10.5,n,a
+257,5,1,Lwanhko,Lwankho sp1,4,5.2,n,a
+257,6,1,Chiyombo 2,Brachystegia utilis,8,15.2,n,a
+257,6,2,Chiyombo 2,Brachystegia utilis,NA,22.7,n,a
+257,6,3,Chiyombo 2,Brachystegia utilis,NA,15.8,n,a
+257,7,1,Mtowa,Diplorhynchus condylocarpon,5,9.5,n,a
+257,8,1,Kaumbu,Lannea discolor,3.6,6,n,a
+257,9,1,Kalama,Combretum adenogonium,4.2,6.5,n,a
+257,10,1,Gobogobo,Crosspteryx febrijuga,3.7,5,n,a
+257,10,2,Gobogobo,Crosspteryx febrijuga,NA,4.5,n,a
+257,11,1,Chiyombo 1,Brachystegia boehmii,6.6,10.4,n,a
+257,11,2,Chiyombo 1,Brachystegia boehmii,NA,14.5,n,a
+257,11,3,Chiyombo 1,Brachystegia boehmii,NA,14,n,a
+257,11,4,Chiyombo 1,Brachystegia boehmii,NA,11.9,n,a
+257,11,5,Chiyombo 1,Brachystegia boehmii,NA,11,n,a
+257,11,6,Chiyombo 1,Brachystegia boehmii,NA,13.2,n,a
+257,11,7,Chiyombo 1,Brachystegia boehmii,NA,14,n,a
+257,12,1,Msolo,Pseudolachnostylis maprouneifolia,5.4,14.2,n,a
+257,12,2,Msolo,Pseudolachnostylis maprouneifolia,NA,9.9,n,a
+257,13,1,Mugulo,Diospyros kirkii,3.8,8,n,a
+257,14,1,Mugulo,Diospyros kirkii,7.2,12,n,a
+257,14,2,Mugulo,Diospyros kirkii,NA,21.5,n,a
+257,14,3,Mugulo,Diospyros kirkii,NA,13.5,n,a
+257,15,1,Chiyombo 1,Brachystegia boehmii,3.4,5.5,n,a
+257,16,1,Kalama,Combretum adenogonium,6.6,14.5,n,a
+257,17,1,Kaumbu,Lannea discolor,5.4,11,n,a
+257,18,1,Chiyombo 1,Brachystegia boehmii,6.3,20.5,n,a
+257,18,2,Chiyombo 1,Brachystegia boehmii,NA,18.2,n,a
+257,18,3,Chiyombo 1,Brachystegia boehmii,NA,18,n,a
+257,19,1,Mtowa,Diplorhynchus condylocarpon,4.6,5.2,n,a
+257,19,2,Mtowa,Diplorhynchus condylocarpon,NA,6.5,n,a
+257,19,3,Mtowa,Diplorhynchus condylocarpon,NA,7.5,n,a
+257,20,1,Chitongolosi,Peltophorum africanum,5.4,7.2,n,a
+257,20,2,Chitongolosi,Peltophorum africanum,NA,7.7,n,a
+257,20,3,Chitongolosi,Peltophorum africanum,NA,5.8,n,a
+257,21,1,Wabona,Wabona sp1,3.6,8,n,a
+257,21,2,Wabona,Wabona sp1,NA,5,n,a
+376,1,1,Mugulo,Diospyros kirkii,5.4,12,n,a
+376,1,2,Mugulo,Diospyros kirkii,NA,13.5,n,a
+376,1,3,Mugulo,Diospyros kirkii,NA,7.4,n,a
+376,1,4,Mugulo,Diospyros kirkii,NA,5.2,n,a
+376,2,1,Kabesha 1,Terminalia stuhlmannii,2.8,5.5,n,a
+376,3,1,Kamponi,Julbernardia globiflora,9.6,13,n,a
+376,4,1,Kamponi,Julbernardia globiflora,9,7.8,n,a
+376,5,1,Chiyombo 1,Brachystegia boehmii,7.6,13,n,a
+376,6,1,Chiyombo 1,Brachystegia boehmii,8.2,23,n,a
+376,7,1,Chiyombo 1,Brachystegia boehmii,5.4,11,n,a
+376,7,2,Chiyombo 1,Brachystegia boehmii,NA,7.8,n,a
+376,7,3,Chiyombo 1,Brachystegia boehmii,NA,14.5,n,a
+376,8,1,Kamponi,Julbernardia globiflora,5,5.9,n,a
+376,9,1,Mugulo,Diospyros kirkii,7.2,11.8,n,a
+376,10,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,6.5,n,a
+376,11,1,Kamponi,Julbernardia globiflora,6,15.7,n,a
+376,12,1,Kamponi,Julbernardia globiflora,10,13.3,n,a
+376,13,1,Kamponi,Julbernardia globiflora,5,5.7,n,a
+376,14,1,Kamponi,Julbernardia globiflora,2,6,n,a
+376,15,1,Chiyombo 2,Brachystegia utilis,11,15,n,a
+376,15,2,Chiyombo 2,Brachystegia utilis,NA,19.1,n,a
+376,15,3,Chiyombo 2,Brachystegia utilis,NA,12.5,n,a
+376,16,1,Mugulo,Diospyros kirkii,3.6,6,n,a
+376,17,1,Kamponi,Julbernardia globiflora,5.8,9.2,n,a
+376,17,2,Kamponi,Julbernardia globiflora,NA,5.2,n,a
+376,17,3,Kamponi,Julbernardia globiflora,NA,6.1,n,a
+376,18,1,Kamponi,Julbernardia globiflora,6,5.1,n,a
+376,19,1,Kaumbu,Lannea discolor,2.8,5.5,n,a
+376,20,1,Kamponi,Julbernardia globiflora,2.4,6.5,n,a
+376,21,1,Mukalakate,Monotes glaber,4.6,14.9,n,a
+376,22,1,Mugulo,Diospyros kirkii,7,9.5,n,a
+376,23,1,Kabesha 1,Terminalia stuhlmannii,4.4,5.9,n,a
+376,24,1,nthuzya,Flacourtia indica,3.6,5.7,n,a
+376,25,1,Chiyombo 2,Brachystegia utilis,11.6,26,n,a
+376,25,2,Chiyombo 2,Brachystegia utilis,NA,11.3,n,a
+376,25,3,Chiyombo 2,Brachystegia utilis,NA,18.2,n,a
+376,26,1,Kamponi,Julbernardia globiflora,10,11.8,n,a
+376,27,1,Mugulo,Diospyros kirkii,6.4,9.1,n,a
+376,27,2,Mugulo,Diospyros kirkii,NA,10.3,n,a
+376,28,1,Kamponi,Julbernardia globiflora,8,7.3,n,a
+376,29,1,Kamponi,Julbernardia globiflora,7,16.8,n,a
+376,30,1,Mukalakate,Monotes glaber,7,11.2,n,a
+376,31,1,Kamponi,Julbernardia globiflora,8,15.4,n,a
+286,1,1,Chiyombo 2,Brachystegia utilis,7.4,11.9,n,a
+286,1,2,Chiyombo 2,Brachystegia utilis,NA,13.9,n,a
+286,2,1,Mugulo,Diospyros kirkii,5.4,13.2,n,a
+286,3,1,Msolo,Pseudolachnostylis maprouneifolia,5.4,11,n,a
+286,3,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12,n,a
+286,4,1,Mtowa,Diplorhynchus condylocarpon,4.5,5.2,n,a
+286,5,1,Kalama,Combretum adenogonium,3.8,5,n,a
+286,6,1,Mtowa,Diplorhynchus condylocarpon,3.5,9.7,n,a
+286,7,1,Chiyombo 1,Brachystegia boehmii,5.5,12.7,n,a
+286,7,2,Chiyombo 1,Brachystegia boehmii,NA,8.5,n,a
+286,7,3,Chiyombo 1,Brachystegia boehmii,NA,7.5,n,a
+286,8,1,Kamponi,Julbernardia globiflora,3.4,5,n,a
+286,9,1,Lwanhko,Lwankho sp1,5.3,9.1,n,a
+286,10,1,Chiyombo 2,Brachystegia utilis,3.3,7.5,n,a
+286,10,2,Chiyombo 2,Brachystegia utilis,NA,8.2,n,a
+286,10,3,Chiyombo 2,Brachystegia utilis,NA,5.5,n,a
+286,10,4,Chiyombo 2,Brachystegia utilis,NA,7.5,n,a
+286,10,5,Chiyombo 2,Brachystegia utilis,NA,6,n,a
+286,11,1,Chiyombo 2,Brachystegia utilis,5,7.2,n,a
+286,11,2,Chiyombo 2,Brachystegia utilis,NA,10.1,n,a
+286,11,3,Chiyombo 2,Brachystegia utilis,NA,10,n,a
+286,12,1,Mtowa,Diplorhynchus condylocarpon,3.8,5.6,n,a
+286,13,1,Mugulo,Diospyros kirkii,9,24.7,n,a
+286,14,1,Chiyombo 1,Brachystegia boehmii,2.2,5.1,n,a
+286,14,2,Chiyombo 1,Brachystegia boehmii,NA,5.5,n,a
+286,15,1,Lwanhko,Lwankho sp1,8.5,11.4,n,a
+286,16,1,Chiyombo 2,Brachystegia utilis,9,15.6,n,a
+286,17,1,Chiyombo 2,Brachystegia utilis,4.8,11,n,a
+286,18,1,Luvungwe,Dalbergia nitidula,5.2,6.4,n,a
+286,19,1,Chiyombo 2,Brachystegia utilis,8.6,3.3,n,a
+286,19,2,Chiyombo 2,Brachystegia utilis,NA,13.8,n,a
+286,20,1,Kambulunje,Kambulunje sp1,3.6,8,n,a
+286,21,1,Mtowa,Diplorhynchus condylocarpon,5.6,10,n,a
+286,22,1,Kamponi,Julbernardia globiflora,8.8,16,n,a
+286,23,1,Msolo,Pseudolachnostylis maprouneifolia,7,11.9,n,a
+286,23,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12,n,a
+286,24,1,Mugulo,Diospyros kirkii,3.8,8.5,n,a
+286,25,1,Musumbu,Brachystegia allenii,15.2,41.9,n,a
+1038,1,1,Kalama,Combretum adenogonium,5,7.3,n,a
+1038,2,1,Mukungula,Mukungula sp1,11,20,n,a
+1038,2,2,Mukungula,Mukungula sp1,NA,9.1,n,a
+1038,3,1,Mulombe,Pterocarpus angolensis,5,7.3,n,a
+1038,4,1,Chitimbe,Piliostigma thonningi,4.8,11.3,n,a
+1038,5,1,Chitimbe,Piliostigma thonningi,16.2,32,n,a
+1038,6,1,Chimwamulusu,Ozoroa reticulata,3.6,10.3,n,a
+1038,6,2,Chimwamulusu,Ozoroa reticulata,NA,8.1,n,a
+1038,6,3,Chimwamulusu,Ozoroa reticulata,NA,10.4,n,a
+1038,6,4,Chimwamulusu,Ozoroa reticulata,NA,5.6,n,a
+1038,6,5,Chimwamulusu,Ozoroa reticulata,NA,7.1,n,a
+1038,6,6,Chimwamulusu,Ozoroa reticulata,NA,14.8,n,a
+1038,7,1,Chimwamulusu,Ozoroa reticulata,3.6,7.5,n,a
+1038,7,2,Chimwamulusu,Ozoroa reticulata,NA,6.4,n,a
+1038,8,1,Chimwamulusu,Ozoroa reticulata,4.6,14.3,n,a
+1038,8,2,Chimwamulusu,Ozoroa reticulata,NA,7.1,n,a
+1038,9,1,Musebe,Sclerocarya caffra,7.6,12.4,n,a
+1038,9,2,Musebe,Sclerocarya caffra,NA,18.9,n,a
+1038,10,1,Musebe,Sclerocarya caffra,5.2,12.5,n,a
+1038,11,1,Musebe,Sclerocarya caffra,3.6,5.6,n,a
+1038,12,1,Chimwamulusu,Ozoroa reticulata,4.6,8.6,n,a
+1038,12,2,Chimwamulusu,Ozoroa reticulata,NA,11.3,n,a
+1038,12,3,Chimwamulusu,Ozoroa reticulata,NA,7,n,a
+1038,12,4,Chimwamulusu,Ozoroa reticulata,NA,6.2,n,a
+1038,12,5,Chimwamulusu,Ozoroa reticulata,NA,5.5,n,a
+1038,12,6,Chimwamulusu,Ozoroa reticulata,NA,10.5,n,a
+1038,13,1,Chimwamulusu,Ozoroa reticulata,6.2,14.6,n,a
+1038,13,2,Chimwamulusu,Ozoroa reticulata,NA,14.8,n,a
+1038,13,3,Chimwamulusu,Ozoroa reticulata,NA,12.5,n,a
+1038,14,1,Chimwamulusu,Ozoroa reticulata,5.2,15.8,n,a
+1038,15,1,Chimwamulusu,Ozoroa reticulata,4.4,9.5,n,a
+1038,15,2,Chimwamulusu,Ozoroa reticulata,NA,6.2,n,a
+1038,16,1,Kabesha 1,Terminalia stuhlmannii,8.6,17.2,n,a
+1038,17,1,Kalama musweta,Combretum collinum,6.6,12.3,n,a
+1038,18,1,Kalama,Combretum adenogonium,5.4,9,n,a
+1038,19,1,Kalama musweta,Combretum collinum,8.4,18.4,n,a
+1038,20,1,Kalama,Combretum adenogonium,3.4,9,n,a
+1038,21,1,Kalama musweta,Combretum collinum,5,7,n,a
+1038,22,1,Mubanga,Pericopsis angolensis,8.6,21.3,n,a
+1038,23,1,Kalama,Combretum adenogonium,3.4,5.1,n,a
+1038,24,1,Kalama,Combretum adenogonium,7.6,12.6,n,a
+1038,25,1,Chitimbe,Piliostigma thonningi,6,12.7,n,a
+1038,26,1,Musebe,Sclerocarya caffra,11.8,28,n,a
+1038,26,2,Musebe,Sclerocarya caffra,NA,23,n,a
+1038,27,1,Mungautuba,Acacia sieberana,10.2,23.2,n,a
+1038,28,1,Chitimbe,Piliostigma thonningi,7.8,16.2,n,a
+1038,29,1,Kalama,Combretum adenogonium,5.6,10.6,n,a
+1038,29,2,Kalama,Combretum adenogonium,NA,11.9,n,a
+1038,30,1,Kalama,Combretum adenogonium,2.8,8.5,n,a
+1038,31,1,Mukungula,Mukungula sp1,6.2,7.5,n,a
+1038,31,2,Mukungula,Mukungula sp1,NA,8.6,n,a
+1038,31,3,Mukungula,Mukungula sp1,NA,8,n,a
+1038,32,1,Kalama,Combretum adenogonium,9.6,14,n,a
+1038,32,2,Kalama,Combretum adenogonium,NA,10,n,a
+1038,32,3,Kalama,Combretum adenogonium,NA,11.5,n,a
+1038,32,4,Kalama,Combretum adenogonium,NA,17.5,n,a
+1038,33,1,Kalama,Combretum adenogonium,8.8,19.4,n,a
+1038,34,1,Kalama,Combretum adenogonium,4,7.4,n,a
+1038,34,2,Kalama,Combretum adenogonium,NA,5.2,n,a
+1038,35,1,Kalama,Combretum adenogonium,4.2,7,n,a
+1038,36,1,Kalama,Combretum adenogonium,4.8,11,n,a
+1038,37,1,Mbangozi,Pterocarpus rotundifolius,5.8,8.2,n,a
+1038,38,1,Mbangozi,Pterocarpus rotundifolius,4.6,7,n,a
+1038,39,1,Mukungula,Mukungula sp1,3.4,6.4,n,a
+1038,40,1,Chitondotondo,Xeroderris stuhlmannii,6,10.5,n,a
+1038,40,2,Chitondotondo,Xeroderris stuhlmannii,NA,14.5,n,a
+1038,41,1,Kalama,Combretum adenogonium,4.2,9.4,n,a
+1038,42,1,Kalama,Combretum adenogonium,3.2,6.2,n,a
+2728,1,1,Musumbu,Brachystegia allenii,23,20.3,n,a
+2728,2,1,Chiyombo 1,Brachystegia boehmii,6.6,7.1,n,a
+2728,3,1,Msolo,Pseudolachnostylis maprouneifolia,7,9.5,n,a
+2728,3,2,Msolo,Pseudolachnostylis maprouneifolia,NA,9,n,a
+2728,3,3,Msolo,Pseudolachnostylis maprouneifolia,NA,7,n,a
+2728,3,4,Msolo,Pseudolachnostylis maprouneifolia,NA,10.8,n,a
+2728,4,1,Msangaza,Isoberlinia angolensis,18.2,40.5,n,a
+2728,5,1,Mubanga,Pericopsis angolensis,10,28,n,a
+2728,6,1,Chiyombo 1,Brachystegia boehmii,8.8,8.7,n,a
+2728,7,1,Chiyombo 1,Brachystegia boehmii,9.4,10.2,n,a
+2728,8,1,Chiyombo 1,Brachystegia boehmii,6,6.9,n,a
+2728,9,1,Chiyombo 1,Brachystegia boehmii,9.6,14.7,n,a
+2728,10,1,Mtondo,Julbernardia paniculata,21,29.3,n,a
+2728,11,1,Mugulo,Diospyros kirkii,4.6,12.6,n,a
+2728,12,1,Kamponi,Julbernardia globiflora,16.8,16.6,n,a
+2728,13,1,Mtowa,Diplorhynchus condylocarpon,7,7,n,a
+2728,14,1,Mtowa,Diplorhynchus condylocarpon,7.8,12,n,a
+2728,15,1,Chiyombo 1,Brachystegia boehmii,13.4,22,n,a
+2728,16,1,Mtowa,Diplorhynchus condylocarpon,9,13,n,a
+2728,17,1,Kalamafupa,Combretum zeyheri,15,28.5,n,a
+2728,18,1,Mtondo,Julbernardia paniculata,22.6,31.5,n,a
+481,1,1,Msangaza,Isoberlinia angolensis,12.8,34.6,n,a
+481,2,1,Mtondo,Julbernardia paniculata,21.2,37.5,n,a
+481,3,1,Kaumbu,Lannea discolor,4.4,7.3,n,a
+481,4,1,Msolo,Pseudolachnostylis maprouneifolia,3.8,5.7,n,a
+481,5,1,Msangaza,Isoberlinia angolensis,5,5.6,n,a
+481,6,1,Mtowa,Diplorhynchus condylocarpon,5,5.2,n,a
+481,7,1,Mtowa,Diplorhynchus condylocarpon,5.2,7,n,a
+481,7,2,Mtowa,Diplorhynchus condylocarpon,NA,10,n,a
+481,8,1,Chiyombo 2,Brachystegia utilis,7.8,8.5,n,a
+481,9,1,Kalamafupa,Combretum zeyheri,8.2,11.2,n,a
+481,9,2,Kalamafupa,Combretum zeyheri,NA,7,n,a
+481,10,1,Kabizi,Kabizi sp1,8,9.9,n,a
+481,11,1,Msangaza,Isoberlinia angolensis,5.4,7.2,n,a
+481,12,1,Luvungwe,Dalbergia nitidula,5.2,8.1,n,a
+481,13,1,Mtowa,Diplorhynchus condylocarpon,5.2,7.1,n,a
+481,14,1,Mtondo,Julbernardia paniculata,17.6,36.5,n,a
+481,15,1,Mukalakate,Monotes glaber,4.2,5.7,n,a
+481,16,1,Msangaza,Isoberlinia angolensis,5,7.2,n,a
+481,17,1,Kaumbu,Lannea discolor,5.4,10,n,a
+481,18,1,Kalama,Combretum adenogonium,7.2,9.5,n,a
+481,19,1,Mpondo,Bauhinia petersiana,2.4,5,n,a
+481,20,1,Msangaza,Isoberlinia angolensis,13.2,30.3,n,a
+481,21,1,Mtowa,Diplorhynchus condylocarpon,5.8,5.1,n,a
+481,22,1,Kalama musweta,Combretum collinum,5.6,7,n,a
+481,23,1,Kaumbu,Lannea discolor,6.4,9.8,n,a
+481,24,1,Mukungula,Mukungula sp1,7.6,9.5,n,a
+481,24,2,Mukungula,Mukungula sp1,NA,9.3,n,a
+481,25,1,Kabesha 1,Terminalia stuhlmannii,7.4,8,n,a
+825,1,1,Chagaga,Maprounea africana,5.2,9.5,n,a
+825,1,2,Chagaga,Maprounea africana,NA,8.9,n,a
+825,1,3,Chagaga,Maprounea africana,NA,7.4,n,a
+825,2,1,Saninga,Faurea intermedia,4.8,9.6,n,a
+825,3,1,Sokolwe,Uapaca sp1,6.2,8.8,n,a
+825,4,1,Saninga,Faurea intermedia,1.6,6,n,a
+825,5,1,Mtondo,Julbernardia paniculata,20,57.5,n,a
+825,6,1,Chagaga,Maprounea africana,3.4,6.1,n,a
+825,6,2,Chagaga,Maprounea africana,NA,6.3,n,a
+825,7,1,Musumbu,Brachystegia allenii,20.1,33,n,a
+825,8,1,Chagaga,Maprounea africana,6.8,14.9,n,a
+825,9,1,Mtondo,Julbernardia paniculata,15.4,36,n,a
+825,10,1,Msangaza,Isoberlinia angolensis,10.6,18,n,a
+825,10,2,Msangaza,Isoberlinia angolensis,NA,17.5,n,a
+825,11,1,Chiyombo 2,Brachystegia utilis,5.2,6,n,a
+825,12,1,Chiyombo 2,Brachystegia utilis,20,35.6,n,a
+825,12,2,Chiyombo 2,Brachystegia utilis,NA,41.7,n,a
+825,13,1,Saninga,Faurea intermedia,5,8.6,n,a
+2348,1,1,Mpoviya,Annona senegalensis,3.8,10,n,a
+2348,2,1,Mpoviya,Annona senegalensis,4.2,14,n,a
+2348,3,1,Kankande,Ziziphus abyssinica,5,17,n,a
+2348,3,2,Kankande,Ziziphus abyssinica,NA,6.7,n,a
+2348,4,1,Mpoviya,Annona senegalensis,4.2,10.5,n,a
+2348,5,1,Kabesha 2,Terminalia sericea,4.8,13.6,n,a
+2348,6,1,Kabesha 2,Terminalia sericea,4.2,11.2,n,a
+2348,7,1,Kabesha 2,Terminalia sericea,4.2,8.7,n,a
+2348,7,2,Kabesha 2,Terminalia sericea,NA,6.7,n,a
+2348,7,3,Kabesha 2,Terminalia sericea,NA,6,n,a
+2348,7,4,Kabesha 2,Terminalia sericea,NA,5.5,n,a
+2348,8,1,Spp4,Genus sp4,3.8,6.1,n,a
+2348,9,1,Kabesha 2,Terminalia sericea,4,6.6,n,a
+2348,9,2,Kabesha 2,Terminalia sericea,NA,11.7,n,a
+2348,10,1,Kankande,Ziziphus abyssinica,3.8,7,n,a
+2348,11,1,Kalama,Combretum adenogonium,6.2,13.4,n,a
+2348,12,1,Kabesha 2,Terminalia sericea,5.6,13,n,a
+2348,12,2,Kabesha 2,Terminalia sericea,NA,10.3,n,a
+2348,12,3,Kabesha 2,Terminalia sericea,NA,7.1,n,a
+2348,13,1,Kabesha 2,Terminalia sericea,3.6,6.5,n,a
+2348,14,1,Kabesha 2,Terminalia sericea,5.2,11.2,n,a
+2348,14,2,Kabesha 2,Terminalia sericea,NA,9.1,n,a
+2348,15,1,Kabesha 2,Terminalia sericea,3.4,5.7,n,a
+2348,16,1,Kabesha 2,Terminalia sericea,4.2,10.6,n,a
+2348,16,2,Kabesha 2,Terminalia sericea,NA,12.8,n,a
+2348,16,3,Kabesha 2,Terminalia sericea,NA,5.1,n,a
+1042,1,1,Mpoviya,Annona senegalensis,3,6.4,n,a
+1042,2,1,Mufinsa,Syzygium guineense,8.2,36.4,n,a
+1042,2,2,Mufinsa,Syzygium guineense,NA,8,n,a
+1042,2,3,Mufinsa,Syzygium guineense,NA,6,n,a
+1042,2,4,Mufinsa,Syzygium guineense,NA,13.5,n,a
+1042,2,5,Mufinsa,Syzygium guineense,NA,7.5,n,a
+1042,2,6,Mufinsa,Syzygium guineense,NA,5.5,n,a
+1042,2,7,Mufinsa,Syzygium guineense,NA,6.4,n,a
+1042,3,1,Mufinsa,Syzygium guineense,5.2,8.8,n,a
+1042,3,2,Mufinsa,Syzygium guineense,NA,7.2,n,a
+1042,4,1,Mufinsa,Syzygium guineense,6.2,14.2,n,a
+1042,5,1,Mufinsa,Syzygium guineense,8,14.9,n,a
+1042,5,2,Mufinsa,Syzygium guineense,NA,21.5,n,a
+1042,6,1,Mufinsa,Syzygium guineense,10.6,35.8,n,a
+1042,7,1,Mufinsa,Syzygium guineense,10.1,40,n,a
+1042,7,2,Mufinsa,Syzygium guineense,NA,11.7,n,a
+1042,8,1,Mufinsa,Syzygium guineense,11,21,n,a
+1042,8,2,Mufinsa,Syzygium guineense,NA,13.8,n,a
+1042,8,3,Mufinsa,Syzygium guineense,NA,12.3,n,a
+1042,9,1,Mufinsa,Syzygium guineense,13,5.5,n,a
+1042,9,2,Mufinsa,Syzygium guineense,NA,39.2,n,a
+1042,9,3,Mufinsa,Syzygium guineense,NA,13,n,a
+1042,10,1,Mpoviya,Annona senegalensis,7,7.5,n,a
+1042,10,2,Mpoviya,Annona senegalensis,NA,10.4,n,a
+1042,11,1,Mufinsa,Syzygium guineense,10,19.7,n,a
+1042,11,2,Mufinsa,Syzygium guineense,NA,24,n,a
+1042,11,3,Mufinsa,Syzygium guineense,NA,23,n,a
+1909,1,1,Mukalakate,Monotes glaber,9.6,16.2,n,a
+1909,1,2,Mukalakate,Monotes glaber,NA,11.2,n,a
+1909,2,1,Kamponi,Julbernardia globiflora,9.7,35.2,n,a
+1909,3,1,Musumbu,Brachystegia allenii,5.8,14.6,n,a
+1909,3,2,Musumbu,Brachystegia allenii,NA,9.2,n,a
+1909,4,1,Spp2,Genus sp2,4.4,11.6,n,a
+1909,5,1,Musumbu,Brachystegia allenii,19.6,24.6,n,a
+1909,5,2,Musumbu,Brachystegia allenii,NA,32.1,n,a
+1909,6,1,Luvungwe,Dalbergia nitidula,6.5,8.4,n,a
+1909,6,2,Luvungwe,Dalbergia nitidula,NA,7.1,n,a
+1909,6,3,Luvungwe,Dalbergia nitidula,NA,7,n,a
+1909,6,4,Luvungwe,Dalbergia nitidula,NA,9.1,n,a
+1909,6,5,Luvungwe,Dalbergia nitidula,NA,6,n,a
+1909,7,1,Chiyombo 3,Brachystegia stipulata,3.4,7.9,n,a
+1909,7,2,Chiyombo 3,Brachystegia stipulata,NA,7,n,a
+1909,8,1,Mtowa,Diplorhynchus condylocarpon,5.2,8.5,n,a
+1909,9,1,Kamponi,Julbernardia globiflora,10.8,16.8,n,a
+1909,10,1,Kamponi,Julbernardia globiflora,15.7,18.4,n,a
+1909,10,2,Kamponi,Julbernardia globiflora,NA,28.5,n,a
+1909,11,1,Chiyombo 3,Brachystegia stipulata,2.8,5.7,n,a
+1909,12,1,Kamponi,Julbernardia globiflora,11.8,21.3,n,a
+1909,13,1,Chiyombo 3,Brachystegia stipulata,6.4,11,n,a
+1909,14,1,Kalama musweta,Combretum collinum,2.8,14,n,a
+1909,15,1,Musambafwa,Musambafwa sp1,3.8,7.3,n,a
+1909,16,1,Chiyombo 3,Brachystegia stipulata,5,8.7,n,a
+1909,16,2,Chiyombo 3,Brachystegia stipulata,NA,7.7,n,a
+1909,16,3,Chiyombo 3,Brachystegia stipulata,NA,7.4,n,a
+3207,1,1,Mtowa,Diplorhynchus condylocarpon,4.6,6.5,n,a
+3207,2,1,Kalama musweta,Combretum collinum,6.4,11.1,n,a
+3207,3,1,Mtowa,Diplorhynchus condylocarpon,5.1,6.1,n,a
+3207,4,1,Mtowa,Diplorhynchus condylocarpon,4.4,7,n,a
+3207,4,2,Mtowa,Diplorhynchus condylocarpon,NA,6.1,n,a
+3207,5,1,Musumbu,Brachystegia allenii,21.4,43.8,n,a
+3207,6,1,Musumbu,Brachystegia allenii,15.2,24.4,n,a
+3207,7,1,Chiyombo 1,Brachystegia boehmii,17.4,25.2,n,a
+3207,8,1,Musumbu,Brachystegia allenii,18.2,26.4,n,a
+3207,9,1,Musumbu,Brachystegia allenii,19,26.5,n,a
+3207,10,1,Mulombe,Pterocarpus angolensis,6.2,7.7,n,a
+3207,11,1,Msangaza,Isoberlinia angolensis,5.8,19.5,n,a
+3207,12,1,Msolo,Pseudolachnostylis maprouneifolia,8.6,16.2,n,a
+3207,13,1,Mtowa,Diplorhynchus condylocarpon,9.6,5,n,a
+3207,13,2,Mtowa,Diplorhynchus condylocarpon,NA,6.5,n,a
+3207,13,3,Mtowa,Diplorhynchus condylocarpon,NA,9.5,n,a
+3207,14,1,Kaumbu,Lannea discolor,3.8,5.4,n,a
+3207,15,1,Kabesha 2,Terminalia sericea,9.6,11.3,n,a
+1540,1,1,Spp2,Genus sp2,4.8,9.2,n,a
+1540,1,2,Spp2,Genus sp2,NA,6.8,n,a
+1540,2,1,Mufinsa,Syzygium guineense,4,5,n,a
+1540,3,1,Musasa,Boscia angustifolia,4.2,8.6,n,a
+1540,4,1,Mtowa,Diplorhynchus condylocarpon,7,6.4,n,a
+1540,4,2,Mtowa,Diplorhynchus condylocarpon,NA,5,n,a
+1540,4,3,Mtowa,Diplorhynchus condylocarpon,NA,16,n,a
+1540,5,1,Msolo,Pseudolachnostylis maprouneifolia,7.1,9.4,n,a
+1540,5,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12.8,n,a
+1540,5,3,Msolo,Pseudolachnostylis maprouneifolia,NA,12.2,n,a
+1540,6,1,Musumbu,Brachystegia allenii,20.7,48,n,a
+1540,7,1,Musumbu,Brachystegia allenii,20.4,15.9,n,a
+1540,7,2,Musumbu,Brachystegia allenii,NA,34.5,n,a
+1540,8,1,Musumbu,Brachystegia allenii,13.6,23.6,n,a
+1540,9,1,Msangaza,Isoberlinia angolensis,6.8,14.2,n,a
+1540,9,2,Msangaza,Isoberlinia angolensis,NA,9.9,n,a
+1540,10,1,Kaumbu,Lannea discolor,3.6,6.8,n,a
+1540,11,1,Mtowa,Diplorhynchus condylocarpon,5,7.7,n,a
+1540,12,1,Mtowa,Diplorhynchus condylocarpon,4.8,7.7,n,a
+1540,13,1,Musumbu,Brachystegia allenii,16.8,24,n,a
+980,1,1,Mtondo,Julbernardia paniculata,7,7,n,a
+980,2,1,Mtondo,Julbernardia paniculata,5.6,6.1,n,a
+980,3,1,Msolo,Pseudolachnostylis maprouneifolia,10.6,16.1,n,a
+980,3,2,Msolo,Pseudolachnostylis maprouneifolia,NA,18.5,n,a
+980,4,1,Mtondo,Julbernardia paniculata,6,6.4,n,a
+980,5,1,Kaumbu,Lannea discolor,4,5.2,n,a
+980,6,1,Mulombe,Pterocarpus angolensis,9.6,8,n,a
+980,6,2,Mulombe,Pterocarpus angolensis,NA,11,n,a
+980,7,1,Chiyombo 2,Brachystegia utilis,7.6,9.9,n,a
+980,8,1,Mubanga,Pericopsis angolensis,9.6,13,n,a
+980,8,2,Mubanga,Pericopsis angolensis,NA,10.6,n,a
+980,8,3,Mubanga,Pericopsis angolensis,NA,7,n,a
+980,8,4,Mubanga,Pericopsis angolensis,NA,8.5,n,a
+980,8,5,Mubanga,Pericopsis angolensis,NA,21.5,n,a
+980,9,1,Kamemena,Jasminum fluminense,7.8,11.6,n,a
+980,10,1,Mtondo,Julbernardia paniculata,9.2,8.6,n,a
+980,11,1,Chiyombo 2,Brachystegia utilis,6,9.6,n,a
+980,12,1,Chiyombo 2,Brachystegia utilis,6.2,9,n,a
+980,13,1,Kaumbu,Lannea discolor,7,8.8,n,a
+980,13,2,Kaumbu,Lannea discolor,NA,8,n,a
+980,13,3,Kaumbu,Lannea discolor,NA,11.8,n,a
+980,14,1,Kabizi,Kabizi sp1,8.2,9.9,n,a
+980,15,1,Kabizi,Kabizi sp1,8.7,16.2,n,a
+980,16,1,Mtowa,Diplorhynchus condylocarpon,3.2,5.4,n,a
+980,17,1,Mtowa,Diplorhynchus condylocarpon,5.8,7.9,n,a
+980,18,1,Chiyombo 2,Brachystegia utilis,4.8,5.1,n,a
+980,19,1,Mtondo,Julbernardia paniculata,5.2,5.4,n,a
+980,20,1,Kaumbu,Lannea discolor,5.2,9,n,a
+980,21,1,Musumbu,Brachystegia allenii,22.4,61.5,n,a
+980,22,1,Kabizi,Kabizi sp1,9.4,12.2,n,a
+980,23,1,Luvungwe,Dalbergia nitidula,4.4,5.2,n,a
+980,24,1,Chiyombo 2,Brachystegia utilis,8,9.2,n,a
+980,24,2,Chiyombo 2,Brachystegia utilis,NA,7,n,a
+980,24,3,Chiyombo 2,Brachystegia utilis,NA,5.3,n,a
+980,25,1,Kabizi,Kabizi sp1,9.8,16.5,n,a
+3083,1,1,Mungautuba,Acacia sieberana,11.8,37.6,n,a
+3083,2,1,Kalama,Combretum adenogonium,5.4,13.1,n,a
+3083,3,1,Mungautuba,Acacia sieberana,5,10.2,n,a
+3083,4,1,Chitimbe,Piliostigma thonningi,4.5,6.5,n,a
+3083,5,1,Kalama,Combretum adenogonium,5,9,n,a
+3083,6,1,Kalama musweta,Combretum collinum,4.5,6.6,n,a
+3083,7,1,Kalama,Combretum adenogonium,5.4,8.7,n,a
+3083,8,1,Chimwamulusu,Ozoroa reticulata,4.8,12.3,n,a
+3083,9,1,Mpondo,Bauhinia petersiana,5.2,11,n,a
+3083,10,1,Chimwamulusu,Ozoroa reticulata,5.8,6.9,n,a
+3083,10,2,Chimwamulusu,Ozoroa reticulata,NA,14,n,a
+3083,11,1,Chimwamulusu,Ozoroa reticulata,7,12.8,n,a
+3083,11,2,Chimwamulusu,Ozoroa reticulata,NA,12.7,n,a
+3083,12,1,Kalama,Combretum adenogonium,6.6,15,n,a
+3083,13,1,Kalama,Combretum adenogonium,4.2,6.6,n,a
+3083,14,1,Chitimbe,Piliostigma thonningi,5,7,n,a
+3083,15,1,Kalama,Combretum adenogonium,4,5.7,n,a
+3083,16,1,Chimwamulusu,Ozoroa reticulata,5.4,16.4,n,a
+3083,17,1,Chisimbwe,Chisimbwe sp1,4.8,6.3,n,a
+3083,17,2,Chisimbwe,Chisimbwe sp1,NA,6.5,n,a
+3083,17,3,Chisimbwe,Chisimbwe sp1,NA,6.7,n,a
+3083,18,1,Kalama,Combretum adenogonium,9,13,n,a
+3083,19,1,Chimwamulusu,Ozoroa reticulata,5.2,12.1,n,a
+3083,19,2,Chimwamulusu,Ozoroa reticulata,NA,6.5,n,a
+3083,19,3,Chimwamulusu,Ozoroa reticulata,NA,9.9,n,a
+3083,20,1,Mpoviya,Annona senegalensis,8.2,11.8,n,a
+3083,21,1,Chimwamulusu,Ozoroa reticulata,5.2,9.7,n,a
+3083,21,2,Chimwamulusu,Ozoroa reticulata,NA,7,n,a
+3083,22,1,Kalama,Combretum adenogonium,3,5.3,n,a
+3083,23,1,Kabesha 1,Terminalia stuhlmannii,6,14.1,n,a
+3083,24,1,Chiyombo 2,Brachystegia utilis,3,8.5,n,a
+3083,24,2,Chiyombo 2,Brachystegia utilis,NA,7,n,a
+3083,25,1,Chiyombo 2,Brachystegia utilis,8.4,18,n,a
+3083,26,1,Chiyombo 2,Brachystegia utilis,2.1,5,n,a
+3083,27,1,Kalama,Combretum adenogonium,3,6.2,n,a
+3083,28,1,Mulombe,Pterocarpus angolensis,8,6.7,n,a
+3083,29,1,Chiyombo 2,Brachystegia utilis,5,11,n,a
+3083,29,2,Chiyombo 2,Brachystegia utilis,NA,7.6,n,a
+3083,30,1,Kabesha 1,Terminalia stuhlmannii,4,6.2,n,a
+3083,31,1,Chiyombo 2,Brachystegia utilis,4,6.5,n,a
+3083,32,1,Chiyombo 2,Brachystegia utilis,4.6,5.3,n,a
+3083,33,1,Chiyombo 2,Brachystegia utilis,2.8,5.5,n,a
+3083,34,1,Kalama,Combretum adenogonium,7.8,5.8,n,a
+3083,34,2,Kalama,Combretum adenogonium,NA,8.9,n,a
+3083,35,1,Kabesha 1,Terminalia stuhlmannii,6.2,6.8,n,a
+3083,36,1,Chiyombo 2,Brachystegia utilis,4.4,6.2,n,a
+3083,37,1,Kalama,Combretum adenogonium,5.2,6.4,n,a
+3083,38,1,Chiyombo 2,Brachystegia utilis,4.6,8.2,n,a
+3083,39,1,Chiyombo 2,Brachystegia utilis,5.6,10.4,n,a
+3083,40,1,Kaumbu,Lannea discolor,5,6.1,n,a
+3083,41,1,Chiyombo 2,Brachystegia utilis,4.6,13.2,n,a
+3083,41,2,Chiyombo 2,Brachystegia utilis,NA,6.4,n,a
+3083,42,1,Chiyombo 2,Brachystegia utilis,4.8,6,n,a
+3083,43,1,Mugulo,Diospyros kirkii,8.8,16.8,n,a
+3083,43,2,Mugulo,Diospyros kirkii,NA,17.3,n,a
+3083,43,3,Mugulo,Diospyros kirkii,NA,9.3,n,a
+3083,43,4,Mugulo,Diospyros kirkii,NA,14,n,a
+3083,43,5,Mugulo,Diospyros kirkii,NA,16.4,n,a
+3083,44,1,Mpoviya,Annona senegalensis,6.4,8,n,a
+3083,44,2,Mpoviya,Annona senegalensis,NA,6.4,n,a
+3083,45,1,Msolo,Pseudolachnostylis maprouneifolia,6.8,26.2,n,a
+3083,46,1,Chiyombo 1,Brachystegia boehmii,5.8,9.2,n,a
+3083,47,1,Kaumbu,Lannea discolor,3.4,7.1,n,a
+3083,48,1,Chiyombo 2,Brachystegia utilis,3.8,6.8,n,a
+3083,49,1,Chiyombo 2,Brachystegia utilis,3.4,8.5,n,a
+3083,49,2,Chiyombo 2,Brachystegia utilis,NA,6,n,a
+3083,50,1,Chiyombo 2,Brachystegia utilis,3.8,9.6,n,a
+3083,50,2,Chiyombo 2,Brachystegia utilis,NA,7,n,a
+3083,51,1,Chiyombo 2,Brachystegia utilis,6.2,7.4,n,a
+3083,52,1,Chiyombo 2,Brachystegia utilis,4.6,9.1,n,a
+3083,53,1,Kamponi,Julbernardia globiflora,7.8,8.6,n,a
+3083,54,1,Chiyombo 2,Brachystegia utilis,4.2,5.5,n,a
+3083,54,2,Chiyombo 2,Brachystegia utilis,NA,6.3,n,a
+3083,55,1,Chiyombo 2,Brachystegia utilis,8.8,13,n,a
+3083,56,1,Mulumila,Mulumila sp1,1.8,5.2,n,a
+3083,57,1,Kamponi,Julbernardia globiflora,5.6,8.8,n,a
+3083,58,1,Chiyombo 2,Brachystegia utilis,3,9,n,a
+3083,59,1,Chiyombo 2,Brachystegia utilis,4.8,7,n,a
+3083,59,2,Chiyombo 2,Brachystegia utilis,NA,5.2,n,a
+3083,60,1,Chiyombo 2,Brachystegia utilis,6.4,6.2,n,a
+3083,60,2,Chiyombo 2,Brachystegia utilis,NA,7.7,n,a
+3083,60,3,Chiyombo 2,Brachystegia utilis,NA,7.7,n,a
+3083,60,4,Chiyombo 2,Brachystegia utilis,NA,13.4,n,a
+3083,60,5,Chiyombo 2,Brachystegia utilis,NA,12.7,n,a
+3083,61,1,Kabesha 1,Terminalia stuhlmannii,4,6.6,n,a
+3083,62,1,Kabesha 1,Terminalia stuhlmannii,6.2,8.5,n,a
+3083,63,1,Mufinsa,Syzygium guineense,5,7.8,n,a
+1182,1,1,Mufinsa,Syzygium guineense,3.8,8,n,a
+1182,1,2,Mufinsa,Syzygium guineense,NA,7.4,n,a
+1182,2,1,Mufinsa,Syzygium guineense,5.8,17.2,n,a
+1182,2,2,Mufinsa,Syzygium guineense,NA,9.8,n,a
+1182,2,3,Mufinsa,Syzygium guineense,NA,8.3,n,a
+1182,3,1,Mufinsa,Syzygium guineense,4.4,8.2,n,a
+1182,3,2,Mufinsa,Syzygium guineense,NA,6.1,n,a
+1182,4,1,Mufinsa,Syzygium guineense,2.8,5.8,n,a
+1182,5,1,Mufinsa,Syzygium guineense,2.8,5.8,n,a
+1182,6,1,Kabesha 2,Terminalia sericea,8.8,26.4,n,a
+1182,6,2,Kabesha 2,Terminalia sericea,NA,7.2,n,a
+1182,7,1,Mufinsa,Syzygium guineense,5.8,25.7,n,a
+1182,7,2,Mufinsa,Syzygium guineense,NA,8.7,n,a
+1182,8,1,Mufinsa,Syzygium guineense,4.6,5.9,n,a
+1182,8,2,Mufinsa,Syzygium guineense,NA,5.5,n,a
+1182,8,3,Mufinsa,Syzygium guineense,NA,5.1,n,a
+1182,9,1,Mufinsa,Syzygium guineense,4.6,12.4,n,a
+1182,10,1,Mufinsa,Syzygium guineense,13.2,21,n,a
+1182,10,2,Mufinsa,Syzygium guineense,NA,16.7,n,a
+1182,10,3,Mufinsa,Syzygium guineense,NA,8.2,n,a
+1182,10,4,Mufinsa,Syzygium guineense,NA,11.9,n,a
+618,1,1,Chiyombo 3,Brachystegia stipulata,3.4,5.5,n,a
+618,1,2,Chiyombo 3,Brachystegia stipulata,NA,5,n,a
+618,2,1,Chiyombo 3,Brachystegia stipulata,4.6,8.5,n,a
+618,2,2,Chiyombo 3,Brachystegia stipulata,NA,6.5,n,a
+618,3,1,Chiyombo 3,Brachystegia stipulata,5.2,8.6,n,a
+618,3,2,Chiyombo 3,Brachystegia stipulata,NA,8.4,n,a
+618,4,1,Kabesha 1,Terminalia stuhlmannii,6.2,13.2,n,a
+618,4,2,Kabesha 1,Terminalia stuhlmannii,NA,21.3,n,a
+618,5,1,Chiyombo 3,Brachystegia stipulata,3,9,n,a
+618,5,2,Chiyombo 3,Brachystegia stipulata,NA,6.1,n,a
+618,6,1,Chiyombo 3,Brachystegia stipulata,4,11.6,n,a
+618,7,1,Chiyombo 3,Brachystegia stipulata,2.4,5.9,n,a
+618,8,1,Chiyombo 3,Brachystegia stipulata,3.8,12,n,a
+618,9,1,Chiyombo 3,Brachystegia stipulata,4,10.1,n,a
+618,10,1,Chiyombo 3,Brachystegia stipulata,4,9.6,n,a
+618,10,2,Chiyombo 3,Brachystegia stipulata,NA,10.6,n,a
+618,10,3,Chiyombo 3,Brachystegia stipulata,NA,8.2,n,a
+618,10,4,Chiyombo 3,Brachystegia stipulata,NA,12.8,n,a
+618,10,5,Chiyombo 3,Brachystegia stipulata,NA,6.8,n,a
+618,11,1,Kalama,Combretum adenogonium,3.8,6.1,n,a
+618,11,2,Kalama,Combretum adenogonium,NA,5.1,n,a
+618,12,1,Chitimbe,Piliostigma thonningi,3.4,6.3,n,a
+618,13,1,Kankande,Ziziphus abyssinica,3.2,9.3,n,a
+618,14,1,Chiyombo 3,Brachystegia stipulata,3.8,19.2,n,a
+618,15,1,Chiyombo 3,Brachystegia stipulata,3.2,7.9,n,a
+618,15,2,Chiyombo 3,Brachystegia stipulata,NA,11.4,n,a
+618,15,3,Chiyombo 3,Brachystegia stipulata,NA,7.8,n,a
+618,15,4,Chiyombo 3,Brachystegia stipulata,NA,8.4,n,a
+618,16,1,Kalama,Combretum adenogonium,4.4,7.2,n,a
+618,16,2,Kalama,Combretum adenogonium,NA,9,n,a
+618,17,1,Kabesha 1,Terminalia stuhlmannii,2.6,10.2,n,a
+618,18,1,Mugulo,Diospyros kirkii,4.2,12.8,n,a
+618,18,2,Mugulo,Diospyros kirkii,NA,14.4,n,a
+618,18,3,Mugulo,Diospyros kirkii,NA,7.5,n,a
+618,19,1,Mugulo,Diospyros kirkii,3.4,12.3,n,a
+618,20,1,Kalama,Combretum adenogonium,5.2,7,n,a
+618,21,1,Kabesha 1,Terminalia stuhlmannii,3.4,5.2,n,a
+618,22,1,Kalama,Combretum adenogonium,6.2,7.9,n,a
+618,23,1,Chitimbe,Piliostigma thonningi,3,7.1,n,a
+618,23,2,Chitimbe,Piliostigma thonningi,NA,8.9,n,a
+618,23,3,Chitimbe,Piliostigma thonningi,NA,7,n,a
+618,24,1,Mufinsa,Syzygium guineense,4.4,13,n,a
+618,24,2,Mufinsa,Syzygium guineense,NA,5.7,n,a
+618,24,3,Mufinsa,Syzygium guineense,NA,5,n,a
+618,24,4,Mufinsa,Syzygium guineense,NA,8.7,n,a
+618,25,1,Kabesha 1,Terminalia stuhlmannii,4.6,9.9,n,a
+618,25,2,Kabesha 1,Terminalia stuhlmannii,NA,10.1,n,a
+618,26,1,Kalama,Combretum adenogonium,4.8,9.3,n,a
+618,27,1,Mugulo,Diospyros kirkii,4.2,5.8,n,a
+618,28,1,Mtowa,Diplorhynchus condylocarpon,5,6.8,n,a
+618,29,1,Chimwamulusu,Ozoroa reticulata,5,11.2,n,a
+618,30,1,Mukoswe,Cassia abbreviata,5.4,7.4,n,a
+618,31,1,Mugulo,Diospyros kirkii,4.4,7.3,n,a
+618,32,1,Mugulo,Diospyros kirkii,3.2,5,n,a
+618,33,1,Mtowa,Diplorhynchus condylocarpon,4.8,6.1,n,a
+618,34,1,Kabesha 1,Terminalia stuhlmannii,7.2,19.9,n,a
+618,35,1,Kabesha 1,Terminalia stuhlmannii,4,9,n,a
+618,35,2,Kabesha 1,Terminalia stuhlmannii,NA,11.5,n,a
+618,36,1,Mugulo,Diospyros kirkii,6.4,5.2,n,a
+618,36,2,Mugulo,Diospyros kirkii,NA,19.6,n,a
+618,37,1,Mugulo,Diospyros kirkii,4.6,16.8,n,a
+618,38,1,Kankande,Ziziphus abyssinica,3.6,9.6,n,a
+618,39,1,Kalama,Combretum adenogonium,3.6,7.4,n,a
+618,40,1,Chiyombo 1,Brachystegia boehmii,7.6,12.7,n,a
+618,41,1,Kankande,Ziziphus abyssinica,2.2,5.7,n,a
+618,42,1,Chiyombo 2,Brachystegia utilis,2.8,5.7,n,a
+618,43,1,Kalama,Combretum adenogonium,5.2,8.6,n,a
+618,44,1,Kalama,Combretum adenogonium,2.4,5.3,n,a
+618,45,1,Chiyombo 2,Brachystegia utilis,4.2,6.7,n,a
+618,46,1,Kabesha 1,Terminalia stuhlmannii,4.2,7,n,a
+618,47,1,Chiyombo 3,Brachystegia stipulata,7.2,24.3,n,a
+618,47,2,Chiyombo 3,Brachystegia stipulata,NA,5.9,n,a
+618,48,1,Chiyombo 3,Brachystegia stipulata,5.4,12.4,n,a
+618,49,1,Chitimbe,Piliostigma thonningi,4.6,9.4,n,a
+618,50,1,Mugulo,Diospyros kirkii,3.6,5.2,n,a
+618,51,1,Mtowa,Diplorhynchus condylocarpon,7,7.4,n,a
+618,52,1,Mpoviya,Annona senegalensis,2.2,5.3,n,a
+618,53,1,Chiyombo 3,Brachystegia stipulata,2.8,5.6,n,a
+618,54,1,Chiyombo 3,Brachystegia stipulata,4.6,6,n,a
+618,55,1,Mugulo,Diospyros kirkii,5,9.3,n,a
+618,55,2,Mugulo,Diospyros kirkii,NA,10.1,n,a
+618,55,3,Mugulo,Diospyros kirkii,NA,7.3,n,a
+618,55,4,Mugulo,Diospyros kirkii,NA,9.3,n,a
+618,55,5,Mugulo,Diospyros kirkii,NA,6.5,n,a
+618,56,1,Mpoviya,Annona senegalensis,5,9,n,a
+618,57,1,Kabesha 1,Terminalia stuhlmannii,3.2,7,n,a
+618,58,1,Kabesha 1,Terminalia stuhlmannii,4.4,9.4,n,a
+618,59,1,Kabesha 1,Terminalia stuhlmannii,3.2,9.3,n,a
+618,60,1,Kabesha 1,Terminalia stuhlmannii,6.2,14.4,n,a
+618,60,2,Kabesha 1,Terminalia stuhlmannii,NA,14.2,n,a
+618,61,1,Kalama,Combretum adenogonium,5.2,11.4,n,a
+618,62,1,Mugulo,Diospyros kirkii,2.4,5.9,n,a
+618,63,1,Kabesha 1,Terminalia stuhlmannii,5.4,12.9,n,a
+618,64,1,Kabesha 1,Terminalia stuhlmannii,2.8,6.8,n,a
+618,65,1,Chiyombo 1,Brachystegia boehmii,4.2,7.8,n,a
+618,66,1,Kabesha 1,Terminalia stuhlmannii,2,6.2,n,a
+618,67,1,Mufinsa,Syzygium guineense,5.2,12.3,n,a
+618,67,2,Mufinsa,Syzygium guineense,NA,10.5,n,a
+618,68,1,Msolo,Pseudolachnostylis maprouneifolia,2,5,n,a
+618,69,1,Msolo,Pseudolachnostylis maprouneifolia,6,16.8,n,a
+618,70,1,Chiyombo 3,Brachystegia stipulata,5.6,30.1,n,a
+908,1,1,Chisimbwe,Chisimbwe sp1,6,9.2,n,a
+908,2,1,Musumbu,Brachystegia allenii,14.8,22.2,n,a
+908,2,2,Musumbu,Brachystegia allenii,NA,24.8,n,a
+908,3,1,Mtowa,Diplorhynchus condylocarpon,12,15.8,n,a
+908,3,2,Mtowa,Diplorhynchus condylocarpon,NA,5.8,n,a
+908,4,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,5.2,n,a
+908,4,2,Msolo,Pseudolachnostylis maprouneifolia,NA,6.8,n,a
+908,5,1,Mtondo,Julbernardia paniculata,14.4,30.9,n,a
+908,6,1,Musumbu,Brachystegia allenii,11.6,27.5,n,a
+908,7,1,Chagaga,Maprounea africana,12.4,12.7,n,a
+908,7,2,Chagaga,Maprounea africana,NA,17.7,n,a
+908,7,3,Chagaga,Maprounea africana,NA,20.6,n,a
+908,7,4,Chagaga,Maprounea africana,NA,11.7,n,a
+908,7,5,Chagaga,Maprounea africana,NA,14.9,n,a
+908,8,1,Musumbu,Brachystegia allenii,14.2,17.4,n,a
+2518,1,1,Kabesha 2,Terminalia sericea,4.8,9.4,n,a
+2518,1,2,Kabesha 2,Terminalia sericea,NA,12.4,n,a
+2518,2,1,Chagaga,Maprounea africana,5.2,8,n,a
+2518,2,2,Chagaga,Maprounea africana,NA,7.8,n,a
+2518,2,3,Chagaga,Maprounea africana,NA,9.9,n,a
+2518,2,4,Chagaga,Maprounea africana,NA,7.9,n,a
+2518,2,5,Chagaga,Maprounea africana,NA,12.8,n,a
+2518,2,6,Chagaga,Maprounea africana,NA,13.6,n,a
+2518,2,7,Chagaga,Maprounea africana,NA,13.4,n,a
+2518,3,1,Bateko,Bateko sp1,6.2,20.9,n,a
+2518,4,1,Chiyombo 2,Brachystegia utilis,5,12.4,n,a
+2518,4,2,Chiyombo 2,Brachystegia utilis,NA,7.8,n,a
+2518,5,1,Kabesha 2,Terminalia sericea,3.8,6,n,a
+2518,6,1,Mpundu,Parinari curatellifolia,4.2,12.8,n,a
+2518,7,1,Mpundu,Parinari curatellifolia,3.8,16.2,n,a
+2518,7,2,Mpundu,Parinari curatellifolia,NA,8.1,n,a
+2518,7,3,Mpundu,Parinari curatellifolia,NA,13,n,a
+2518,8,1,Mpundu,Parinari curatellifolia,3,13,n,a
+2518,9,1,Mpundu,Parinari curatellifolia,2.6,6.5,n,a
+2518,10,1,Mpundu,Parinari curatellifolia,3,12.7,n,a
+2518,10,2,Mpundu,Parinari curatellifolia,NA,8.8,n,a
+2518,11,1,Mpundu,Parinari curatellifolia,5.8,14.2,n,a
+2518,11,2,Mpundu,Parinari curatellifolia,NA,13.2,n,a
+2518,11,3,Mpundu,Parinari curatellifolia,NA,20.2,n,a
+2518,12,1,Musafwa,Syzygium gerrardii,3.6,6.5,n,a
+2518,12,2,Musafwa,Syzygium gerrardii,NA,5.4,n,a
+2518,12,3,Musafwa,Syzygium gerrardii,NA,6,n,a
+2518,12,4,Musafwa,Syzygium gerrardii,NA,5.5,n,a
+2518,13,1,Mpyoka,Hymenocardia acida,3.8,11.5,n,a
+2518,14,1,Kalamafupa,Combretum zeyheri,3,5.5,n,a
+2518,15,1,Kabesha 2,Terminalia sericea,8,23.5,n,a
+2518,16,1,Mpyoka,Hymenocardia acida,3.6,9.6,n,a
+2518,16,2,Mpyoka,Hymenocardia acida,NA,8.2,n,a
+2518,16,3,Mpyoka,Hymenocardia acida,NA,6,n,a
+2518,17,1,Kalamafupa,Combretum zeyheri,6,15,n,a
+2518,18,1,Mpyoka,Hymenocardia acida,3.6,6.6,n,a
+2518,18,2,Mpyoka,Hymenocardia acida,NA,8.4,n,a
+2518,19,1,Mpundu,Parinari curatellifolia,4.2,17.6,n,a
+2518,20,1,Kabesha 2,Terminalia sericea,4.6,11.5,n,a
+2518,21,1,Mpundu,Parinari curatellifolia,3.8,11.5,n,a
+2518,22,1,Mpundu,Parinari curatellifolia,3.6,9.3,n,a
+2518,22,2,Mpundu,Parinari curatellifolia,NA,7.8,n,a
+2518,23,1,Msolo,Pseudolachnostylis maprouneifolia,5,15.2,n,a
+2518,23,2,Msolo,Pseudolachnostylis maprouneifolia,NA,6.4,n,a
+2518,24,1,Chiyombo 3,Brachystegia stipulata,5.2,7.1,n,a
+2518,25,1,Mpyoka,Hymenocardia acida,3.8,5.2,n,a
+2518,25,2,Mpyoka,Hymenocardia acida,NA,7.5,n,a
+2518,25,3,Mpyoka,Hymenocardia acida,NA,7.7,n,a
+2518,25,4,Mpyoka,Hymenocardia acida,NA,6.4,n,a
+2518,25,5,Mpyoka,Hymenocardia acida,NA,9.5,n,a
+2518,25,6,Mpyoka,Hymenocardia acida,NA,7.5,n,a
+2518,25,7,Mpyoka,Hymenocardia acida,NA,6.1,n,a
+2518,26,1,Kabesha 2,Terminalia sericea,7.2,16.4,n,a
+2518,27,1,Bateko,Bateko sp1,5.8,12.5,n,a
+2518,27,2,Bateko,Bateko sp1,NA,7.3,n,a
+2518,27,3,Bateko,Bateko sp1,NA,23.2,n,a
+2518,27,4,Bateko,Bateko sp1,NA,11,n,a
+2518,28,1,Kabesha 2,Terminalia sericea,6,18.2,n,a
+2518,29,1,Kabizi,Kabizi sp1,3.4,9.2,n,a
+2518,30,1,Msolo,Pseudolachnostylis maprouneifolia,6.8,37.6,n,a
+2518,31,1,Musafwa,Syzygium gerrardii,5,11.2,n,a
+2518,32,1,Kabesha 2,Terminalia sericea,3.8,7,n,a
+2518,32,2,Kabesha 2,Terminalia sericea,NA,13.3,n,a
+2518,33,1,Mpyoka,Hymenocardia acida,2.6,5.4,n,a
+2084,1,1,Kalama,Combretum adenogonium,4.4,7.5,n,a
+2084,1,2,Kalama,Combretum adenogonium,NA,9.8,n,a
+2084,2,1,Luvungwe,Dalbergia nitidula,6.2,14.6,n,a
+2084,2,2,Luvungwe,Dalbergia nitidula,NA,6.5,n,a
+2084,3,1,Kalama,Combretum adenogonium,5,10.1,n,a
+2084,3,2,Kalama,Combretum adenogonium,NA,6.9,n,a
+2084,4,1,Kalama,Combretum adenogonium,3.8,5.8,n,a
+2084,5,1,Kalama,Combretum adenogonium,3.4,6.1,n,a
+2084,6,1,Kalama,Combretum adenogonium,4,6.8,n,a
+2084,7,1,Kalama,Combretum adenogonium,6.2,12.5,n,a
+2084,7,2,Kalama,Combretum adenogonium,NA,8.3,n,a
+2084,8,1,Kalama,Combretum adenogonium,3.4,6.9,n,a
+2084,9,1,Kalama,Combretum adenogonium,6,8.3,n,a
+2084,9,2,Kalama,Combretum adenogonium,NA,5.6,n,a
+2084,10,1,Kaumbu,Lannea discolor,2.2,7,n,a
+2084,11,1,Kalama,Combretum adenogonium,6,5.5,n,a
+2084,12,1,Kalama,Combretum adenogonium,6.4,8.5,n,a
+2084,13,1,Kalama,Combretum adenogonium,4.4,6.2,n,a
+2084,14,1,Kalama,Combretum adenogonium,5.8,8.7,n,a
+2084,15,1,Kabesha 1,Terminalia stuhlmannii,3.2,6.1,n,a
+2084,16,1,Kalama,Combretum adenogonium,4,6.1,n,a
+2084,17,1,Chiyombo 2,Brachystegia utilis,10.6,21.8,n,a
+2084,18,1,Mugulo,Diospyros kirkii,3.4,5.4,n,a
+2084,19,1,Kaumbu,Lannea discolor,2.2,5.2,n,a
+2084,19,2,Kaumbu,Lannea discolor,NA,5,n,a
+2084,20,1,Mugulo,Diospyros kirkii,4.2,7.6,n,a
+2084,21,1,Chitonto,Comminphora mollis,2.8,5.9,n,a
+2084,22,1,Chiyombo 2,Brachystegia utilis,11.4,25.5,n,a
+2084,23,1,Kalama,Combretum adenogonium,3.6,7.5,n,a
+2084,24,1,Kalama,Combretum adenogonium,2.4,6.5,n,a
+2084,25,1,Chiyombo 2,Brachystegia utilis,5.6,8.7,n,a
+2084,26,1,Kalama,Combretum adenogonium,4.2,5.3,n,a
+2084,27,1,Kalama,Combretum adenogonium,4,6.4,n,a
+2084,28,1,Mufinsa,Syzygium guineense,5.8,7.1,n,a
+2084,28,2,Mufinsa,Syzygium guineense,NA,7.5,n,a
+2084,29,1,Mufinsa,Syzygium guineense,7.2,5.8,n,a
+2084,29,2,Mufinsa,Syzygium guineense,NA,9.1,n,a
+2084,29,3,Mufinsa,Syzygium guineense,NA,8.7,n,a
+2084,30,1,Kalama,Combretum adenogonium,4,5,n,a
+2084,30,2,Kalama,Combretum adenogonium,NA,5.3,n,a
+2084,31,1,Kabesha 1,Terminalia stuhlmannii,4.2,7.3,n,a
+2084,32,1,Mukoswe,Cassia abbreviata,6.2,8.5,n,a
+2084,32,2,Mukoswe,Cassia abbreviata,NA,5.2,n,a
+2084,32,3,Mukoswe,Cassia abbreviata,NA,8.7,n,a
+2084,33,1,Kalama,Combretum adenogonium,3.8,5.3,n,a
+2084,34,1,Kaumbu,Lannea discolor,2.2,6.2,n,a
+2084,35,1,Kabesha 1,Terminalia stuhlmannii,6,20.1,n,a
+2084,36,1,Mufinsa,Syzygium guineense,6,27,n,a
+2084,37,1,Mufinsa,Syzygium guineense,4.4,6.3,n,a
+2084,37,2,Mufinsa,Syzygium guineense,NA,5.4,n,a
+2084,38,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,9.5,n,a
+2084,39,1,Chiyombo 2,Brachystegia utilis,8.2,18.4,n,a
+2084,40,1,Kalama,Combretum adenogonium,6.8,11.7,n,a
+2084,40,2,Kalama,Combretum adenogonium,NA,5.5,n,a
+2084,41,1,Kalama,Combretum adenogonium,7.6,12.5,n,a
+2084,41,2,Kalama,Combretum adenogonium,7.6,14,n,a
+2084,42,1,Mukoswe,Cassia abbreviata,5,13.2,n,a
+2084,43,1,Mukoswe,Cassia abbreviata,5.4,8.7,n,a
+2084,43,2,Mukoswe,Cassia abbreviata,NA,11.1,n,a
+2084,43,3,Mukoswe,Cassia abbreviata,NA,14.2,n,a
+2084,44,1,Chiyombo 2,Brachystegia utilis,7.2,9.7,n,a
+2084,45,1,Mubanga,Pericopsis angolensis,4.8,9.5,n,a
+2084,45,2,Mubanga,Pericopsis angolensis,NA,5.4,n,a
+2084,45,3,Mubanga,Pericopsis angolensis,NA,10.2,n,a
+2084,46,1,Mubanga,Pericopsis angolensis,3,7,n,a
+2084,47,1,Kabesha 2,Terminalia sericea,3.6,6.1,n,a
+2084,48,1,Kabesha 2,Terminalia sericea,3.2,5.8,n,a
+2084,49,1,Kabesha 2,Terminalia sericea,4.6,10.2,n,a
+2084,50,1,Kabesha 2,Terminalia sericea,2.4,5.7,n,a
+2084,51,1,Mufinsa,Syzygium guineense,5.8,7.5,n,a
+2084,52,1,Mufinsa,Syzygium guineense,4,7,n,a
+2084,53,1,Mufinsa,Syzygium guineense,3.8,6.8,n,a
+2084,54,1,Kalama,Combretum adenogonium,4.6,5.5,n,a
+2084,55,1,Kabesha 2,Terminalia sericea,5.4,5.5,n,a
+2084,56,1,Kalama,Combretum adenogonium,6.4,8.5,n,a
+2084,57,1,Kaumbu,Lannea discolor,2,5.1,n,a
+2084,58,1,Kabesha 1,Terminalia stuhlmannii,4.2,5.2,n,a
+2084,59,1,Mugulo,Diospyros kirkii,3.6,8.6,n,a
+2084,60,1,Futu,Vitex doniana,2.6,7.8,n,a
+2084,61,1,Kalama,Combretum adenogonium,6.6,12.6,n,a
+2084,61,2,Kalama,Combretum adenogonium,NA,8.2,n,a
+2084,62,1,Chisimbwe,Chisimbwe sp1,3.4,6.7,n,a
+2084,62,2,Chisimbwe,Chisimbwe sp1,NA,7.5,n,a
+2084,62,3,Chisimbwe,Chisimbwe sp1,NA,7.4,n,a
+2084,62,4,Chisimbwe,Chisimbwe sp1,NA,8.1,n,a
+2084,62,5,Chisimbwe,Chisimbwe sp1,NA,8.2,n,a
+2084,63,1,Kaumbu,Lannea discolor,4.2,8.5,n,a
+2084,64,1,Mukalakate,Monotes glaber,5.8,15.6,n,a
+2084,65,1,Kaumbu,Lannea discolor,5.2,14.2,n,a
+2084,66,1,Kamponi,Julbernardia globiflora,5.6,8.2,n,a
+2084,66,2,Kamponi,Julbernardia globiflora,NA,5.9,n,a
+2084,66,3,Kamponi,Julbernardia globiflora,NA,9.1,n,a
+2084,66,4,Kamponi,Julbernardia globiflora,NA,7.9,n,a
+2084,67,1,Chiyombo 2,Brachystegia utilis,7.2,13.9,n,a
+2084,68,1,Chiyombo 2,Brachystegia utilis,5,7.3,n,a
+2084,69,1,Futu,Vitex doniana,5,6.1,n,a
+2084,69,2,Futu,Vitex doniana,NA,5,n,a
+2084,69,3,Futu,Vitex doniana,NA,6.4,n,a
+2084,70,1,Futu,Vitex doniana,3.2,6.3,n,a
+2084,71,1,Futu,Vitex doniana,3.8,6.4,n,a
+2084,72,1,Kamponi,Julbernardia globiflora,5,7.4,n,a
+2084,72,2,Kamponi,Julbernardia globiflora,NA,9.2,n,a
+2084,73,1,Chiyombo 2,Brachystegia utilis,8.6,18.2,n,a
+2084,73,2,Chiyombo 2,Brachystegia utilis,NA,19.6,n,a
+2084,74,1,Kaumbu,Lannea discolor,6.6,16.5,n,a
+2084,75,1,Mundumila,Mundumila sp1,5.2,7.6,n,a
+2084,76,1,Chiyombo 2,Brachystegia utilis,7.2,12.8,n,a
+2084,77,1,Chiyombo 2,Brachystegia utilis,6.6,16.5,n,a
+2084,78,1,Chiyombo 2,Brachystegia utilis,4.2,6.6,n,a
+2084,79,1,Kabesha 2,Terminalia sericea,4.8,7.5,n,a
+2084,80,1,Chiyombo 1,Brachystegia boehmii,7.4,16.5,n,a
+2084,81,1,Kabesha 2,Terminalia sericea,6.8,9.9,n,a
+2084,82,1,Kabesha 2,Terminalia sericea,6.2,14.7,n,a
+2084,83,1,Mubanga,Pericopsis angolensis,4.4,7.7,n,a
+2084,83,2,Mubanga,Pericopsis angolensis,NA,5.7,n,a
+2084,83,3,Mubanga,Pericopsis angolensis,NA,6.7,n,a
+2084,84,1,Kabesha 2,Terminalia sericea,5.8,11.7,n,a
+2084,85,1,Chiyombo 2,Brachystegia utilis,2.8,5.6,n,a
+2084,86,1,Kabesha 2,Terminalia sericea,2.6,7,n,a
+2084,87,1,Mtowa,Diplorhynchus condylocarpon,5.4,8.8,n,a
+2084,87,2,Mtowa,Diplorhynchus condylocarpon,NA,7,n,a
+2084,88,1,Mukalakate,Monotes glaber,4.8,9.2,n,a
+2084,89,1,Mukalakate,Monotes glaber,3.6,5.4,n,a
+2084,90,1,Kalama,Combretum adenogonium,2.4,6.4,n,a
+2084,91,1,Mukalakate,Monotes glaber,5.4,5.5,n,a
+2084,91,2,Mukalakate,Monotes glaber,NA,7.6,n,a
+2084,91,3,Mukalakate,Monotes glaber,NA,10.6,n,a
+2627,1,1,Mufinsa,Syzygium guineense,5.2,15.7,n,a
+2627,1,2,Mufinsa,Syzygium guineense,NA,20.3,n,a
+2627,2,1,Mufinsa,Syzygium guineense,6.2,13.8,n,a
+2627,2,2,Mufinsa,Syzygium guineense,NA,7.4,n,a
+2627,2,3,Mufinsa,Syzygium guineense,NA,25,n,a
+2627,2,4,Mufinsa,Syzygium guineense,NA,22.6,n,a
+2627,2,5,Mufinsa,Syzygium guineense,NA,14,n,a
+2627,2,6,Mufinsa,Syzygium guineense,NA,15.2,n,a
+2627,3,1,Mpoviya,Annona senegalensis,6,6.6,n,a
+2627,3,2,Mpoviya,Annona senegalensis,NA,11.3,n,a
+2627,3,3,Mpoviya,Annona senegalensis,NA,9.5,n,a
+2627,4,1,Chiyele,Protea angolensis,3.4,5.1,n,a
+2627,4,2,Chiyele,Protea angolensis,NA,5,n,a
+2627,4,3,Chiyele,Protea angolensis,NA,5.7,n,a
+2627,4,4,Chiyele,Protea angolensis,NA,8.6,n,a
+2627,5,1,Mufinsa,Syzygium guineense,7.8,5.6,n,a
+2627,5,2,Mufinsa,Syzygium guineense,NA,7.7,n,a
+2627,5,3,Mufinsa,Syzygium guineense,NA,8.1,n,a
+2627,5,4,Mufinsa,Syzygium guineense,NA,32.7,n,a
+2627,5,5,Mufinsa,Syzygium guineense,NA,8.5,n,a
+2627,5,6,Mufinsa,Syzygium guineense,NA,9.2,n,a
+2627,6,1,Mpoviya,Annona senegalensis,2,6.7,n,a
+2627,7,1,Chimwamulusu,Ozoroa reticulata,7.4,6.8,n,a
+2627,8,1,Mufinsa,Syzygium guineense,7.4,23.2,n,a
+2627,8,2,Mufinsa,Syzygium guineense,NA,30,n,a
+2627,8,3,Mufinsa,Syzygium guineense,NA,8.8,n,a
+2627,8,4,Mufinsa,Syzygium guineense,NA,14.4,n,a
+2627,8,5,Mufinsa,Syzygium guineense,NA,26,n,a
+1626,1,1,Mukalakate,Monotes glaber,9.8,5.6,n,a
+1626,1,2,Mukalakate,Monotes glaber,NA,14.2,n,a
+1626,2,1,Chagaga,Maprounea africana,4.4,8.6,n,a
+1626,3,1,Mukalakate,Monotes glaber,4,9.2,n,a
+1626,4,1,Chithobowe,Chithobowe sp1,6.8,9.1,n,a
+1626,4,2,Chithobowe,Chithobowe sp2,NA,12.4,n,a
+1626,5,1,Kabesha 2,Terminalia sericea,5.8,9.2,n,a
+1626,6,1,Spp 1,Genus sp1,3.6,6,n,a
+1626,7,1,Chagaga,Maprounea africana,4.2,11.7,n,a
+1626,8,1,Mukalakate,Monotes glaber,4.4,8.7,n,a
+1626,9,1,Mpyoka,Hymenocardia acida,5.2,5,n,a
+1626,9,2,Mpyoka,Hymenocardia acida,NA,6.9,n,a
+1626,10,1,Chiyombo 2,Brachystegia utilis,3.8,9.2,n,a
+1626,11,1,Chithobowe,Chithobowe sp1,5.8,8,n,a
+1626,12,1,Musafwa,Syzygium gerrardii,1.8,6.1,n,a
+1626,13,1,Kabesha 2,Terminalia sericea,3,9.2,n,a
+1626,14,1,Kabesha 2,Terminalia sericea,10.2,30.2,n,a
+1626,15,1,Kabesha 2,Terminalia sericea,5.2,22.1,n,a
+1626,16,1,Mpundu,Parinari curatellifolia,5.6,8.5,n,a
+1626,17,1,Mukalakate,Monotes glaber,13.4,24.1,n,a
+1626,18,1,Mukalakate,Monotes glaber,6.2,9.6,n,a
+1626,19,1,Mukalakate,Monotes glaber,3.6,18.3,n,a
+1626,20,1,Mtondo,Julbernardia paniculata,9,31.1,n,a
+1626,21,1,Chiyombo 2,Brachystegia utilis,5.2,8.3,n,a
+1626,22,1,Msolo,Pseudolachnostylis maprouneifolia,7.4,6.8,n,a
+1626,22,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.7,n,a
+1626,22,3,Msolo,Pseudolachnostylis maprouneifolia,NA,11.6,n,a
+1626,22,4,Msolo,Pseudolachnostylis maprouneifolia,NA,11.2,n,a
+1626,22,5,Msolo,Pseudolachnostylis maprouneifolia,NA,10.6,n,a
+1626,23,1,Mukalakate,Monotes glaber,13.4,24.6,n,a
+1626,24,1,Mugulo,Diospyros kirkii,4.8,7.6,n,a
+1626,24,2,Mugulo,Diospyros kirkii,NA,10,n,a
+1626,25,1,Mtowa,Diplorhynchus condylocarpon,5,5.8,n,a
+1626,25,2,Mtowa,Diplorhynchus condylocarpon,NA,10.1,n,a
+1626,26,1,Chagaga,Maprounea africana,3.2,5.8,n,a
+1236,1,1,Mtowa,Diplorhynchus condylocarpon,3,5.2,n,a
+1236,2,1,Msolo,Pseudolachnostylis maprouneifolia,8.2,8.6,n,a
+1236,2,2,Msolo,Pseudolachnostylis maprouneifolia,NA,17.8,n,a
+1236,2,3,Msolo,Pseudolachnostylis maprouneifolia,NA,9.4,n,a
+1236,2,4,Msolo,Pseudolachnostylis maprouneifolia,NA,9.5,n,a
+1236,3,1,Kamemena,Jasminum fluminense,4.6,7.1,n,a
+1236,4,1,Musumbu,Brachystegia allenii,4.2,5.2,n,a
+1236,5,1,Msolo,Pseudolachnostylis maprouneifolia,6,14.1,n,a
+1236,5,2,Msolo,Pseudolachnostylis maprouneifolia,NA,7.5,n,a
+1236,5,3,Msolo,Pseudolachnostylis maprouneifolia,NA,16.5,n,a
+1236,6,1,Mtowa,Diplorhynchus condylocarpon,6.2,7.8,n,a
+1236,7,1,Musumbu,Brachystegia allenii,13.2,16.9,n,a
+1236,8,1,Chiyombo 1,Brachystegia boehmii,5,5.5,n,a
+1236,8,2,Chiyombo 1,Brachystegia boehmii,NA,5.7,n,a
+1236,9,1,Kabesha 1,Terminalia stuhlmannii,7.8,10.3,n,a
+1236,10,1,Mtowa,Diplorhynchus condylocarpon,8.4,10.2,n,a
+1236,11,1,Chiyombo 2,Brachystegia utilis,9.4,9.6,n,a
+1236,11,2,Chiyombo 2,Brachystegia utilis,NA,13,n,a
+1236,11,3,Chiyombo 2,Brachystegia utilis,NA,6.8,n,a
+1236,11,4,Chiyombo 2,Brachystegia utilis,NA,24.3,n,a
+1236,12,1,Chiyombo 1,Brachystegia boehmii,4.2,6.6,n,a
+1236,13,1,Kaumbu,Lannea discolor,2.6,9.2,n,a
+1236,14,1,Chiyombo 1,Brachystegia boehmii,4.4,6.6,n,a
+1236,15,1,Kaumbu,Lannea discolor,2.8,5.2,n,a
+1236,16,1,Kambandule,Kambandule sp1,3,5.1,n,a
+1236,17,1,Kambandule,Kambandule sp1,3.4,6.4,n,a
+1236,18,1,Musumbu,Brachystegia allenii,9.4,10.1,n,a
+1236,19,1,Kabesha 1,Terminalia stuhlmannii,8.8,16.4,n,a
+1236,20,1,Chiyombo 2,Brachystegia utilis,9.4,13.6,n,a
+1236,21,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,9,n,a
+1236,22,1,Chiyombo 2,Brachystegia utilis,4.8,5.6,n,a
+1236,23,1,Kabesha 1,Terminalia stuhlmannii,3.2,6,n,a
+1236,24,1,Msangaza,Isoberlinia angolensis,6.6,12,n,a
+1236,25,1,Kabesha 1,Terminalia stuhlmannii,4.2,5.9,n,a
+1236,26,1,Msangaza,Isoberlinia angolensis,7.8,12,n,a
+1236,27,1,Msangaza,Isoberlinia angolensis,6.8,13,n,a
+1236,28,1,Muzayi,Strychnos spinosa,5.2,6.6,n,a
+1236,29,1,Chagaga,Maprounea africana,5.4,9.4,n,a
+1194,1,1,Chiyombo 2,Brachystegia utilis,1.8,36.3,n,a
+1194,2,1,Chiyombo 2,Brachystegia utilis,1.6,15.3,n,a
+1194,3,1,Mubanga,Pericopsis angolensis,3.8,10.7,n,a
+1194,4,1,Mubanga,Pericopsis angolensis,6.4,17,n,a
+1194,5,1,Mubanga,Pericopsis angolensis,7,18.1,n,a
+1194,5,2,Mubanga,Pericopsis angolensis,NA,12.1,n,a
+1194,5,3,Mubanga,Pericopsis angolensis,NA,18.9,n,a
+1194,5,4,Mubanga,Pericopsis angolensis,NA,17.1,n,a
+1194,6,1,Musumbu,Brachystegia allenii,6.4,35.1,n,a
+546,1,1,Msolo,Pseudolachnostylis maprouneifolia,6.2,10.1,n,a
+546,1,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.6,n,a
+546,2,1,Kamponi,Julbernardia globiflora,5.2,17.2,n,a
+546,3,1,Mtowa,Diplorhynchus condylocarpon,7.6,12.2,n,a
+546,4,1,Chiyombo 3,Brachystegia stipulata,7.2,16.3,n,a
+546,5,1,Chiyombo 2,Brachystegia utilis,6.2,18,n,a
+546,6,1,Mtondo,Julbernardia paniculata,12.4,25.5,n,a
+546,7,1,Chiyombo 3,Brachystegia stipulata,6.4,14.8,n,a
+546,8,1,Mupapa,Afzelia quanzensis,7.2,19.3,n,a
+546,9,1,Mulundu,Swartzia madagascariensis,5.4,16.7,n,a
+546,10,1,Mtondo,Julbernardia paniculata,11.4,23,n,a
+546,11,1,Mtowa,Diplorhynchus condylocarpon,8.8,11,n,a
+546,12,1,Chiyombo 3,Brachystegia stipulata,7.6,16.8,n,a
+546,13,1,Msolo,Pseudolachnostylis maprouneifolia,5.8,9,n,a
+546,13,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8,n,a
+546,14,1,Mugulo,Diospyros kirkii,3.2,12,n,a
+546,14,2,Mugulo,Diospyros kirkii,NA,10,n,a
+546,15,1,Chiyombo 3,Brachystegia stipulata,5.4,9,n,a
+546,15,2,Chiyombo 3,Brachystegia stipulata,NA,12.3,n,a
+546,16,1,Mukalakate,Monotes glaber,4.8,10,n,a
+546,17,1,Chiyombo 2,Brachystegia utilis,4,9.4,n,a
+546,18,1,Mtowa,Diplorhynchus condylocarpon,7,11,n,a
+546,18,2,Mtowa,Diplorhynchus condylocarpon,NA,8,n,a
+546,19,1,Chiyombo 3,Brachystegia stipulata,9.4,19.3,n,a
+546,20,1,nthundulukwa,nthundulukwa_sp1,5.8,9.3,n,a
+546,21,1,Mtowa,Diplorhynchus condylocarpon,3.2,6.2,n,a
+546,22,1,Mukalakate,Monotes glaber,4.2,6.4,n,a
+546,23,1,Chiyombo 2,Brachystegia utilis,2.2,6.8,n,a
+546,24,1,Mukalakate,Monotes glaber,2.8,7.5,n,a
+546,25,1,Chiyombo 1,Brachystegia boehmii,5.8,18.5,n,a
+546,26,1,Mukalakate,Monotes glaber,3.4,8.6,n,a
+546,26,2,Mukalakate,Monotes glaber,NA,7.1,n,a
+546,27,1,Mukalakate,Monotes glaber,1.8,5.5,n,a
+546,28,1,Kankulukulu,Kankulukulu sp1,6.6,6.4,n,a
+546,28,2,Kankulukulu,Kankulukulu sp1,NA,11.8,n,a
+546,29,1,Kabesha 2,Terminalia sericea,3.2,7.3,n,a
+546,30,1,Chiyombo 3,Brachystegia stipulata,6.8,12,n,a
+546,30,2,Chiyombo 3,Brachystegia stipulata,6.8,7.5,n,a
+546,31,1,Kamponi,Julbernardia globiflora,5.6,13.5,n,a
+546,32,1,Chiyombo 3,Brachystegia stipulata,4.8,17.3,n,a
+546,33,1,Mukulasinga,Mukulasinga sp1,4.2,11.5,n,a
+546,33,2,Mukulasinga,Mukulasinga sp1,NA,7,n,a
+546,34,1,Chiyombo 3,Brachystegia stipulata,7.8,24.3,n,a
+546,35,1,Chagaga,Maprounea africana,3.4,9.6,n,a
+546,35,2,Chagaga,Maprounea africana,3.4,7.4,n,a
+546,36,1,Chagaga,Maprounea africana,4.8,12.7,n,a
+546,37,1,Chiyombo 3,Brachystegia stipulata,3.4,5.3,n,a
+546,38,1,Muzayi,Strychnos spinosa,4.2,5.5,n,a
+546,38,2,Muzayi,Strychnos spinosa,NA,7.3,n,a
+546,39,1,Mukalakate,Monotes glaber,4.6,10.6,n,a
+546,40,1,Chiyombo 3,Brachystegia stipulata,6.2,13.3,n,a
+546,41,1,Kankulukulu,Kankulukulu sp1,4.2,8,n,a
+546,41,2,Kankulukulu,Kankulukulu sp1,NA,7.4,n,a
+546,41,3,Kankulukulu,Kankulukulu sp1,NA,7,n,a
+546,41,4,Kankulukulu,Kankulukulu sp1,NA,6.5,n,a
+546,42,1,Mukalakate,Monotes glaber,4.6,10.7,n,a
+546,43,1,Mukulasinga,Mukulasinga sp1,3.6,9.6,n,a
+546,44,1,Chiyombo 2,Brachystegia utilis,3.8,7.8,n,a
+546,44,2,Chiyombo 2,Brachystegia utilis,NA,13.1,n,a
+546,45,1,Chiyombo 2,Brachystegia utilis,5.6,10.2,n,a
+546,46,1,Kabesha 2,Terminalia sericea,2.2,10.7,n,a
+546,47,1,Muzayi,Strychnos spinosa,3.8,14.3,n,a
+546,48,1,Chiyombo 3,Brachystegia stipulata,1.8,5.7,n,a
+546,49,1,Mukalakate,Monotes glaber,6,10.4,n,a
+546,50,1,Chiyombo 2,Brachystegia utilis,2,5.3,n,a
+546,51,1,Chiyombo 2,Brachystegia utilis,3.8,12.2,n,a
+546,52,1,Kamponi,Julbernardia globiflora,5.4,17.2,n,a
+546,53,1,Chiyombo 1,Brachystegia boehmii,5.2,10.8,n,a
+546,54,1,Mukalakate,Monotes glaber,4.6,10.5,n,a
+3577,1,1,Mtowa,Diplorhynchus condylocarpon,7,11.9,n,a
+3577,2,1,Kaumbu,Lannea discolor,2.4,6.1,n,a
+3577,3,1,Mtowa,Diplorhynchus condylocarpon,7.8,13.9,n,a
+3577,4,1,Musumbu,Brachystegia allenii,16,28,n,a
+3577,5,1,Mugulo,Diospyros kirkii,3.4,8,n,a
+3577,5,2,Mugulo,Diospyros kirkii,NA,5.9,n,a
+3577,6,1,Musumbu,Brachystegia allenii,18.2,43.5,n,a
+3577,7,1,Chiyombo 1,Brachystegia boehmii,6.8,23.7,n,a
+3577,8,1,Mundumila,Mundumila sp1,3.2,9.2,n,a
+3577,9,1,Kabesha 1,Terminalia stuhlmannii,3.2,5,n,a
+3577,10,1,Kalama,Combretum adenogonium,3.2,4.9,n,a
+3577,11,1,Mubanga,Pericopsis angolensis,10.6,20.3,n,a
+865,1,1,Muzonono,Muzonono sp1,6,14.7,n,a
+865,2,1,ngobe,Ngobe sp1,7.2,11.5,n,a
+865,2,2,ngobe,Ngobe sp1,NA,16,n,a
+865,3,1,Mpondo,Bauhinia petersiana,2.8,5.2,n,a
+865,4,1,Mpondo,Bauhinia petersiana,6,5.7,n,a
+865,4,2,Mpondo,Bauhinia petersiana,NA,7.1,n,a
+865,4,3,Mpondo,Bauhinia petersiana,NA,8.8,n,a
+865,4,4,Mpondo,Bauhinia petersiana,NA,7.5,n,a
+865,5,1,Kalama musweta,Combretum collinum,14.6,38.7,n,a
+865,6,1,Msolo,Pseudolachnostylis maprouneifolia,3,5.7,n,a
+865,7,1,Mukoswe,Cassia abbreviata,3.4,5.3,n,a
+865,8,1,Mphangala,Dichrostachys cinerea,3.6,5.4,n,a
+865,9,1,Kalama musweta,Combretum collinum,4.2,5.5,n,a
+865,10,1,Kabesha 2,Terminalia sericea,4,6,n,a
+865,11,1,Kalama musweta,Combretum collinum,3.6,5.3,n,a
+865,12,1,Kalama musweta,Combretum collinum,4.6,9.4,n,a
+865,13,1,Mpondo,Bauhinia petersiana,5,6.5,n,a
+865,14,1,Mpondo,Bauhinia petersiana,4,6.6,n,a
+865,15,1,Makole,Makole sp1,3.6,6,n,a
+865,15,2,Makole,Makole sp1,NA,6.4,n,a
+865,16,1,Chitonto,Comminphora mollis,4,8,n,a
+865,16,2,Chitonto,Comminphora mollis,NA,10.5,n,a
+865,17,1,Mpondo,Bauhinia petersiana,4,5.9,n,a
+865,17,2,Mpondo,Bauhinia petersiana,NA,6.9,n,a
+865,18,1,Mpondo,Bauhinia petersiana,4.4,7.4,n,a
+865,18,2,Mpondo,Bauhinia petersiana,NA,5,n,a
+865,19,1,Mpondo,Bauhinia petersiana,4.4,6.4,n,a
+865,20,1,Chiyombo 3,Brachystegia stipulata,3.2,5.3,n,a
+865,20,2,Chiyombo 3,Brachystegia stipulata,NA,5,n,a
+865,21,1,Muzonono,Muzonono sp1,3,6.4,n,a
+865,22,1,Muzonono,Muzonono sp1,4.6,10,n,a
+865,22,2,Muzonono,Muzonono sp1,NA,5,n,a
+865,23,1,Musumbu,Brachystegia allenii,18,60.6,n,a
+865,24,1,Mubanga,Pericopsis angolensis,17.6,31.7,n,a
+865,25,1,Chitimbe,Piliostigma thonningi,4,5,n,a
+865,26,1,Muzonono,Muzonono sp1,2.6,6.8,n,a
+865,27,1,Musumbu,Brachystegia allenii,4.8,7.1,n,a
+865,28,1,Muzonono,Muzonono sp1,6,10.5,n,a
+865,29,1,Kamponi,Julbernardia globiflora,3.8,5.5,n,a
+865,30,1,Kabesha 2,Terminalia sericea,3.8,5.3,n,a
+865,31,1,Mtowa,Diplorhynchus condylocarpon,2.8,5.3,n,a
+865,31,2,Mtowa,Diplorhynchus condylocarpon,NA,5.7,n,a
+865,32,1,Kamponi,Julbernardia globiflora,3,5.7,n,a
+865,33,1,Chitimbe,Piliostigma thonningi,3,5,n,a
+865,34,1,Mphangala,Dichrostachys cinerea,5.2,5,n,a
+865,34,2,Mphangala,Dichrostachys cinerea,NA,5.8,n,a
+865,34,3,Mphangala,Dichrostachys cinerea,NA,6.4,n,a
+865,34,4,Mphangala,Dichrostachys cinerea,NA,12.7,n,a
+865,34,5,Mphangala,Dichrostachys cinerea,NA,6,n,a
+865,34,6,Mphangala,Dichrostachys cinerea,NA,6.1,n,a
+865,34,7,Mphangala,Dichrostachys cinerea,NA,5.5,n,a
+4308,1,1,Mufinsa,Syzygium guineense,6.2,35.3,n,a
+4308,1,2,Mufinsa,Syzygium guineense,NA,16,n,a
+4308,2,1,Chiyombo 2,Brachystegia utilis,2.8,5,n,a
+4308,3,1,Chiyombo 2,Brachystegia utilis,7.2,19.1,n,a
+4308,3,2,Chiyombo 2,Brachystegia utilis,NA,8.4,n,a
+4308,3,3,Chiyombo 2,Brachystegia utilis,NA,14,n,a
+4308,4,1,Mugulo,Diospyros kirkii,2.6,5.1,n,a
+4308,5,1,Mtondo,Julbernardia paniculata,4,8.5,n,a
+4308,6,1,Mufinsa,Syzygium guineense,10.2,31.5,n,a
+4308,6,2,Mufinsa,Syzygium guineense,NA,29.2,n,a
+4308,6,3,Mufinsa,Syzygium guineense,NA,38.4,n,a
+4308,6,4,Mufinsa,Syzygium guineense,NA,15.6,n,a
+4308,6,5,Mufinsa,Syzygium guineense,NA,10,n,a
+4308,6,6,Mufinsa,Syzygium guineense,NA,12.9,n,a
+4308,7,1,Chiyombo 2,Brachystegia utilis,6.4,14.3,n,a
+4308,8,1,Chiyombo 2,Brachystegia utilis,2.4,5.2,n,a
+4308,9,1,Kalama musweta,Combretum collinum,6.4,12.7,n,a
+4308,10,1,Chiyombo 2,Brachystegia utilis,7,22,n,a
+4308,10,2,Chiyombo 2,Brachystegia utilis,NA,20,n,a
+4308,10,3,Chiyombo 2,Brachystegia utilis,NA,7.3,n,a
+4308,11,1,Kabesha 1,Terminalia stuhlmannii,6.2,8.5,n,a
+4308,12,1,Chiyombo 2,Brachystegia utilis,6.2,19.5,n,a
+4308,12,2,Chiyombo 2,Brachystegia utilis,NA,5.5,n,a
+4308,13,1,Kalama,Combretum adenogonium,6.6,8.2,n,a
+4308,13,2,Kalama,Combretum adenogonium,NA,11.2,n,a
+4308,14,1,Kalama,Combretum adenogonium,7,8,n,a
+4308,14,2,Kalama,Combretum adenogonium,NA,5.5,n,a
+4308,14,3,Kalama,Combretum adenogonium,NA,15.2,n,a
+4308,14,4,Kalama,Combretum adenogonium,NA,9.2,n,a
+4308,14,5,Kalama,Combretum adenogonium,NA,12.2,n,a
+4308,14,6,Kalama,Combretum adenogonium,NA,13.2,n,a
+4308,15,1,Chiyombo 2,Brachystegia utilis,5.8,18.3,n,a
+4308,15,2,Chiyombo 2,Brachystegia utilis,NA,14.2,n,a
+4308,16,1,Kalama,Combretum adenogonium,4.8,7,n,a
+4308,16,2,Kalama,Combretum adenogonium,NA,8.7,n,a
+4308,17,1,Msolo,Pseudolachnostylis maprouneifolia,6.2,15.9,n,a
+4308,18,1,Chiyombo 2,Brachystegia utilis,4.8,11,n,a
+4308,19,1,Kalama,Combretum adenogonium,4.6,8,n,a
+4308,20,1,Mpoviya,Annona senegalensis,4,10.1,n,a
+4308,21,1,Chiyele,Protea angolensis,3,5,n,a
+4308,22,1,Mtowa,Diplorhynchus condylocarpon,5.4,11,n,a
+4308,22,2,Mtowa,Diplorhynchus condylocarpon,NA,8.8,n,a
+4308,23,1,Kalama musweta,Combretum collinum,8.2,14.5,n,a
+4308,24,1,Kaumbu,Lannea discolor,11.8,33,n,a
+4308,25,1,Kalama,Combretum adenogonium,4.4,11.3,n,a
+4308,26,1,Kalama,Combretum adenogonium,4.6,13.1,n,a
+4308,27,1,Mtowa,Diplorhynchus condylocarpon,6,11.6,n,a
+4308,28,1,Munamba,Gardenia resiniflua,4.2,6,n,a
+4308,29,1,Muzayi,Strychnos spinosa,6.2,10.8,n,a
+4308,29,2,Muzayi,Strychnos spinosa,NA,10.1,n,a
+4308,30,1,Kalama,Combretum adenogonium,8,16.5,n,a
+4308,30,2,Kalama,Combretum adenogonium,NA,10.8,n,a
+4308,30,3,Kalama,Combretum adenogonium,NA,9.2,n,a
+4308,30,4,Kalama,Combretum adenogonium,NA,7.3,n,a
+4308,31,1,Chiyombo 3,Brachystegia stipulata,9.8,26.1,n,a
+4308,32,1,Chisimbwe,Chisimbwe sp1,6.4,18.1,n,a
+4308,32,2,Chisimbwe,Chisimbwe sp1,NA,16.2,n,a
+4308,32,3,Chisimbwe,Chisimbwe sp1,NA,19.2,n,a
+4308,33,1,Chiyombo 3,Brachystegia stipulata,10.6,19.2,n,a
+4308,33,2,Chiyombo 3,Brachystegia stipulata,NA,17.9,n,a
+4743,1,1,Mpundu,Parinari curatellifolia,7.4,13.4,n,a
+4743,1,2,Mpundu,Parinari curatellifolia,NA,7.3,n,a
+4743,1,3,Mpundu,Parinari curatellifolia,NA,5.8,n,a
+4743,1,4,Mpundu,Parinari curatellifolia,NA,7.7,n,a
+4743,1,5,Mpundu,Parinari curatellifolia,NA,9.1,n,a
+4743,1,6,Mpundu,Parinari curatellifolia,NA,12.3,n,a
+4743,1,7,Mpundu,Parinari curatellifolia,NA,19,n,a
+4743,2,1,Msolo,Pseudolachnostylis maprouneifolia,5.2,5.7,n,a
+4743,2,2,Msolo,Pseudolachnostylis maprouneifolia,NA,10.7,n,a
+4743,3,1,Mpundu,Parinari curatellifolia,7.4,7.9,n,a
+4743,3,2,Mpundu,Parinari curatellifolia,NA,10,n,a
+4743,4,1,Chiyombo 2,Brachystegia utilis,8.4,16.6,n,a
+4743,4,2,Chiyombo 2,Brachystegia utilis,NA,11.2,n,a
+4743,5,1,Mufinsa,Syzygium guineense,6.2,17,n,a
+4743,6,1,Mpundu,Parinari curatellifolia,4.2,6,n,a
+4743,7,1,Chiyombo 2,Brachystegia utilis,9,24.8,n,a
+4743,7,2,Chiyombo 2,Brachystegia utilis,NA,20.2,n,a
+4743,7,3,Chiyombo 2,Brachystegia utilis,NA,14.8,n,a
+4743,8,1,Mpoviya,Annona senegalensis,4.6,8.6,n,a
+4743,9,1,Mathebela,Mathebela sp1,3,11.7,n,a
+4743,10,1,Mubanga,Pericopsis angolensis,5.8,12,n,a
+4743,10,2,Mubanga,Pericopsis angolensis,NA,6.3,n,a
+4743,11,1,Msolo,Pseudolachnostylis maprouneifolia,5.4,12,n,a
+4743,13,1,Muzayi,Strychnos spinosa,4.4,5.9,n,a
+4743,14,1,Chagaga,Maprounea africana,3,5.5,n,a
+4743,14,2,Chagaga,Maprounea africana,3,7.5,n,a
+4743,15,1,Chagaga,Maprounea africana,3,11.5,n,a
+4743,15,2,Chagaga,Maprounea africana,3,6.9,n,a
+4743,16,1,Chagaga,Maprounea africana,2.4,5.6,n,a
+4743,17,1,Chagaga,Maprounea africana,6.4,7.6,n,a
+4743,17,2,Chagaga,Maprounea africana,6.4,7.1,n,a
+4743,17,3,Chagaga,Maprounea africana,6.4,7.9,n,a
+4743,17,4,Chagaga,Maprounea africana,6.4,11.7,n,a
+4743,18,1,Chiyombo 2,Brachystegia utilis,7.8,10.4,n,a
+4743,18,2,Chiyombo 2,Brachystegia utilis,NA,10.1,n,a
+4743,18,3,Chiyombo 2,Brachystegia utilis,NA,10.6,n,a
+4743,19,1,Mtondo,Julbernardia paniculata,7.8,13.7,n,a
+4743,20,1,Msolo,Pseudolachnostylis maprouneifolia,5.8,13.7,n,a
+4743,21,1,Mtondo,Julbernardia paniculata,5.6,10.4,n,a
+4743,22,1,Mtondo,Julbernardia paniculata,6,8.2,n,a
+4743,23,1,Mpyoka,Hymenocardia acida,4.4,5.1,n,a
+4743,24,1,Chiyombo 2,Brachystegia utilis,5.6,5.5,n,a
+4743,25,1,Chagaga,Maprounea africana,3.8,10.7,n,a
+4743,25,2,Chagaga,Maprounea africana,3.8,9.1,n,a
+4743,26,1,Chagaga,Maprounea africana,4.4,8.1,n,a
+4743,26,2,Chagaga,Maprounea africana,4.4,9.2,n,a
+4743,27,1,Chiyombo 1,Brachystegia boehmii,4.6,6.8,n,a
+4743,27,2,Chiyombo 1,Brachystegia boehmii,NA,8.2,n,a
+4743,28,1,Chagaga,Maprounea africana,4.6,17.7,n,a
+4743,29,1,Chiyombo 2,Brachystegia utilis,5,5.1,n,a
+4743,29,2,Chiyombo 3,Brachystegia stipulata,NA,6.4,n,a
+4743,29,3,Chiyombo 2,Brachystegia utilis,5,6.2,n,a
+4743,30,1,Kaumbu,Lannea discolor,4.2,8.4,n,a
+4743,30,2,Kaumbu,Lannea discolor,NA,8.1,n,a
+4743,31,1,Kabizi,Kabizi sp1,7.2,12.3,n,a
+4743,32,1,Msolo,Pseudolachnostylis maprouneifolia,3.4,9.6,n,a
+4743,32,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12.3,n,a
+4743,32,3,Msolo,Pseudolachnostylis maprouneifolia,NA,6.5,n,a
+4743,32,4,Msolo,Pseudolachnostylis maprouneifolia,NA,7.8,n,a
+4743,33,1,Chagaga,Maprounea africana,4.2,11.1,n,a
+4743,33,2,Chagaga,Maprounea africana,4.2,8,n,a
+4743,34,1,Mpyoka,Hymenocardia acida,6.2,6.9,n,a
+4743,34,2,Mpyoka,Hymenocardia acida,NA,8,n,a
+4743,35,1,Chiyombo 2,Brachystegia utilis,3.8,6.7,n,a
+4743,36,1,Mtondo,Julbernardia paniculata,6.6,9.8,n,a
+4743,37,1,Mpoviya,Annona senegalensis,2.2,7,n,a
+4743,38,1,Chiyombo 1,Brachystegia boehmii,4.8,8.5,n,a
+4743,39,1,Mtondo,Julbernardia paniculata,10.4,47.7,n,a
+4743,40,1,Chiyele,Protea angolensis,3.8,7.1,n,a
+4743,41,1,Mumutunda,Protea sp1,3.4,5.6,n,a
+4743,42,1,Mtondo,Julbernardia paniculata,6.8,8.6,n,a
+4743,43,1,Kabizi,Kabizi sp1,6.4,11.5,n,a
+4743,44,1,Mtondo,Julbernardia paniculata,9,12,n,a
+4743,45,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,14,n,a
+4743,46,1,Chiyombo 2,Brachystegia utilis,7,13.9,n,a
+4743,46,2,Chiyombo 2,Brachystegia utilis,NA,11.8,n,a
+4743,46,3,Chiyombo 2,Brachystegia utilis,NA,9,n,a
+4743,46,4,Chiyombo 2,Brachystegia utilis,NA,18.3,n,a
+4743,46,5,Chiyombo 2,Brachystegia utilis,NA,16.2,n,a
+4743,47,1,Kankande,Ziziphus abyssinica,4.8,6.5,n,a
+4743,48,1,Kaumbu,Lannea discolor,2.4,5,n,a
+4743,49,1,Mtondo,Julbernardia paniculata,6.2,6.8,n,a
+4743,50,1,Mufinsa,Syzygium guineense,9.4,28.1,n,a
+4743,50,2,Mufinsa,Syzygium guineense,NA,12.9,n,a
+4743,50,3,Mufinsa,Syzygium guineense,NA,22,n,a
+4743,50,4,Mufinsa,Syzygium guineense,NA,25.6,n,a
+4743,51,1,Mugulo,Diospyros kirkii,5,11.4,n,a
+4743,52,1,Kalamafupa,Combretum zeyheri,7.6,19.5,n,a
+4743,53,1,Msolo,Pseudolachnostylis maprouneifolia,4.2,10.3,n,a
+4743,53,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12.3,n,a
+4743,53,3,Msolo,Pseudolachnostylis maprouneifolia,NA,22.8,n,a
+4743,54,1,Mtondo,Julbernardia paniculata,4.8,6,n,a
+4743,55,1,Kaumbu,Lannea discolor,5.8,7.4,n,a
+4743,56,1,Msolo,Pseudolachnostylis maprouneifolia,4.2,5.7,n,a
+4743,56,2,Msolo,Pseudolachnostylis maprouneifolia,NA,7.9,n,a
+4743,56,3,Msolo,Pseudolachnostylis maprouneifolia,NA,6.5,n,a
+4743,57,1,Mubanga,Pericopsis angolensis,4.8,7.4,n,a
+4743,58,1,Mtondo,Julbernardia paniculata,8.8,10.4,n,a
+4743,59,1,Chiyombo 1,Brachystegia boehmii,9.2,22,n,a
+4743,59,2,Chiyombo 1,Brachystegia boehmii,NA,23.8,n,a
+4743,60,1,Kaumbu,Lannea discolor,4,6.8,n,a
+4743,61,1,Mufinsa,Syzygium guineense,8,5.7,n,a
+4743,61,2,Mufinsa,Syzygium guineense,NA,11.3,n,a
+4743,61,3,Mufinsa,Syzygium guineense,NA,17.3,n,a
+4743,62,1,Msolo,Pseudolachnostylis maprouneifolia,6.6,26.6,n,a
+4743,63,1,Chiyele,Protea angolensis,2.2,6.1,n,a
+4743,63,2,Chiyele,Protea angolensis,NA,5.2,n,a
+3004,1,1,Mubanga,Pericopsis angolensis,11.8,51.7,n,a
+3004,2,1,Chitimbe,Piliostigma thonningii,3.8,5.8,n,a
+3004,2,2,Chitimbe,Piliostigma thonningii,NA,5.1,n,a
+3004,2,3,Chitimbe,Piliostigma thonningii,NA,7.6,n,a
+3004,2,4,Chitimbe,Piliostigma thonningii,NA,7,n,a
+3004,2,5,Chitimbe,Piliostigma thonningii,NA,6.5,n,a
+3004,2,6,Chitimbe,Piliostigma thonningii,NA,11.4,n,a
+3004,2,7,Chitimbe,Piliostigma thonningii,NA,7,n,a
+3004,3,1,Mukoswe,Cassia abbreviata,9.2,20.5,n,a
+3004,4,1,Mubanga,Pericopsis angolensis,14.8,41.7,n,a
+3004,5,1,Mubanga,Pericopsis angolensis,7.6,28.7,n,a
+3004,6,1,Kabvenje,Kabvenje sp1,8,10.2,n,a
+3004,6,2,Kabvenje,Kabvenje sp1,NA,9,n,a
+3004,6,3,Kabvenje,Kabvenje sp1,NA,7.6,n,a
+3004,6,4,Kabvenje,Kabvenje sp1,NA,10.1,n,a
+3004,7,1,Chisimbwe,Chisimbwe sp1,7,17,n,a
+3004,8,1,Chiyombo 1,Brachystegia boehmii,2.8,5.5,n,a
+4701,1,1,Kamponi,Julbernardia globiflora,5.6,9.5,n,a
+4701,2,1,Kamemena,Jasminum fluminense,2.6,6.2,n,a
+4701,3,1,Mtowa,Diplorhynchus condylocarpon,8.4,19.2,n,a
+4701,4,1,Kabizi,Kabizi sp1,4.4,6,n,a
+4701,5,1,Musumbu,Brachystegia allenii,3,5,n,a
+4701,6,1,Kabizi,Kabizi sp1,3.2,5.2,n,a
+4701,7,1,Mpyoka,Hymenocardia acida,5.2,6.1,n,a
+4701,7,2,Mpyoka,Hymenocardia acida,NA,7.6,n,a
+4701,8,1,Mukalakate,Monotes glaber,5.8,8.5,n,a
+4701,9,1,Mulundu,Swartzia madagascariensis,3.2,8.1,n,a
+4701,9,2,Mulundu,Swartzia madagascariensis,NA,5.1,n,a
+4701,10,1,Kaumbu,Lannea discolor,2.4,5.1,n,a
+4701,11,1,Kamponi,Julbernardia globiflora,9,12.3,n,a
+4701,12,1,Kabizi,Kabizi sp1,4.2,6.6,n,a
+4701,13,1,Mukalakate,Monotes glaber,6.4,18.5,n,a
+4701,13,2,Mukalakate,Monotes glaber,NA,5,n,a
+4701,14,1,Muzayi,Strychnos spinosa,5.2,10,n,a
+4701,15,1,Kamponi,Julbernardia globiflora,6.2,8.7,n,a
+4701,15,2,Kamponi,Julbernardia globiflora,NA,9.7,n,a
+4701,16,1,Mulundu,Swartzia madagascariensis,3,5,n,a
+4701,17,1,Mulundu,Swartzia madagascariensis,4,8.4,n,a
+4701,18,1,Mukalakate,Monotes glaber,3.4,5,n,a
+4701,18,2,Mukalakate,Monotes glaber,NA,5.5,n,a
+4701,19,1,Musumbu,Brachystegia allenii,3.4,5,n,a
+4701,20,1,Kaumbu,Lannea discolor,3.8,8.1,n,a
+1121,1,1,Musumbu,Brachystegia allenii,8.6,22,n,a
+1121,2,1,Mtondo,Julbernardia paniculata,11.6,18.1,n,a
+1121,3,1,Mubanga,Pericopsis angolensis,4.6,5.1,n,a
+1121,3,2,Mubanga,Pericopsis angolensis,NA,5.2,n,a
+1121,3,3,Mubanga,Pericopsis angolensis,NA,5,n,a
+1121,4,1,Chiyele,Protea angolensis,3.2,6.1,n,a
+1121,5,1,Musumbu,Brachystegia allenii,12.4,24.1,n,a
+1121,6,1,Musumbu,Brachystegia allenii,19.6,31,n,a
+1121,7,1,Chiyele,Protea angolensis,4.2,7.2,n,a
+1121,8,1,Chiyele,Protea angolensis,4,6.6,n,a
+1121,9,1,Mtowa,Diplorhynchus condylocarpon,8.8,19.2,n,a
+2770,1,1,Mphangala,Dichrostachys cinerea,3.6,5.3,n,a
+2770,1,2,Mphangala,Dichrostachys cinerea,NA,5,n,a
+2770,1,3,Mphangala,Dichrostachys cinerea,NA,6.5,n,a
+2770,1,4,Mphangala,Dichrostachys cinerea,NA,5.3,n,a
+2770,1,5,Mphangala,Dichrostachys cinerea,NA,5,n,a
+2770,2,1,Mango,Mangifera indica,4.8,19,n,a
+2770,2,2,Mango,Mangifera indica,NA,12.2,n,a
+2770,2,3,Mango,Mangifera indica,NA,7.2,n,a
+2770,2,4,Mango,Mangifera indica,NA,10,n,a
+2770,2,5,Mango,Mangifera indica,NA,6.1,n,a
+2770,2,6,Mango,Mangifera indica,NA,16,n,a
+2770,2,7,Mango,Mangifera indica,NA,10,n,a
+866,1,1,Musumbu,Brachystegia allenii,14.4,24.2,n,a
+866,1,2,Musumbu,Brachystegia allenii,NA,28,n,a
+866,1,3,Musumbu,Brachystegia allenii,NA,22,n,a
+866,2,1,Mtowa,Diplorhynchus condylocarpon,9.6,12.2,n,a
+866,3,1,Musumbu,Brachystegia allenii,14.6,24.3,n,a
+866,3,2,Musumbu,Brachystegia allenii,NA,26.8,n,a
+866,4,1,Mukalakate,Monotes glaber,6.4,15.2,n,a
+866,5,1,Mubanga,Pericopsis angolensis,14,22.2,n,a
+866,6,1,Mukalakate,Monotes glaber,5,6.8,n,a
+866,7,1,Musumbu,Brachystegia allenii,17.4,46.3,n,a
+866,8,1,Chiyombo 2,Brachystegia utilis,3.2,5.4,n,a
+866,8,2,Chiyombo 2,Brachystegia utilis,NA,5.3,n,a
+866,8,3,Chiyombo 2,Brachystegia utilis,NA,5,n,a
+866,9,1,Chiyele,Protea angolensis,5,9.1,n,a
+866,10,1,Mupapa,Afzelia quanzensis,11.4,24.6,n,a
+866,11,1,Changwe,Xylopia odoratissima,4.6,7.9,n,a
+866,12,1,Msolo,Pseudolachnostylis maprouneifolia,5.8,13.8,n,a
+866,12,2,Msolo,Pseudolachnostylis maprouneifolia,NA,11.5,n,a
+866,13,1,Mtowa,Diplorhynchus condylocarpon,8.4,14.5,n,a
+866,14,1,Chiyombo 2,Brachystegia utilis,4,10,n,a
+866,14,2,Chiyombo 2,Brachystegia utilis,NA,5.2,n,a
+866,15,1,Chiyombo 3,Brachystegia stipulata,10,23,n,a
+866,16,1,Mukalakate,Monotes glaber,4.4,10.3,n,a
+2116,1,1,Chiyombo 2,Brachystegia utilis,7.8,8,n,a
+2116,1,2,Chiyombo 2,Brachystegia utilis,NA,15.6,n,a
+2116,1,3,Chiyombo 2,Brachystegia utilis,NA,6.1,n,a
+2116,2,1,Kaumbu,Lannea discolor,5.4,12.1,n,a
+2116,2,2,Kaumbu,Lannea discolor,NA,13.7,n,a
+2116,3,1,Kabvenje,Kabvenje sp1,9.4,17.3,n,a
+2116,3,2,Kabvenje,Kabvenje sp1,NA,9.8,n,a
+2116,4,1,Muzayi,Strychnos spinosa,4.8,5.3,n,a
+2116,4,2,Muzayi,Strychnos spinosa,NA,5.2,n,a
+2116,4,3,Muzayi,Strychnos spinosa,NA,12,n,a
+2116,5,1,Kamponi,Julbernardia globiflora,5.6,6.3,n,a
+2116,6,1,Chiyombo 2,Brachystegia utilis,3.4,6.2,n,a
+2116,7,1,Mubanga,Pericopsis angolensis,2.8,24.5,n,a
+2116,8,1,Mujakaka,Mujakaka sp1,3,5.2,n,a
+2116,9,1,Buwa,Albizia versicolor,4.6,10.1,n,a
+886,1,1,Mwanzabamba,Mwanzabamba sp1,4.8,14.3,p,a
+886,1,2,Mwanzabamba,Mwanzabamba sp1,NA,15.4,p,a
+886,1,3,Mwanzabamba,Mwanzabamba sp1,NA,8.5,p,a
+886,1,4,Mwanzabamba,Mwanzabamba sp1,NA,12,p,a
+886,2,1,Mukoswe,Cassia abbreviata,4,12,n,a
+886,2,2,Mukoswe,Cassia abbreviata,NA,7,n,a
+886,3,1,Mango,Mangifera indica,3.8,7.4,p,a
+886,3,2,Mango,Mangifera indica,NA,6.8,p,a
+886,3,3,Mango,Mangifera indica,NA,7.3,p,a
+886,4,1,Lemon,Lemon sp1,5.8,12,p,a
+886,4,2,Lemon,Lemon sp1,NA,8.4,p,a
+886,4,3,Lemon,Lemon sp1,NA,12.5,p,a
+886,4,4,Lemon,Lemon sp1,NA,11.6,p,a
+886,4,5,Lemon,Lemon sp1,NA,7.8,p,a
+886,4,6,Lemon,Lemon sp1,NA,11.5,p,a
+886,5,1,Mango,Mangifera indica,5.2,19,p,a
+886,6,1,ngobe,Ngobe sp1,9.2,13,n,a
+886,6,2,ngobe,Ngobe sp1,NA,18,n,a
+886,6,3,ngobe,Ngobe sp1,NA,16.6,n,a
+886,6,4,ngobe,Ngobe sp1,NA,15.8,n,a
+886,7,1,Mango,Mangifera indica,7.2,26.3,p,a
+886,7,2,Mango,Mangifera indica,NA,24.9,p,a
+886,8,1,Mango,Mangifera indica,5.4,26.7,p,a
+886,8,2,Mango,Mangifera indica,NA,19.3,p,a
+886,9,1,Mango,Mangifera indica,6.4,19.3,p,a
+886,10,1,Mango,Mangifera indica,5.2,19.6,p,a
+886,10,2,Mango,Mangifera indica,NA,16.8,p,a
+886,11,1,Mango,Mangifera indica,5.6,21,p,a
+886,12,1,Mango,Mangifera indica,5.2,12.2,p,a
+886,12,2,Mango,Mangifera indica,NA,15.4,p,a
+886,12,3,Mango,Mangifera indica,NA,14.9,p,a
+886,13,1,Mango,Mangifera indica,8,28,p,a
+886,13,2,Mango,Mangifera indica,NA,26.8,p,a
+886,13,3,Mango,Mangifera indica,NA,22.1,p,a
+886,13,4,Mango,Mangifera indica,NA,19.7,p,a
+886,13,5,Mango,Mangifera indica,NA,19.7,p,a
+886,13,6,Mango,Mangifera indica,NA,17,p,a
+886,13,7,Mango,Mangifera indica,NA,26,p,a
+886,14,1,Mukoswe,Cassia abbreviata,4.6,25.8,n,a
+886,14,2,Mukoswe,Cassia abbreviata,NA,9.7,n,a
+886,15,1,ngobe,Ngobe sp1,8.4,25.1,n,a
+886,16,1,Mango,Mangifera indica,5.2,26.3,p,a
+886,16,2,Mango,Mangifera indica,NA,16.7,p,a
+886,16,3,Mango,Mangifera indica,NA,16.7,p,a
+886,16,4,Mango,Mangifera indica,NA,5,p,a
+886,17,1,Mango,Mangifera indica,4.8,16.4,p,a
+886,17,2,Mango,Mangifera indica,NA,21.3,p,a
+886,18,1,Mango,Mangifera indica,3.8,10.8,p,a
+886,19,1,Mango,Mangifera indica,4.2,9.5,p,a
+886,19,2,Mango,Mangifera indica,NA,5.9,p,a
+886,19,3,Mango,Mangifera indica,NA,5.8,p,a
+886,19,4,Mango,Mangifera indica,NA,6,p,a
+886,20,1,Mpondo,Bauhinia petersiana,3.6,8.2,n,a
+886,21,1,Mango,Mangifera indica,2.6,18.1,p,a
+886,22,1,Mango,Mangifera indica,5.2,15.3,p,a
+886,22,2,Mango,Mangifera indica,NA,17.3,p,a
+886,22,3,Mango,Mangifera indica,NA,9.1,p,a
+886,22,4,Mango,Mangifera indica,NA,17.9,p,a
+886,23,1,Mango,Mangifera indica,6.4,14.3,p,a
+886,23,2,Mango,Mangifera indica,NA,19.3,p,a
+886,23,3,Mango,Mangifera indica,NA,12.6,p,a
+886,23,4,Mango,Mangifera indica,NA,22.5,p,a
+886,24,1,Mango,Mangifera indica,5.6,12.8,p,a
+886,24,2,Mango,Mangifera indica,NA,16,p,a
+886,25,1,Mango,Mangifera indica,5.2,17.3,p,a
+886,26,1,Mango,Mangifera indica,6.4,24,p,a
+886,26,2,Mango,Mangifera indica,NA,20.2,p,a
+886,26,3,Mango,Mangifera indica,NA,26.6,p,a
+886,27,1,Guava,Guava sp1,4.6,13.3,p,a
+886,27,2,Guava,Guava sp1,NA,12.3,p,a
+886,27,3,Guava,Guava sp1,NA,14.4,p,a
+1983,1,1,Chiyombo 2,Brachystegia utilis,3.4,8,n,a
+1983,1,2,Chiyombo 2,Brachystegia utilis,NA,5.4,n,a
+1983,2,1,Chiyombo 2,Brachystegia utilis,2.2,11.5,n,a
+1983,3,1,Kalama,Combretum adenogonium,9.2,30.6,n,a
+1983,4,1,Mpoviya,Annona senegalensis,2.6,9,n,a
+1983,4,2,Mpoviya,Annona senegalensis,NA,5,n,a
+1983,4,3,Mpoviya,Annona senegalensis,NA,6,n,a
+1983,5,1,Mubanga,Pericopsis angolensis,8.4,25.6,n,a
+1983,6,1,Mpondo,Bauhinia petersiana,3.2,6.3,n,a
+1983,7,1,Mtowa,Diplorhynchus condylocarpon,6,9.6,n,a
+1983,8,1,Chiyombo 2,Brachystegia utilis,4.6,10.4,n,a
+1983,8,2,Chiyombo 2,Brachystegia utilis,NA,7.9,n,a
+1983,9,1,Mpondo,Bauhinia petersiana,2.2,5.3,n,a
+1983,10,1,Mubanga,Pericopsis angolensis,3.8,8,n,a
+1983,11,1,Mpondo,Bauhinia petersiana,4.6,6,n,a
+1983,11,2,Mpondo,Bauhinia petersiana,NA,10.5,n,a
+1983,11,3,Mpondo,Bauhinia petersiana,NA,6,n,a
+1983,12,1,Mtowa,Diplorhynchus condylocarpon,4.2,6.9,n,a
+1983,13,1,Mtowa,Diplorhynchus condylocarpon,2.8,5,n,a
+1983,14,1,Chiyombo 2,Brachystegia utilis,2.4,15.6,n,a
+1983,15,1,Kaumbu,Lannea discolor,9,49.2,n,a
+1983,16,1,Mubanga,Pericopsis angolensis,4.6,7.1,n,a
+1983,16,2,Mubanga,Pericopsis angolensis,NA,5.2,n,a
+1983,16,3,Mubanga,Pericopsis angolensis,NA,7.6,n,a
+1983,17,1,Mpoviya,Annona senegalensis,2.6,5,n,a
+1983,17,2,Mpoviya,Annona senegalensis,NA,5,n,a
+1983,18,1,Chiyombo 2,Brachystegia utilis,3.2,5.9,n,a
+1983,18,2,Chiyombo 2,Brachystegia utilis,NA,5.9,n,a
+1983,19,1,Chitimbe,Piliostigma thonningi,3.2,11.8,n,a
+1983,20,1,Lwanhko,Lwankho sp1,3,6.3,n,a
+1983,21,1,Mpondo,Bauhinia petersiana,4.4,8,n,a
+1983,22,1,Chitongolosi,Peltophorum africanum,3,7.5,n,a
+1983,22,2,Chitongolosi,Peltophorum africanum,NA,5,n,a
+1983,23,1,Kalama,Combretum adenogonium,4.8,6.8,n,a
+1983,24,1,Mphangala,Dichrostachys cinerea,3.6,6.8,n,a
+1983,25,1,Kalama,Combretum adenogonium,4.2,8.9,n,a
+1983,26,1,Chiyombo 2,Brachystegia utilis,2.4,8.9,n,a
+4004,1,1,Kalama,Combretum adenogonium,6.6,24.4,n,a
+4004,2,1,Kalama,Combretum adenogonium,3,7.6,n,a
+4004,3,1,Kalama,Combretum adenogonium,5.8,16.1,n,a
+4004,3,2,Kalama,Combretum adenogonium,NA,6.6,n,a
+4004,3,3,Kalama,Combretum adenogonium,NA,6,n,a
+4004,4,1,Mpondo,Bauhinia petersiana,5.8,14,n,a
+4004,4,2,Mpondo,Bauhinia petersiana,NA,9,n,a
+4004,4,3,Mpondo,Bauhinia petersiana,NA,6.9,n,a
+4004,4,4,Mpondo,Bauhinia petersiana,NA,5.9,n,a
+4004,4,5,Mpondo,Bauhinia petersiana,NA,10.7,n,a
+4004,4,6,Mpondo,Bauhinia petersiana,NA,6.4,n,a
+4004,4,7,Mpondo,Bauhinia petersiana,NA,5.2,n,a
+4004,4,8,Mpondo,Bauhinia petersiana,NA,5.8,n,a
+4004,4,9,Mpondo,Bauhinia petersiana,NA,11.1,n,a
+4004,4,10,Mpondo,Bauhinia petersiana,NA,13.9,n,a
+4004,4,11,Mpondo,Bauhinia petersiana,NA,7.7,n,a
+4004,5,1,Kabesha 1,Terminalia stuhlmannii,5.6,21.9,n,a
+4004,6,1,Mpondo,Bauhinia petersiana,5,11.8,n,a
+4004,6,2,Mpondo,Bauhinia petersiana,NA,5.6,n,a
+4004,7,1,Kalama,Combretum adenogonium,4,5.8,n,a
+4004,8,1,Kalama,Combretum adenogonium,4.8,8.5,n,a
+4004,9,1,Chitimbe,Piliostigma thonningi,2.2,14.6,n,a
+4004,10,1,Kabesha 2,Terminalia sericea,3.8,8.5,n,a
+4004,10,2,Kabesha 2,Terminalia sericea,NA,7.1,n,a
+4004,11,1,Kabesha 2,Terminalia sericea,4.4,10,n,a
+4004,12,1,Chiyombo 2 ,Brachystegia utilis,3,7.2,n,a
+4004,13,1,Chiyombo 2 ,Brachystegia utilis,4.8,10.5,n,a
+4004,14,1,Chiyombo 2 ,Brachystegia utilis,3.8,7.2,n,a
+4004,15,1,Chiyombo 2 ,Brachystegia utilis,3.4,8,n,a
+4004,16,1,Chitongolosi,Peltophorum africanum,4.4,8.3,n,a
+4004,17,1,Kalama,Combretum adenogonium,4.8,7.9,n,a
+4004,18,1,Chiyombo 2 ,Brachystegia utilis,6.4,24.2,n,a
+4004,18,2,Chiyombo 2 ,Brachystegia utilis,NA,17.9,n,a
+4004,19,1,Chiyombo 3,Brachystegia stipulata,3.6,5,n,a
+4004,20,1,Chitongolosi,Peltophorum africanum,5.2,5.4,n,a
+4004,20,2,Chitongolosi,Peltophorum africanum,NA,8,n,a
+4004,21,1,Lwanhko,Lwankho sp1,5,17.2,n,a
+4004,22,1,Lwanhko,Lwankho sp1,4.6,10.9,n,a
+4004,23,1,Kabesha 2,Terminalia sericea,5.2,30.2,n,a
+4004,24,1,Kalama,Combretum adenogonium,4.4,6.2,n,a
+4004,24,2,Kalama,Combretum adenogonium,NA,6.6,n,a
+4004,25,1,Chitimbe,Piliostigma thonningi,3.6,7.1,n,a
+4004,26,1,Chitimbe,Piliostigma thonningi,4.6,7.2,n,a
+4004,27,1,Kabesha 2,Terminalia sericea,3.8,7,n,a
+4004,27,2,Kabesha 2,Terminalia sericea,NA,5.5,n,a
+4004,28,1,Chitimbe,Piliostigma thonningi,4.8,13.2,n,a
+4004,28,2,Chitimbe,Piliostigma thonningi,4.8,8.7,n,a
+4004,29,1,Chitimbe,Piliostigma thonningi,5.2,11.2,n,a
+4004,29,2,Chitimbe,Piliostigma thonningi,NA,7.5,n,a
+1662,1,1,Kachele,Kachele sp1,3,5.9,n,a
+1662,2,1,Mtowa,Diplorhynchus condylocarpon,5,12.5,n,a
+1662,3,1,Mugulo,Diospyros kirkii,5.2,22.5,n,a
+1662,4,1,Chiyombo 1,Brachystegia boehmii,12,39.5,n,a
+1662,5,1,Msolo,Pseudolachnostylis maprouneifolia,6.6,26,n,a
+1662,6,1,Kabesha 1,Terminalia stuhlmannii,5.8,19.9,n,a
+1662,7,1,Mugulo,Diospyros kirkii,2.2,5.8,n,a
+1662,8,1,Kalama,Combretum adenogonium,2,10.1,n,a
+1662,9,1,Chiyombo 2 ,Brachystegia utilis,3,5.4,n,a
+3798,1,1,Mukoswe,Cassia abbreviata,4.8,7,n,a
+3798,1,2,Mukoswe,Cassia abbreviata,NA,7,n,a
+3798,1,3,Mukoswe,Cassia abbreviata,NA,5.9,n,a
+3798,1,4,Mukoswe,Cassia abbreviata,NA,6.7,n,a
+3798,2,1,Mukoswe,Cassia abbreviata,3.6,7.5,n,a
+3798,3,1,Chitimbe,Piliostigma thonningi,5.4,22,n,a
+3798,3,2,Chitimbe,Piliostigma thonningi,NA,6,n,a
+3798,4,1,Mtowa,Diplorhynchus condylocarpon,4.4,6.4,n,a
+3798,5,1,Chitimbe,Piliostigma thonningi,2.6,6.2,n,a
+3798,6,1,Chitimbe,Piliostigma thonningi,1.2,6,n,a
+3798,7,1,Chiyombo 2 ,Brachystegia utilis,3,5.6,n,a
+3798,8,1,Mpondo,Bauhinia petersiana,3.6,5.1,n,a
+3798,9,1,Mphangala,Dichrostachys cinerea,3.6,9,n,a
+3798,10,1,Mpondo,Bauhinia petersiana,3.2,5.5,n,a
+3798,11,1,Mukoswe,Cassia abbreviata,5.4,8,n,a
+3798,11,2,Mukoswe,Cassia abbreviata,NA,9,n,a
+3798,11,3,Mukoswe,Cassia abbreviata,NA,7.5,n,a
+3798,12,1,Mukoswe,Cassia abbreviata,5,6.2,n,a
+3798,12,2,Mukoswe,Cassia abbreviata,NA,5.4,n,a
+3798,13,1,Mphangala,Dichrostachys cinerea,3,7.7,n,a
+3798,14,1,Mphangala,Dichrostachys cinerea,11,7.4,n,a
+3798,14,2,Mphangala,Dichrostachys cinerea,NA,10.3,n,a
+3798,15,1,Mtowa,Diplorhynchus condylocarpon,3.2,5,n,a
+3798,16,1,Kabizi,Kabizi sp1,1,5.9,n,a
+4574,1,1,Mukanganjovu,Dalbergiella nyasae,5.8,25.1,n,a
+4574,2,1,Mtowa,Diplorhynchus condylocarpon,4.4,5.6,n,a
+4574,2,2,Mtowa,Diplorhynchus condylocarpon,NA,7.5,n,a
+4574,3,1,Ntuja,Ntuja sp1,4.2,6.9,n,a
+4574,3,2,Ntuja,Ntuja sp1,NA,7.4,n,a
+4574,4,1,Mukalakate,Monotes glaber,10.8,26.1,n,a
+4574,5,1,Kambandule,Kambandule sp1,4.2,11.4,n,a
+4574,5,2,Kambandule,Kambandule sp1,NA,6.6,n,a
+4574,6,1,Mubanga,Pericopsis angolensis,6,22.3,n,a
+4574,7,1,Mukalakate,Monotes glaber,3.4,7.4,n,a
+4574,8,1,Mubanga,Pericopsis angolensis,3.8,10.4,n,a
+4574,9,1,Bovu,Brachystegia longifolia,12,12.3,n,a
+4574,10,1,Mtowa,Diplorhynchus condylocarpon,4.8,13.4,n,a
+4574,11,1,Mtowa,Diplorhynchus condylocarpon,6,5.1,n,a
+4574,11,2,Mtowa,Diplorhynchus condylocarpon,NA,9.5,n,a
+4574,11,3,Mtowa,Diplorhynchus condylocarpon,NA,13,n,a
+4574,12,1,Makole,Makole sp1,3.2,7.5,n,a
+4574,12,2,Makole,Makole sp1,NA,11.9,n,a
+4574,13,1,Matani,Matani sp1,10.4,15,n,a
+4574,13,2,Matani,Matani sp1,NA,15.6,n,a
+4574,14,1,Matani,Matani sp1,7.4,12.8,n,a
+4574,15,1,Msolo,Pseudolachnostylis maprouneifolia,6.4,12.4,n,a
+4574,16,1,Malaza,Malaza sp1,7.6,7.8,n,a
+4574,16,2,Malaza,Malaza sp1,NA,7.4,n,a
+4574,16,3,Malaza,Malaza sp1,NA,5.9,n,a
+4574,16,4,Malaza,Malaza sp1,NA,7.1,n,a
+4574,17,1,Mugulo,Diospyros kirkii,3.2,7.7,n,a
+4574,18,1,Mtowa,Diplorhynchus condylocarpon,3.2,10,n,a
+4574,19,1,Matani,Matani sp1,14.6,30.2,n,a
+4574,19,2,Matani,Matani sp1,NA,33.2,n,a
+4574,20,1,Makole,Makole sp1,4.2,5.7,n,a
+4574,21,1,Chitimbe,Piliostigma thonningi,4.2,6.6,n,a
+4574,21,2,Chitimbe,Piliostigma thonningi,NA,7,n,a
+4574,21,3,Chitimbe,Piliostigma thonningi,NA,6,n,a
+4574,21,4,Chitimbe,Piliostigma thonningi,NA,6.3,n,a
+4574,22,1,Kabesha 1,Terminalia stuhlmannii,3.6,7,n,a
+4574,23,1,Ntuja,Ntuja sp1,3.4,5,n,a
+4574,24,1,Kankulukulu,Kankulukulu sp1,4.2,20.9,n,a
+4574,25,1,Kalama,Combretum adenogonium,3,6.2,n,a
+4574,25,2,Kalama,Combretum adenogonium,NA,5.4,n,a
+4574,26,1,Mulundu,Swartzia madagascariensis,2.8,5.4,n,a
+1043,1,1,Chibowo,Chibowo sp1,3.4,8.1,n,a
+1043,2,1,Kanjondola,Kanjondola sp1,2.8,7.7,n,a
+1043,3,1,Chiyombo 2,Brachystegia utilis,3.4,6,n,a
+1043,4,1,Mukanganjovu,Dalbergiella nyasae,2.6,6,n,a
+1043,5,1,Chiyombo 2,Brachystegia utilis,3.2,9.6,n,a
+1043,6,1,Chiyombo 2,Brachystegia utilis,2.8,7.4,n,a
+1043,7,1,Mphangala,Dichrostachys cinerea,3.6,5,n,a
+1043,8,1,Chiyombo 2,Brachystegia utilis,4.6,13.5,n,a
+1043,9,1,Chiyombo 2,Brachystegia utilis,3.6,7.5,n,a
+1043,10,1,Mpundu,Parinari curatellifolia,1.4,11,n,a
+1043,11,1,Mtondo,Julbernardia paniculata,4.8,13.1,n,a
+1043,12,1,Mtowa,Diplorhynchus condylocarpon,2.2,6.2,n,a
+1043,13,1,Msolo,Pseudolachnostylis maprouneifolia,2.8,7.3,n,a
+1043,14,1,Chiyombo 2,Brachystegia utilis,4,7.7,n,a
+1043,15,1,Chiyombo 2,Brachystegia utilis,3.2,11,n,a
+2665,1,1,Pawpaw,Papaya sp1,3.8,14.1,p,a
+2665,1,2,Pawpaw,Papaya sp1,NA,17.2,p,a
+2665,2,1,Pawpaw,Papaya sp1,3.2,15.3,p,a
+2665,3,1,Pawpaw,Papaya sp1,3.4,8.9,p,a
+2665,4,1,Pawpaw,Papaya sp1,2,12.1,p,a
+2665,5,1,Pawpaw,Papaya sp1,3.2,17.5,p,a
+2665,6,1,Pawpaw,Papaya sp1,3.4,19.4,p,a
+2665,7,1,Banana,Banana sp1,4,11.6,p,a
+2665,7,2,Banana,Banana sp1,NA,10.9,p,a
+2665,8,1,Banana,Banana sp1,4.6,11.1,p,a
+2665,9,1,Banana,Banana sp1,5.2,6,p,a
+2665,10,1,Banana,Banana sp1,2.6,10,p,a
+2665,11,1,Banana,Banana sp1,4.2,9.9,p,a
+2665,12,1,Banana,Banana sp1,5.4,14.5,p,a
+2665,13,1,Banana,Banana sp1,4.8,16.7,p,a
+2665,14,1,Banana,Banana sp1,2.2,7,p,a
+2665,15,1,Banana,Banana sp1,2.2,5.5,p,a
+2665,16,1,Banana,Banana sp1,3.2,9.1,p,a
+2665,17,1,Banana,Banana sp1,4.6,8.4,p,a
+2665,18,1,Banana,Banana sp1,2.8,10.5,p,a
+2665,19,1,Banana,Banana sp1,4,10.7,p,a
+2665,20,1,Banana,Banana sp1,2.2,6.6,p,a
+2665,21,1,Banana,Banana sp1,3.2,12.2,p,a
+2665,22,1,Banana,Banana sp1,2.6,7.8,p,a
+2665,23,1,Banana,Banana sp1,2.6,7.2,p,a
+2665,24,1,Banana,Banana sp1,4.8,20,p,a
+2665,25,1,Banana,Banana sp1,4.2,15.7,p,a
+2665,26,1,Banana,Banana sp1,2.2,7.2,n,a
+2665,27,1,Banana,Banana sp1,2.6,7.5,p,a
+2665,28,1,Banana,Banana sp1,3.4,10,p,a
+2665,29,1,Banana,Banana sp1,4.2,11,p,a
+2665,30,1,Banana,Banana sp1,1.8,5.3,p,a
+2665,31,1,Banana,Banana sp1,1.8,5.5,p,a
+2665,32,1,Banana,Banana sp1,5.4,13.1,p,a
+2665,33,1,Banana,Banana sp1,2.6,7.8,p,a
+2665,34,1,Banana,Banana sp1,6.2,13.6,p,a
+2665,35,1,Banana,Banana sp1,4.6,13.2,p,a
+2665,36,1,Banana,Banana sp1,4.4,13.3,p,a
+2665,37,1,Banana,Banana sp1,5,15.8,p,a
+2665,38,1,Banana,Banana sp1,4.4,21,p,a
+2665,39,1,Banana,Banana sp1,1.8,8.6,p,a
+2665,40,1,Banana,Banana sp1,2.8,8.3,p,a
+2665,41,1,Banana,Banana sp1,3.4,8.9,p,a
+2838,1,1,Msolo,Pseudolachnostylis maprouneifolia,3.2,5.5,n,a
+2838,2,1,Musumbu,Brachystegia allenii,12.4,24,n,a
+2838,3,1,Lwanhko,Lwankho sp1,7.2,17,n,a
+2838,4,1,Mukuvyandolo,Mukuvyandolo sp1,4,7.9,n,a
+2838,5,1,Mpondo,Bauhinia petersiana,2.6,5.1,n,a
+2838,6,1,Chitongolosi,Peltophorum africanum,5,7,n,a
+2838,7,1,Mpondo,Bauhinia petersiana,4.2,14.7,n,a
+2838,8,1,Mtowa,Diplorhynchus condylocarpon,9.4,13.5,n,a
+2838,8,2,Mtowa,Diplorhynchus condylocarpon,NA,22.1,n,a
+2838,8,3,Mtowa,Diplorhynchus condylocarpon,NA,10.5,n,a
+2838,8,4,Mtowa,Diplorhynchus condylocarpon,NA,5,n,a
+2838,9,1,Mtowa,Diplorhynchus condylocarpon,5.2,7.6,n,a
+2838,9,2,Mtowa,Diplorhynchus condylocarpon,NA,8.7,n,a
+2838,10,1,Musumbu,Brachystegia allenii,15.4,28.2,n,a
+2838,11,1,Kalama,Combretum adenogonium,7.2,7.5,n,a
+2838,12,1,Kalama,Combretum adenogonium,3.8,8.9,n,a
+2838,12,2,Kalama,Combretum adenogonium,NA,9,n,a
+2838,13,1,Mtowa,Diplorhynchus condylocarpon,4.8,6.4,n,a
+2838,14,1,Chitongolosi,Peltophorum africanum,3.2,8.7,n,a
+2838,15,1,Kalama,Combretum adenogonium,7,20.2,n,a
+2838,16,1,Mphangala,Dichrostachys cinerea,4.4,7,n,a
+2838,16,2,Mphangala,Dichrostachys cinerea,NA,7.1,n,a
+2838,17,1,Mphangala,Dichrostachys cinerea,4.6,6.3,n,a
+2838,17,2,Mphangala,Dichrostachys cinerea,NA,7.6,n,a
+2838,18,1,Chitimbe,Piliostigma thonningi,6.8,9.6,n,a
+2838,19,1,Kalama,Combretum adenogonium,2,5.3,n,a
+2838,20,1,Kalama,Combretum adenogonium,4,5.3,n,a
+2838,21,1,Mtowa,Diplorhynchus condylocarpon,7,16.6,n,a
+2838,22,1,Msolo,Pseudolachnostylis maprouneifolia,4,7,n,a
+2838,23,1,Mpondo,Bauhinia petersiana,5,7.8,n,a
+2838,23,2,Mpondo,Bauhinia petersiana,NA,5.3,n,a
+2838,24,1,Msolo,Pseudolachnostylis maprouneifolia,8.6,8.9,n,a
+2838,24,2,Msolo,Pseudolachnostylis maprouneifolia,NA,31.3,n,a
+2838,25,1,Mpondo,Bauhinia petersiana,3.8,5.2,n,a
+2838,26,1,Chitongolosi,Peltophorum africanum,5.6,6.2,n,a
+2838,27,1,Mpondo,Bauhinia petersiana,3.4,7.3,n,a
+2838,28,1,Kalama,Combretum adenogonium,4.8,9.9,n,a
+2838,29,1,Mpondo,Bauhinia petersiana,4,6.9,n,a
+2838,29,2,Mpondo,Bauhinia petersiana,NA,5.1,n,a
+2838,29,3,Mpondo,Bauhinia petersiana,NA,6.5,n,a
+2838,30,1,Kalama,Combretum adenogonium,3.4,5.2,n,a
+2838,31,1,Kalama,Combretum adenogonium,4.2,5.2,n,a
+4534,1,1,Kalama,Combretum adenogonium,4.6,8.8,n,a
+4534,2,1,Kalama,Combretum adenogonium,3.2,6.1,n,a
+4534,2,2,Kalama,Combretum adenogonium,NA,7.4,n,a
+4534,3,1,Kabesha 1,Terminalia stuhlmannii,2.4,5.7,n,a
+4534,3,2,Kabesha 1,Terminalia stuhlmannii,NA,7,n,a
+4534,3,3,Kabesha 1,Terminalia stuhlmannii,NA,6.6,n,a
+4534,4,1,Lwanhko,Lwankho sp1,4,8.1,n,a
+4534,5,1,Kalama,Combretum adenogonium,3.2,7.8,n,a
+4534,5,2,Kalama,Combretum adenogonium,NA,18.1,n,a
+4534,5,3,Kalama,Combretum adenogonium,NA,17.7,n,a
+4534,5,4,Kalama,Combretum adenogonium,NA,6.4,n,a
+4534,5,5,Kalama,Combretum adenogonium,NA,9.5,n,a
+4534,6,1,Mugulo,Diospyros kirkii,5.8,18.1,n,a
+4534,6,2,Mugulo,Diospyros kirkii,NA,17.7,n,a
+4534,6,3,Mugulo,Diospyros kirkii,NA,6.4,n,a
+4534,6,4,Mugulo,Diospyros kirkii,NA,9.5,n,a
+4534,7,1,Kabesha 1,Terminalia stuhlmannii,1.8,7,n,a
+4534,8,1,Kalama,Combretum adenogonium,2,5.5,n,a
+4534,9,1,Kalama,Combretum adenogonium,4.4,5,n,a
+4534,10,1,Mpondo,Bauhinia petersiana,3,7.2,n,a
+4534,10,2,Mpondo,Bauhinia petersiana,NA,10.9,n,a
+4534,10,3,Mpondo,Bauhinia petersiana,NA,11.9,n,a
+4534,10,4,Mpondo,Bauhinia petersiana,NA,5.9,n,a
+4534,10,5,Mpondo,Bauhinia petersiana,NA,5.3,n,a
+4534,10,6,Mpondo,Bauhinia petersiana,NA,8.9,n,a
+4534,11,1,Mushabanguzi,Mushabanguzi sp1,3.6,7,n,a
+4534,12,1,Mushabanguzi,Mushabanguzi sp1,2.2,6.3,n,a
+4534,13,1,Mushabanguzi,Mushabanguzi sp1,3.2,5.9,n,a
+4534,14,1,Mushabanguzi,Mushabanguzi sp1,3.8,5.3,n,a
+4534,15,1,Lwanhko,Lwankho sp1,4.2,10.5,n,a
+4534,15,2,Lwanhko,Lwankho sp1,NA,7,n,a
+4534,16,1,Mushabanguzi,Mushabanguzi sp1,4.6,6.9,n,a
+4534,17,1,Kalama,Combretum adenogonium,4.2,7.9,n,a
+4534,18,1,Kalama,Combretum adenogonium,3.2,8.7,n,a
+4534,19,1,Kalama,Combretum adenogonium,6.6,8.4,n,a
+4534,19,2,Kalama,Combretum adenogonium,NA,15.9,n,a
+4534,20,1,Muzonono,Muzonono sp1,5.8,12.7,n,a
+4534,20,2,Muzonono,Muzonono sp1,NA,7,n,a
+4534,21,1,Kalama,Combretum adenogonium,5,7.7,n,a
+4534,21,2,Kalama,Combretum adenogonium,NA,15.2,n,a
+4534,22,1,Kabesha 1,Terminalia stuhlmannii,2,6.2,n,a
+4534,23,1,Kalama,Combretum adenogonium,8.2,6.4,n,a
+4534,23,2,Kalama,Combretum adenogonium,NA,7.1,n,a
+4534,23,3,Kalama,Combretum adenogonium,NA,5,n,a
+4534,23,4,Kalama,Combretum adenogonium,NA,16.7,n,a
+4534,23,5,Kalama,Combretum adenogonium,NA,11.6,n,a
+4534,24,1,Kalama,Combretum adenogonium,6,16,n,a
+4534,25,1,Mpondo,Bauhinia petersiana,1.4,5.5,n,a
+4534,26,1,Kabesha 1,Terminalia stuhlmannii,2.2,6.6,n,a
+4534,27,1,Chitongolosi,Peltophorum africanum,3.8,5,n,a
+4534,28,1,Kalama,Combretum adenogonium,7,16.4,n,a
+4534,29,1,Kalama,Combretum adenogonium,6.8,13.8,n,a
+4534,29,2,Kalama,Combretum adenogonium,NA,10.4,n,a
+4534,30,1,Mpoviya,Annona senegalensis,2.8,7.1,n,a
+4534,31,1,Mpondo,Bauhinia petersiana,3,7.7,n,a
+4534,32,1,Kabesha 1,Terminalia stuhlmannii,2.2,5.4,n,a
+4534,33,1,Mpondo,Bauhinia petersiana,5.4,14,n,a
+4534,33,2,Mpondo,Bauhinia petersiana,NA,8.2,n,a
+4534,33,3,Mpondo,Bauhinia petersiana,NA,5,n,a
+4534,34,1,Kalama,Combretum adenogonium,4.8,9.8,n,a
+4534,35,1,Mpondo,Bauhinia petersiana,4.6,7,n,a
+4534,35,2,Mpondo,Bauhinia petersiana,NA,9.7,n,a
+4534,35,3,Mpondo,Bauhinia petersiana,NA,5,n,a
+4534,36,1,Chitongolosi,Peltophorum africanum,4.4,8.1,n,a
+2439,1,1,Mulombe,Pterocarpus angolensis,15,33.6,n,a
+555,1,1,Mufinsa,Syzygium guineense,7,31.2,n,a
+555,2,1,Mufinsa,Syzygium guineense,7.4,34.3,n,a
+555,3,1,Mufinsa,Syzygium guineense,9,41.1,n,a
+555,4,1,Mufinsa,Syzygium guineense,3.6,8.4,n,a
+555,4,2,Mufinsa,Syzygium guineense,NA,12.9,n,a
+555,4,3,Mufinsa,Syzygium guineense,NA,9.4,n,a
+555,4,4,Mufinsa,Syzygium guineense,NA,16.1,n,a
+555,5,1,Mufinsa,Syzygium guineense,5.4,34.6,n,a
+555,5,2,Mufinsa,Syzygium guineense,NA,26,n,a
+555,6,1,Mufinsa,Syzygium guineense,6.4,29.5,n,a
+555,6,2,Mufinsa,Syzygium guineense,NA,27.2,n,a
+555,7,1,Mufinsa,Syzygium guineense,4.4,19.8,n,a
+555,8,1,Mufinsa,Syzygium guineense,6.8,24.9,n,a
+555,9,1,Mufinsa,Syzygium guineense,4,21.3,n,a
+555,9,2,Mufinsa,Syzygium guineense,NA,21.7,n,a
+555,10,1,Mufinsa,Syzygium guineense,6.6,23.8,n,a
+555,11,1,Mufinsa,Syzygium guineense,6.6,32.7,n,a
+555,11,2,Mufinsa,Syzygium guineense,NA,33.8,n,a
+555,11,3,Mufinsa,Syzygium guineense,NA,25.5,n,a
+555,12,1,Mufinsa,Syzygium guineense,2.6,12.1,n,a
+555,12,2,Mufinsa,Syzygium guineense,NA,9.2,n,a
+924,1,1,Kalama,Combretum adenogonium,2,5.6,n,a
+924,2,1,Kankande,Ziziphus abyssinica,7.2,22.7,n,a
+924,2,2,Kankande,Ziziphus abyssinica,NA,26.3,n,a
+924,3,1,Kabesha 2,Terminalia sericea,5.4,13.6,n,a
+924,3,2,Kabesha 2,Terminalia sericea,NA,5.4,n,a
+924,3,3,Kabesha 2,Terminalia sericea,NA,5.2,n,a
+924,4,1,Chitimbe,Piliostigma thonningii,1.6,5.1,n,a
+924,5,1,Kabesha 2,Terminalia sericea,2.4,7.2,n,a
+924,6,1,Kabesha 2,Terminalia sericea,3.8,7.2,n,a
+924,6,2,Kabesha 2,Terminalia sericea,NA,5.3,n,a
+924,7,1,Kalama,Combretum adenogonium,4.4,5.3,n,a
+924,8,1,Chitongolosi,Peltophorum africanum,3.6,5,n,a
+924,9,1,Chitongolosi,Peltophorum africanum,3.2,5.8,n,a
+924,10,1,Chitongolosi,Peltophorum africanum,3.6,7,n,a
+924,10,2,Chitongolosi,Peltophorum africanum,NA,5.7,n,a
+924,11,1,Kabesha 2,Terminalia sericea,2.2,5.5,n,a
+924,12,1,Kaumbu,Lannea discolor,3.6,10.2,n,a
+924,13,1,Chiwowo,Rothmannia englerana,3.2,8.6,n,a
+924,14,1,Kabesha 2,Terminalia sericea,3.2,7,n,a
+924,15,1,Mpondo,Bauhinia petersiana,2.6,15.3,n,a
+924,15,2,Mpondo,Bauhinia petersiana,NA,7.2,n,a
+924,15,3,Mpondo,Bauhinia petersiana,NA,9.5,n,a
+924,15,4,Mpondo,Bauhinia petersiana,NA,8,n,a
+924,16,1,Mpoviya,Annona senegalensis,2.2,5.2,n,a
+924,17,1,Kankande,Ziziphus abyssinica,5,7.5,n,a
+924,17,2,Kankande,Ziziphus abyssinica,NA,15.6,n,a
+924,17,3,Kankande,Ziziphus abyssinica,NA,7.1,n,a
+924,17,4,Kankande,Ziziphus abyssinica,NA,7.9,n,a
+924,17,5,Kankande,Ziziphus abyssinica,NA,12.2,n,a
+924,17,6,Kankande,Ziziphus abyssinica,NA,8.4,n,a
+924,17,7,Kankande,Ziziphus abyssinica,NA,16,n,a
+924,18,1,Kabesha 1,Terminalia stuhlmannii,6.4,9.5,n,a
+924,18,2,Kabesha 1,Terminalia stuhlmannii,NA,7.3,n,a
+924,19,1,Kalama,Combretum adenogonium,7,15.2,n,a
+924,19,2,Kalama,Combretum adenogonium,NA,17,n,a
+924,20,1,Chitimbe,Piliostigma thonningii,4,8,n,a
+924,20,2,Chitimbe,Piliostigma thonningii,4,8.6,n,a
+924,21,1,Muzonono,Muzonono sp1,8.8,9.5,n,a
+924,21,2,Muzonono,Muzonono sp1,NA,13.3,n,a
+924,21,3,Muzonono,Muzonono sp1,NA,15.9,n,a
+924,22,1,Kalama,Combretum adenogonium,7,5,n,a
+924,22,2,Kalama,Combretum adenogonium,NA,13.9,n,a
+924,22,3,Kalama,Combretum adenogonium,NA,6.2,n,a
+924,23,1,Kalama,Combretum adenogonium,6.6,19.9,n,a
+924,24,1,Mpoviya,Annona senegalensis,2.6,5.5,n,a
+924,25,1,Kankande,Ziziphus abyssinica,3.2,8.5,n,a
+924,25,2,Kankande,Ziziphus abyssinica,NA,13.2,n,a
+924,26,1,Kankande,Ziziphus abyssinica,6.6,5.6,n,a
+924,26,2,Kankande,Ziziphus abyssinica,NA,15.9,n,a
+924,26,3,Kankande,Ziziphus abyssinica,NA,22,n,a
+2012,1,1,Mpundu,Parinari curatellifolia,2.6,5.1,n,a
+2012,2,1,Mtowa,Diplorhynchus condylocarpon,6.6,9.9,n,a
+2012,2,2,Mtowa,Diplorhynchus condylocarpon,NA,15.4,n,a
+2012,3,1,Mtowa,Diplorhynchus condylocarpon,8,17.6,n,a
+2012,4,1,Mtowa,Diplorhynchus condylocarpon,3.6,5.5,n,a
+2012,5,1,Changwe,Xylopia odoratissima,2.6,13.2,n,a
+2012,6,1,Mubanga,Pericopsis angolensis,1.6,7.1,n,a
+2012,7,1,Chiyombo 2,Brachystegia utilis,3.6,5.5,n,a
+2012,8,1,Chiyele,Protea angolensis,4.8,10,n,a
+2012,9,1,Mtowa,Diplorhynchus condylocarpon,12,15,n,a
+2012,10,1,Mukalakate,Monotes glaber,9.4,20.4,n,a
+2012,10,2,Mukalakate,Monotes glaber,NA,21.5,n,a
+2012,11,1,Mulivwi,Mulivwi sp1,2.2,5.9,n,a
+2012,12,1,Mtondo,Julbernardia paniculata,16.6,41.1,n,a
+2012,13,1,Muswamino,Muswamino sp1,4.2,16.8,n,a
+2012,13,2,Muswamino,Muswamino sp1,NA,5.1,n,a
+2012,13,3,Muswamino,Muswamino sp1,NA,9.6,n,a
+2012,13,4,Muswamino,Muswamino sp1,NA,13.5,n,a
+2012,14,1,Mpyoka,Hymenocardia acida,3.6,5.5,n,a
+2311,1,1,Mtowa,Diplorhynchus condylocarpon,1.8,13.7,n,a
+2311,2,1,Muzakaka,Muzakaka sp1,3.4,5.5,n,a
+2311,3,1,Muzakaka,Muzakaka sp1,4.4,5.3,n,a
+2311,4,1,Mtondo,Julbernardia paniculata,8.2,13.8,n,a
+2311,5,1,Mtondo,Julbernardia paniculata,5.8,9.5,n,a
+2311,6,1,Muzakaka,Muzakaka sp1,3.6,6.1,n,a
+2311,7,1,Chifubu,Chifubu sp1,3.2,6.1,n,a
+2311,8,1,Mtondo,Julbernardia paniculata,4.6,5.3,n,a
+2311,8,2,Mtondo,Julbernardia paniculata,NA,8.4,n,a
+2311,8,3,Mtondo,Julbernardia paniculata,NA,5.2,n,a
+2311,9,1,Masuku,Uapaca Kirkiana,3.6,5.9,n,a
+2311,10,1,Kalama musweta,Combretum collinum,6,9.4,n,a
+2311,11,1,Mphantwe,Mphantwe sp1,3.4,5.9,n,a
+2311,12,1,Kambulunje,Kambulunje sp1,2.6,8.9,n,a
+2311,13,1,Masuku,Uapaca Kirkiana,3.2,5,n,a
+2311,14,1,Chiyombo 2,Brachystegia utilis,1.2,8.2,n,a
+2311,14,2,Chiyombo 2,Brachystegia utilis,NA,9.2,n,a
+2311,15,1,Chiyombo 2,Brachystegia utilis,4.8,8.5,n,a
+2311,16,1,Mtowa,Diplorhynchus condylocarpon,7,9.6,n,a
+2311,17,1,Mtowa,Diplorhynchus condylocarpon,2.8,6,n,a
+2311,18,1,Chiyombo 2,Brachystegia utilis,1.8,6,n,a
+2311,19,1,Chiyombo 2,Brachystegia utilis,4.8,9,n,a
+2311,20,1,Chiyombo 2,Brachystegia utilis,2.2,6.1,n,a
+2311,21,1,Muzakaka,Muzakaka sp1,3.4,10.8,n,a
+2311,21,2,Muzakaka,Muzakaka sp1,NA,8.3,n,a
+2311,22,1,Masuku,Uapaca Kirkiana,7.6,12.6,n,a
+2311,22,2,Masuku,Uapaca Kirkiana,NA,17.2,n,a
+2311,22,3,Masuku,Uapaca Kirkiana,NA,6.5,n,a
+2311,23,1,Chiyombo 2,Brachystegia utilis,3,9.9,n,a
+2311,24,1,Chiyombo 2,Brachystegia utilis,4.4,6.5,n,a
+2311,24,2,Chiyombo 2,Brachystegia utilis,NA,6.3,n,a
+2311,25,1,Chifubu,Chifubu sp1,3.8,7,n,a
+2311,25,2,Chifubu,Chifubu sp1,NA,6.5,n,a
+2311,26,1,Chiyombo 2,Brachystegia utilis,4.8,7.5,n,a
+2311,27,1,Chiyombo 2,Brachystegia utilis,5.8,12.6,n,a
+2311,28,1,Chiyombo 2,Brachystegia utilis,4.8,11.7,n,a
+2311,29,1,Sukunyubu,Sukunyubu sp1,3.4,6.1,n,a
+2311,30,1,Chiyombo 2,Brachystegia utilis,5,9.1,n,a
+2311,30,2,Chiyombo 2,Brachystegia utilis,NA,8.5,n,a
+2686,1,1,Muzayi,Strychnos spinosa,5.2,11.3,n,a
+2686,2,1,Mtowa,Diplorhynchus condylocarpon,5,5.9,n,a
+2686,3,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,7.5,n,a
+2686,4,1,Mtowa,Diplorhynchus condylocarpon,3.6,6,n,a
+2686,5,1,Mukalakate,Monotes glaber,7.6,23.8,n,a
+2686,6,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,5.1,n,a
+2686,6,2,Msolo,Pseudolachnostylis maprouneifolia,NA,5,n,a
+2686,7,1,Mtowa,Diplorhynchus condylocarpon,5.2,6.4,n,a
+2686,8,1,Chagaga,Maprounea africana,4.2,9.8,n,a
+2686,8,2,Chagaga,Maprounea africana,4.2,6.9,n,a
+2686,9,1,Muzayi,Strychnos spinosa,5.2,8.5,n,a
+2686,10,1,Mpyoka,Hymenocardia acida,4.8,6,n,a
+2686,11,1,Chagaga,Maprounea africana,2.2,5.5,n,a
+2686,12,1,Mubanga,Pericopsis angolensis,3.6,6.4,n,a
+2686,13,1,Mpyoka,Hymenocardia acida,2.8,5.4,n,a
+2686,14,1,Mpyoka,Hymenocardia acida,3.2,6.8,n,a
+2686,15,1,Kaumbu,Lannea discolor,3,9,n,a
+2686,16,1,Chiyombo 3,Brachystegia stipulata,8.2,25.8,n,a
+2686,17,1,Kabesha 1,Terminalia stuhlmannii,3.8,5.6,n,a
+2686,17,2,Kabesha 1,Terminalia stuhlmannii,NA,9.5,n,a
+2686,17,3,Kabesha 1,Terminalia stuhlmannii,NA,9.1,n,a
+2686,18,1,Mubanga,Pericopsis angolensis,5.4,9.2,n,a
+2686,19,1,Chagaga,Maprounea africana,3.8,7.5,n,a
+2234,1,1,Chiyombo 2,Brachystegia utilis,6,9,n,a
+2234,1,2,Chiyombo 2,Brachystegia utilis,NA,10,n,a
+2234,1,3,Chiyombo 2,Brachystegia utilis,NA,9.5,n,a
+2234,1,4,Chiyombo 2,Brachystegia utilis,NA,9.2,n,a
+2234,2,1,Msolo,Pseudolachnostylis maprouneifolia,5.2,7.3,n,a
+2234,3,1,Chiyombo 2,Brachystegia utilis,4.2,10.1,n,a
+2234,3,2,Chiyombo 2,Brachystegia utilis,NA,6.1,n,a
+2234,3,3,Chiyombo 2,Brachystegia utilis,NA,14.9,n,a
+2234,4,1,Mtowa,Diplorhynchus condylocarpon,6.6,6.9,n,a
+2234,5,1,Kamponi,Julbernardia globiflora,5.2,6.1,n,a
+2234,6,1,Mukalakate,Monotes glaber,5,7.5,n,a
+2234,6,2,Mukalakate,Monotes glaber,NA,5.5,n,a
+2234,7,1,Wabona,Wabona sp1,4.4,10.6,n,a
+2234,8,1,Chiyombo 2,Brachystegia utilis,3.4,6.3,n,a
+2234,8,2,Chiyombo 2,Brachystegia utilis,NA,7,n,a
+2234,9,1,Kamponi,Julbernardia globiflora,15.6,35.2,n,a
+2234,10,1,Mtowa,Diplorhynchus condylocarpon,5,5.8,n,a
+2234,11,1,Mtowa,Diplorhynchus condylocarpon,4.6,6.2,n,a
+2234,12,1,Chiyombo 2,Brachystegia utilis,6.8,6.6,n,a
+2234,12,2,Chiyombo 2,Brachystegia utilis,NA,6.7,n,a
+2234,13,1,Kamponi,Julbernardia globiflora,8.4,27,n,a
+2234,14,1,Kamponi,Julbernardia globiflora,7.4,8.5,n,a
+2234,14,2,Kamponi,Julbernardia globiflora,NA,20.1,n,a
+2234,15,1,Chiyombo 1,Brachystegia boehmii,4.6,7,n,a
+2234,15,2,Chiyombo 1,Brachystegia boehmii,NA,7.2,n,a
+2234,16,1,Kalama,Combretum adenogonium,5.8,6.5,n,a
+2234,17,1,Kamponi,Julbernardia globiflora,10.4,26.2,n,a
+2234,18,1,Kamponi,Julbernardia globiflora,5.6,6.2,n,a
+2234,19,1,Mtowa,Diplorhynchus condylocarpon,6,8.4,n,a
+2234,20,1,Kalama,Combretum adenogonium,6.8,10.2,n,a
+2234,21,1,Mtowa,Diplorhynchus condylocarpon,6,6.5,n,a
+2234,21,2,Mtowa,Diplorhynchus condylocarpon,NA,5.5,n,a
+4560,1,1,Mtondo,Julbernardia paniculata,10,10,n,a
+4560,2,1,Chiyombo 2,Brachystegia utilis,6.2,8,n,a
+4560,3,1,Mtondo,Julbernardia paniculata,5,6.9,n,d
+4560,4,1,Kamponi,Julbernardia globiflora,7.8,9.3,n,a
+4560,5,1,Kamponi,Julbernardia globiflora,9,9,n,a
+4560,6,1,Kamponi,Julbernardia globiflora,8.2,6.5,n,a
+4560,7,1,Kamponi,Julbernardia globiflora,5.8,6.6,n,a
+4560,8,1,Kamponi,Julbernardia globiflora,8.4,9.9,n,a
+4560,9,1,Chiyombo 2,Brachystegia utilis,5,6.7,n,a
+4560,10,1,Kamponi,Julbernardia globiflora,5,7,n,a
+4560,11,1,Kamponi,Julbernardia globiflora,8.4,11.5,n,a
+4560,12,1,Kamponi,Julbernardia globiflora,6.4,8,n,a
+4560,13,1,Chiyombo 2,Brachystegia utilis,6.4,7.9,n,a
+4560,14,1,Kamponi,Julbernardia globiflora,6,6.8,n,a
+4560,15,1,Luvungwe,Dalbergia nitidula,2.8,6,n,a
+4560,16,1,Kamponi,Julbernardia globiflora,5.6,10.2,n,a
+4560,17,1,Chiyombo 2,Brachystegia utilis,6.6,5.2,n,a
+4560,17,2,Chiyombo 2,Brachystegia utilis,NA,10,n,a
+4560,17,3,Chiyombo 2,Brachystegia utilis,NA,8,n,a
+4560,17,4,Chiyombo 2,Brachystegia utilis,NA,7.7,n,a
+4560,18,1,Mtondo,Julbernardia paniculata,9.6,10.1,n,a
+4560,19,1,Chiyombo 1,Brachystegia boehmii,7.4,10.9,n,a
+4560,20,1,Mudima,Mudima sp1,4.2,6.2,n,a
+4560,21,1,Luvungwe,Dalbergia nitidula,4,5.4,n,a
+4560,22,1,Chiyombo 2,Brachystegia utilis,6.6,7.5,n,a
+4560,23,1,Mtondo,Julbernardia paniculata,7.2,8.3,n,a
+4560,23,2,Mtondo,Julbernardia paniculata,NA,9.1,n,a
+4560,24,1,Msolo,Pseudolachnostylis maprouneifolia,5.8,9,n,a
+4560,24,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.5,n,a
+4560,24,3,Msolo,Pseudolachnostylis maprouneifolia,NA,10.2,n,a
+4560,24,4,Msolo,Pseudolachnostylis maprouneifolia,NA,5.4,n,a
+4560,25,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,7.5,n,a
+4560,26,1,Kamponi,Julbernardia globiflora,8.2,7,n,a
+4560,27,1,Kamponi,Julbernardia globiflora,9.2,11.6,n,a
+4560,28,1,Mtowa,Diplorhynchus condylocarpon,9.4,7,n,a
+4560,28,2,Mtowa,Diplorhynchus condylocarpon,NA,6.2,n,a
+4560,29,1,Kamponi,Julbernardia globiflora,7,6.6,n,a
+4560,30,1,Chiyombo 1,Brachystegia boehmii,5,5.3,n,a
+4560,30,2,Chiyombo 1,Brachystegia boehmii,NA,5.9,n,a
+4560,31,1,Kamponi,Julbernardia globiflora,8.6,10,n,a
+4560,32,1,Kamponi,Julbernardia globiflora,6.8,7.4,n,a
+4560,33,1,Kamponi,Julbernardia globiflora,9,11.9,n,a
+4560,34,1,Kamponi,Julbernardia globiflora,7.6,7,n,a
+4560,35,1,Mtondo,Julbernardia paniculata,10.4,10.8,n,a
+4560,36,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,11,n,a
+4560,37,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,8.2,n,a
+4560,37,2,Msolo,Pseudolachnostylis maprouneifolia,NA,9,n,a
+4560,38,1,Kamponi,Julbernardia globiflora,7,5.9,n,a
+4560,39,1,Mtondo,Julbernardia paniculata,11,16.3,n,a
+4560,40,1,Kamponi,Julbernardia globiflora,5.8,5.5,n,a
+4560,41,1,Kamponi,Julbernardia globiflora,7.2,6.2,n,a
+4560,42,1,Mtondo,Julbernardia paniculata,8.6,10,n,a
+4560,43,1,Mtondo,Julbernardia paniculata,8.6,8.3,n,a
+395,1,1,Mubanga,Pericopsis angolensis,14.2,40,n,a
+395,2,1,Mulombe,Pterocarpus angolensis,20,45,n,a
+395,3,1,Chimpakasa,Lonchocarpus capassa,11.2,19,n,a
+395,4,1,Chimpakasa,Lonchocarpus capassa,8.4,16,n,a
+395,5,1,Kabizi,Kabizi sp1,18.6,42,n,a
+395,6,1,Chimpakasa,Lonchocarpus capassa,3,7,n,a
+395,7,1,Chimpakasa,Lonchocarpus capassa,3.4,7,n,a
+395,8,1,Chimpakasa,Lonchocarpus capassa,2.8,8,n,a
+395,9,1,Chimpakasa,Lonchocarpus capassa,1.8,5,n,a
+395,10,1,Chimpakasa,Lonchocarpus capassa,3,5.6,n,a
+1699,1,1,Musumbu,Brachystegia allenii,12,11.8,n,a
+1699,2,1,Musumbu,Brachystegia allenii,8.6,8.1,n,a
+1699,3,1,Msolo,Pseudolachnostylis maprouneifolia,8.4,23.1,n,a
+1699,4,1,Musumbu,Brachystegia allenii,8.4,10.5,n,a
+1699,5,1,Musumbu,Brachystegia allenii,9,9.6,n,a
+1699,6,1,Chiyombo 2,Brachystegia utilis,6,6.2,n,a
+1699,7,1,Chiyombo 2,Brachystegia utilis,6.6,6.8,n,a
+1699,8,1,Musumbu,Brachystegia allenii,11.2,8,n,a
+1699,9,1,Musumbu,Brachystegia allenii,6.8,8.9,n,a
+1699,10,1,Musumbu,Brachystegia allenii,12.6,14.2,n,a
+1699,11,1,Mugulo,Diospyros kirkii,3.6,6.1,n,a
+1699,11,2,Mugulo,Diospyros kirkii,NA,5.7,n,a
+1699,12,1,Mugulo,Diospyros kirkii,5.4,13.3,n,a
+1699,12,2,Mugulo,Diospyros kirkii,NA,17.3,n,a
+1699,13,1,Chiyombo 2,Brachystegia utilis,9.2,12.9,n,a
+1699,14,1,Musumbu,Brachystegia allenii,7.4,8.1,n,a
+1699,15,1,Musumbu,Brachystegia allenii,13.6,19.9,n,a
+1699,16,1,Chiyombo 2,Brachystegia utilis,5.2,5.1,n,a
+1699,17,1,Musumbu,Brachystegia allenii,6,5.3,n,a
+1699,18,1,Chiyombo 2,Brachystegia utilis,5.8,6,n,a
+1699,19,1,Musumbu,Brachystegia allenii,10.4,7.2,n,a
+1699,19,2,Musumbu,Brachystegia allenii,NA,13.3,n,a
+1699,20,1,Msolo,Pseudolachnostylis maprouneifolia,5.4,6.1,n,a
+1699,21,1,Musumbu,Brachystegia allenii,9.2,7.4,n,a
+1699,22,1,Musumbu,Brachystegia allenii,10.4,9.2,n,a
+1699,22,2,Musumbu,Brachystegia allenii,NA,13.5,n,a
+1699,23,1,Musumbu,Brachystegia allenii,9.6,10,n,a
+1699,24,1,Mtowa,Diplorhynchus condylocarpon,5.6,9.9,n,a
+1699,25,1,Kalamafupa,Combretum zeyheri,7.4,12.9,n,a
+1699,26,1,Mpondo,Bauhinia petersiana,4.4,5,n,a
+1699,27,1,Mubanga,Pericopsis angolensis,15.2,37.8,n,a
+1699,28,1,Mugulo,Diospyros kirkii,5.4,11.8,n,a
+1699,29,1,Mugulo,Diospyros kirkii,3.4,6,n,a
+1699,30,1,Musumbu,Brachystegia allenii,10.8,10.5,n,a
+1699,31,1,Musumbu,Brachystegia allenii,9.8,13.3,n,a
+1699,32,1,Musumbu,Brachystegia allenii,10.6,9.9,n,a
+1699,33,1,Musumbu,Brachystegia allenii,8.4,16.6,n,a
+1699,34,1,Mugulo,Diospyros kirkii,5,10.4,n,a
+1699,34,2,Mugulo,Diospyros kirkii,NA,11,n,a
+1699,35,1,Chiyombo 2,Brachystegia utilis,7.8,11.2,n,a
+1699,36,1,Musumbu,Brachystegia allenii,7,5,n,a
+406,1,1,Kafifi,Acacia gerrardii,12.2,22.6,n,a
+406,2,1,Khowse,Khowse sp1,9,17.5,n,a
+406,2,2,Khowse,Khowse sp1,NA,13.4,n,a
+406,2,3,Khowse,Khowse sp1,NA,14.5,n,a
+406,3,1,Luvungwe,Dalbergia nitidula,9.8,17.2,n,a
+406,4,1,Msolo,Pseudolachnostylis maprouneifolia,7.2,15.1,n,a
+406,4,2,Msolo,Pseudolachnostylis maprouneifolia,NA,13.5,n,a
+406,5,1,Luvungwe,Dalbergia nitidula,6.2,12.7,n,a
+406,6,1,Kabizi,Kabizi sp1,9.6,12.5,n,d
+1342,1,1,Chiyombo 2,Brachystegia utilis,6.4,6.2,n,a
+1342,1,2,Chiyombo 2,Brachystegia utilis,NA,6,n,a
+1342,2,1,Msolo,Pseudolachnostylis maprouneifolia,6.6,7.5,n,a
+1342,3,1,Kamponi,Julbernardia globiflora,6.8,5.4,n,a
+1342,4,1,Kamponi,Julbernardia globiflora,9,10.2,n,d
+1342,5,1,Msolo,Pseudolachnostylis maprouneifolia,7.6,11.5,n,a
+1342,6,1,Kamponi,Julbernardia globiflora,8.8,10,n,a
+1342,7,1,Kamponi,Julbernardia globiflora,6,8.9,n,a
+1342,8,1,Kamponi,Julbernardia globiflora,8.2,6.9,n,a
+1342,9,1,Kamemena,Jasminum fluminense,4.2,5.6,n,a
+1342,10,1,Mukalakate,Monotes glaber,3,5.4,n,a
+1342,11,1,Kamponi,Julbernardia globiflora,10,11.5,n,a
+1342,12,1,Mukalakate,Monotes glaber,3.8,6.3,n,a
+1342,13,1,Musumbu,Brachystegia allenii,9,11.9,n,a
+1342,13,2,Musumbu,Brachystegia allenii,NA,13.3,n,a
+1342,13,3,Musumbu,Brachystegia allenii,NA,9.5,n,a
+1342,14,1,Kabizi,Kabizi sp1,6.2,7,n,a
+1342,15,1,Chiyombo 2,Brachystegia utilis,8,7.5,n,a
+1342,16,1,Kamponi,Julbernardia globiflora,7.4,5.3,n,a
+1342,17,1,Mukalakate,Monotes glaber,5,6.4,n,a
+1342,18,1,Kamponi,Julbernardia globiflora,5.6,9,n,a
+1342,19,1,Mukalakate,Monotes glaber,3.2,5.1,n,a
+1342,20,1,Mukalakate,Monotes glaber,5.4,5.2,n,a
+1342,21,1,Kamponi,Julbernardia globiflora,8.6,11.3,n,a
+1342,22,1,Kalamafupa,Combretum zeyheri,4.2,5.1,n,a
+1342,23,1,Mukalakate,Monotes glaber,4,6,n,a
+1342,23,2,Mukalakate,Monotes glaber,NA,5.8,n,a
+1342,23,3,Mukalakate,Monotes glaber,NA,5.2,n,a
+1342,24,1,Kamponi,Julbernardia globiflora,6.8,7.5,n,a
+1342,25,1,Chiyombo 2,Brachystegia utilis,4,6.5,n,a
+1342,26,1,Kamponi,Julbernardia globiflora,9,12.2,n,a
+1342,27,1,Mukalakate,Monotes glaber,4.8,7.2,n,a
+1342,28,1,Kabizi,Kabizi sp1,6.2,9,n,a
+1342,29,1,Kamponi,Julbernardia globiflora,8.4,5.3,n,a
+1342,30,1,Kamponi,Julbernardia globiflora,6.6,5.1,n,a
+1342,31,1,Kamponi,Julbernardia globiflora,6.6,5.4,n,a
+1342,32,1,Kamponi,Julbernardia globiflora,9.4,11.6,n,a
+1342,33,1,Mukalakate,Monotes glaber,4.2,6.9,n,a
+1342,34,1,Kamponi,Julbernardia globiflora,7.4,5.9,n,a
+1342,35,1,Mupapadahdan,Mupapadahdan sp1,9.4,9.4,n,a
+1342,36,1,Chiyombo 2,Brachystegia utilis,5.4,6.4,n,a
+1342,37,1,Kamponi,Julbernardia globiflora,6.4,5.6,n,a
+1342,38,1,Kamponi,Julbernardia globiflora,10,10.9,n,a
+1342,39,1,Mulombe,Pterocarpus angolensis,4,5.4,n,a
+1342,40,1,Kamponi,Julbernardia globiflora,3.8,5.1,n,a
+1342,41,1,Kamponi,Julbernardia globiflora,7,9.5,n,a
+1342,42,1,Kamponi,Julbernardia globiflora,7.8,5.6,n,a
+1342,43,1,Wabona,Wabona sp1,5.4,6.7,n,a
+1342,44,1,Kamponi,Julbernardia globiflora,6,6.8,n,a
+1342,45,1,Musumbu,Brachystegia allenii,10.8,13.2,n,a
+1342,46,1,Kamponi,Julbernardia globiflora,6.8,7,n,a
+1342,47,1,Kaumbu,Lannea discolor,4.2,7.2,n,a
+1342,48,1,Musumbu,Brachystegia allenii,12.2,12,n,a
+1342,48,2,Musumbu,Brachystegia allenii,NA,8.7,n,a
+1342,49,1,Chiyombo 2,Brachystegia utilis,8.2,8,n,a
+1342,50,1,Kamponi,Julbernardia globiflora,6.6,9.2,n,a
+1342,51,1,Kamponi,Julbernardia globiflora,8.4,8.6,n,a
+2274,1,1,Chitimbe,Piliostigma thonningii,5.4,9.8,n,a
+2274,1,2,Chitimbe,Piliostigma thonningii,NA,6,n,a
+2274,1,3,Chitimbe,Piliostigma thonningii,NA,5,n,a
+2274,2,1,Musongole,Musongole sp1,2.8,5.1,n,a
+2274,3,1,Mtondo,Julbernardia paniculata,4.6,6.9,n,a
+2274,4,1,Musongole,Musongole sp1,2.6,6,n,a
+2274,5,1,Mtondo,Julbernardia paniculata,3.8,6.4,n,a
+2274,6,1,Mtondo,Julbernardia paniculata,4.8,6.1,n,a
+2274,7,1,Chitimbe,Piliostigma thonningii,4.4,7.4,n,a
+2274,8,1,Chitimbe,Piliostigma thonningii,4.8,7.8,n,a
+2274,8,2,Chitimbe,Piliostigma thonningii,NA,7.8,n,a
+2274,8,3,Chitimbe,Piliostigma thonningii,NA,7.2,n,a
+2274,9,1,Mtondo,Julbernardia paniculata,3.6,5.1,n,a
+2274,10,1,Kamponi,Julbernardia globiflora,4.6,5.7,n,a
+2274,11,1,Mtondo,Julbernardia paniculata,4,5.1,n,a
+2274,12,1,Mtondo,Julbernardia paniculata,4.8,5.1,n,a
+2274,13,1,Chitimbe,Piliostigma thonningii,3,6.9,n,a
+2274,14,1,Mtondo,Julbernardia paniculata,4.8,5.4,n,a
+2274,15,1,Mubanga,Pericopsis angolensis,14.6,56.1,n,a
+2274,16,1,Mufinsa,Syzygium guineense,4.4,6,n,a
+2274,17,1,Kabeza,Strychnos cocculoides,3.2,7,n,a
+2274,18,1,Luvungwe,Dalbergia nitidula,3.2,5,n,a
+2146,1,1,Kamponi,Julbernardia globiflora,6.8,7,n,a
+2146,2,1,Kamponi,Julbernardia globiflora,8.8,8.9,n,a
+2146,3,1,Mtowa,Diplorhynchus condylocarpon,2.8,5.1,n,a
+2146,3,2,Mtowa,Diplorhynchus condylocarpon,NA,5,n,a
+2146,4,1,Kamponi,Julbernardia globiflora,5.4,9.8,n,a
+2146,5,1,Kamponi,Julbernardia globiflora,5.8,12.8,n,a
+2146,5,2,Kamponi,Julbernardia globiflora,NA,7,n,a
+2146,6,1,Kamponi,Julbernardia globiflora,6,7,n,a
+2146,6,2,Kamponi,Julbernardia globiflora,NA,6,n,a
+2146,6,3,Kamponi,Julbernardia globiflora,NA,8.9,n,a
+2146,7,1,Kamponi,Julbernardia globiflora,5.6,5,n,a
+2146,8,1,Kamponi,Julbernardia globiflora,6.4,10.9,n,a
+2146,9,1,Chimpakasa,Lonchocarpus capassa,5.6,10.1,n,a
+2146,10,1,Kabesha 1,Terminalia stuhlmannii,5,8,n,a
+2146,11,1,Kamponi,Julbernardia globiflora,4,8.2,n,a
+2146,12,1,Chiyombo 2,Brachystegia utilis,7.2,10,n,a
+2146,12,2,Chiyombo 2,Brachystegia utilis,NA,13.3,n,a
+2146,13,1,Chiyombo 2,Brachystegia utilis,3.4,8.1,n,a
+2146,14,1,Msolo,Pseudolachnostylis maprouneifolia,4,5.5,n,a
+2146,14,2,Msolo,Pseudolachnostylis maprouneifolia,NA,5,n,a
+2146,14,3,Msolo,Pseudolachnostylis maprouneifolia,NA,4.5,n,a
+2146,15,1,Kamponi,Julbernardia globiflora,4,5,n,a
+2146,16,1,Kamponi,Julbernardia globiflora,5.8,7.9,n,a
+2146,17,1,Kamponi,Julbernardia globiflora,4.4,6,n,a
+2146,18,1,Chiyombo 2,Brachystegia utilis,5,5.5,n,a
+2146,19,1,Gobogobo,Crosspteryx febrijuga,4.8,11.1,n,a
+2146,19,2,Gobogobo,Crosspteryx febrijuga,NA,7.1,n,a
+2146,19,3,Gobogobo,Crosspteryx febrijuga,NA,7,n,a
+2146,20,1,Lwanhko,Lwankho sp1,4,7.6,n,a
+2146,21,1,Mtowa,Diplorhynchus condylocarpon,4,7.2,n,a
+2146,22,1,Kamponi,Julbernardia globiflora,6.2,6.3,n,a
+2146,23,1,Chiyombo 2,Brachystegia utilis,7.2,8.1,n,a
+2146,23,2,Chiyombo 2,Brachystegia utilis,NA,13,n,a
+2146,24,1,Kamponi,Julbernardia globiflora,4.6,5,n,a
+2146,25,1,Mukungula,Mukungula sp1,4.4,8.9,n,a
+2146,26,1,Kamponi,Julbernardia globiflora,5.4,9.6,n,a
+2146,26,2,Kamponi,Julbernardia globiflora,NA,7,n,a
+2146,27,1,Kamponi,Julbernardia globiflora,7.8,11.9,n,a
+2146,27,2,Kamponi,Julbernardia globiflora,NA,8.9,n,a
+2146,27,3,Kamponi,Julbernardia globiflora,NA,6.5,n,a
+2146,27,6,Kamponi,Julbernardia globiflora,NA,16.1,n,a
+2146,27,4,Kamponi,Julbernardia globiflora,NA,5.9,n,a
+2146,27,5,Kamponi,Julbernardia globiflora,NA,5,n,a
+2146,28,1,Gobogobo,Crosspteryx febrijuga,5.4,16,n,a
+2146,29,1,Mtowa,Diplorhynchus condylocarpon,4,7,n,a
+2146,30,1,Gobogobo,Crosspteryx febrijuga,5,6.5,n,a
+2146,30,2,Gobogobo,Crosspteryx febrijuga,NA,7.5,n,a
+2146,30,3,Gobogobo,Crosspteryx febrijuga,NA,5,n,a
+95,1,1,Kafifi,Acacia gerrardii,9,12.7,n,a
+95,2,1,Mukungula,Mukungula sp1,6,8.5,n,a
+95,2,2,Mukungula,Mukungula sp1,NA,9.5,n,a
+95,2,3,Mukungula,Mukungula sp1,NA,8.9,n,a
+95,2,4,Mukungula,Mukungula sp1,NA,7.5,n,a
+95,2,5,Mukungula,Mukungula sp1,NA,5.9,n,a
+95,2,6,Mukungula,Mukungula sp1,NA,9.3,n,a
+95,3,1,Kafifi,Acacia gerrardii,11.8,22.9,n,a
+95,4,1,Kalama,Combretum adenogonium,4.4,5,n,a
+95,5,1,Kalama,Combretum adenogonium,4.2,6.9,n,a
+95,6,1,Kafifi,Acacia gerrardii,9.6,19.5,n,a
+95,7,1,Kaumbu,Lannea discolor,7.4,12.9,n,a
+95,8,1,Kafifi,Acacia gerrardii,10,11.3,n,a
+95,9,1,Chiyombo 2,Brachystegia utilis,6,9,n,a
+95,10,1,Kafifi,Acacia gerrardii,4.6,7,n,d
+95,11,1,Kafifi,Acacia gerrardii,8.6,9.9,n,a
+95,12,1,Kafifi,Acacia gerrardii,11.2,7.8,n,a
+95,12,2,Kafifi,Acacia gerrardii,NA,15.9,n,a
+95,13,1,Chiyombo 2,Brachystegia utilis,8.4,11.3,n,a
+95,13,2,Chiyombo 2,Brachystegia utilis,NA,12.9,n,a
+95,14,1,Kafifi,Acacia gerrardii,11,12.2,n,a
+95,15,1,Kafifi,Acacia gerrardii,9,12.5,n,a
+95,16,1,Mukungula,Mukungula sp1,4,9.5,n,a
+95,17,1,Kafifi,Acacia gerrardii,10.4,12,n,a
+95,17,2,Kafifi,Acacia gerrardii,NA,9.6,n,a
+95,18,1,Mukungula,Mukungula sp1,1.4,5.2,n,d
+95,19,1,Mukungula,Mukungula sp1,1.4,4.2,n,d
+202,1,1,Chiyombo 2,Brachystegia utilis,4.8,11.2,n,a
+202,1,2,Chiyombo 2,Brachystegia utilis,NA,9.2,n,a
+202,2,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,7.4,n,a
+202,2,2,Msolo,Pseudolachnostylis maprouneifolia,NA,5.4,n,a
+202,2,3,Msolo,Pseudolachnostylis maprouneifolia,NA,10.1,n,a
+202,2,4,Msolo,Pseudolachnostylis maprouneifolia,NA,11.4,n,a
+202,2,5,Msolo,Pseudolachnostylis maprouneifolia,NA,7.8,n,a
+202,3,1,Msolo,Pseudolachnostylis maprouneifolia,2.8,6.6,n,a
+202,4,1,Kamponi,Julbernardia globiflora,5.8,9.8,n,a
+202,5,1,Kamponi,Julbernardia globiflora,9,9.9,n,a
+202,6,1,Lwanhko,Lwankho sp1,1.6,5.5,n,a
+202,7,1,Chiyombo 2,Brachystegia utilis,6,10.9,n,a
+202,7,2,Chiyombo 2,Brachystegia utilis,NA,7.8,n,a
+202,8,1,Mugulo,Diospyros kirkii,2.6,5.1,n,a
+202,9,1,Chiyombo 2,Brachystegia utilis,4.6,5.1,n,a
+202,10,1,Chiyombo 2,Brachystegia utilis,3.8,6.3,n,a
+202,10,2,Chiyombo 2,Brachystegia utilis,NA,5.9,n,a
+202,11,1,Chiyombo 2,Brachystegia utilis,6,11.5,n,a
+202,12,1,Mugulo,Diospyros kirkii,3.4,6.4,n,a
+202,13,1,Kamponi,Julbernardia globiflora,3.2,6.9,n,a
+202,14,1,Lwanhko,Lwankho sp1,5.2,7,n,a
+202,15,1,Lwanhko,Lwankho sp1,5,6.5,n,a
+2091,1,1,Chiyombo 1,Brachystegia boehmii,10.2,13.3,n,a
+2091,2,1,Chiyombo 1,Brachystegia boehmii,14.6,28.6,n,a
+2091,3,1,Kabesha 1,Terminalia stuhlmannii,5.2,10.5,n,a
+2091,4,1,Mubombya,Mubombya sp1,7.6,26,n,a
+2091,4,2,Mubombya,Mubombya sp1,NA,9,n,a
+2091,4,3,Mubombya,Mubombya sp1,NA,9,n,a
+2091,4,4,Mubombya,Mubombya sp1,NA,16.3,n,a
+2091,4,5,Mubombya,Mubombya sp1,NA,13.2,n,a
+2091,5,1,Kamukamu,Kamukamu_sp1,5,8.2,n,a
+2091,5,2,Kamukamu,Kamukamu_sp1,NA,9.5,n,a
+2091,6,1,Kalama,Combretum adenogonium,6.2,8,n,a
+2091,7,1,Lwanhko,Lwankho sp1,8.4,12.8,n,a
+2091,8,1,Kalama,Combretum adenogonium,6.2,9.9,n,a
+2091,9,1,Kalama,Combretum adenogonium,9.2,17,n,a
+2091,10,1,Chiyombo 2,Brachystegia utilis,7.2,10.3,n,a
+2091,11,1,Kalama,Combretum adenogonium,7,9.5,n,a
+2091,11,2,Kalama,Combretum adenogonium,NA,7.5,n,a
+2091,11,3,Kalama,Combretum adenogonium,NA,10.8,n,a
+2091,12,1,Kalama,Combretum adenogonium,7.2,13,n,a
+2091,13,1,Chiyombo 2,Brachystegia utilis,12.4,22.6,n,a
+2091,14,1,Chiyombo 2,Brachystegia utilis,12.6,19.7,n,a
+2091,15,1,Chiyombo 2,Brachystegia utilis,15,21.5,n,a
+2091,16,1,Chiyombo 2,Brachystegia utilis,10.8,21.7,n,a
+2091,17,1,Chiyombo 2,Brachystegia utilis,11.6,20,n,a
+2091,18,1,Mtowa,Diplorhynchus condylocarpon,4.6,6.9,n,a
+2091,19,1,Lwanhko,Lwankho sp1,6.2,7.5,n,a
+2091,19,2,Lwanhko,Lwankho sp1,NA,7.5,n,a
+2091,20,1,Kalama,Combretum adenogonium,4.4,11.8,n,a
+3777,1,1,Mubanga,Pericopsis angolensis,2.6,17.2,n,a
+3777,2,1,Mtondo,Julbernardia paniculata,2.8,5.8,n,a
+3777,3,1,Mtondo,Julbernardia paniculata,5,18,n,a
+3777,4,1,Mubanga,Pericopsis angolensis,8.6,22.5,n,a
+3777,5,1,Kaumbu,Lannea discolor,7,23.2,n,a
+3777,6,1,Msangaza,Isoberlinia angolensis,3,5.9,n,a
+3777,7,1,Mtowa,Diplorhynchus condylocarpon,6.2,17,n,a
+3777,8,1,Msolo,Pseudolachnostylis maprouneifolia,3,8.6,n,a
+3777,8,2,Msolo,Pseudolachnostylis maprouneifolia,NA,3.6,n,a
+3777,8,3,Msolo,Pseudolachnostylis maprouneifolia,NA,8.5,n,a
+3777,9,1,Chiyombo 2,Brachystegia utilis,4,5.2,n,a
+3777,10,1,Kabizi,Kabizi sp1,8.4,17.9,n,a
+3830,1,1,Mulundu,Swartzia madagascariensis,6.2,11,n,a
+3830,1,2,Mulundu,Swartzia madagascariensis,NA,9.2,n,a
+3830,1,3,Mulundu,Swartzia madagascariensis,NA,10.5,n,a
+3830,1,4,Mulundu,Swartzia madagascariensis,NA,11.8,n,a
+3830,1,5,Mulundu,Swartzia madagascariensis,NA,7.5,n,a
+3830,2,1,Sokolwe,Uapaca sp1,1.8,6.8,n,a
+3830,3,1,Sokolwe,Uapaca sp1,5,15.2,n,a
+3830,4,1,Chiyombo 2,Brachystegia utilis,4.6,5.1,n,a
+3830,4,2,Chiyombo 2,Brachystegia utilis,NA,5.4,n,a
+3830,4,3,Chiyombo 2,Brachystegia utilis,NA,6.9,n,a
+3830,5,1,Mtowa,Diplorhynchus condylocarpon,4.4,5.6,n,a
+3830,5,2,Mtowa,Diplorhynchus condylocarpon,NA,6.2,n,a
+3830,6,1,Mphantwe,Mphantwe sp1,3.4,6,n,a
+3830,7,1,Mphantwe,Mphantwe sp1,4.4,7,n,a
+3830,8,1,Kamponi,Julbernardia globiflora,4.8,7.9,n,a
+3830,9,1,Mphantwe,Mphantwe sp1,2.4,5.7,n,a
+1238,1,1,Kabesha 2,Terminalia sericea,3.6,6.2,n,a
+1238,2,1,Kalama,Combretum adenogonium,7.8,5.1,n,a
+1238,2,2,Kalama,Combretum adenogonium,NA,5.5,n,a
+1238,2,3,Kalama,Combretum adenogonium,NA,8.8,n,a
+1238,3,1,Kambulunje,Kambulunje sp1,5,5.9,n,a
+1238,3,2,Kambulunje,Kambulunje sp1,NA,6.5,n,a
+1238,3,3,Kambulunje,Kambulunje sp1,NA,9,n,a
+1238,3,4,Kambulunje,Kambulunje sp1,NA,6.6,n,a
+1238,3,5,Kambulunje,Kambulunje sp1,NA,10.3,n,a
+1238,4,1,Mulivwi,Mulivwi sp1,5,8.3,n,a
+1238,5,1,Chiyombo 2,Brachystegia utilis,4.4,11.2,n,a
+1238,6,1,Kabesha 2,Terminalia sericea,4.2,6.2,n,a
+1238,7,1,Kambulunje,Kambulunje sp1,4.4,6.5,n,a
+1238,8,1,Mtowa,Diplorhynchus condylocarpon,4.4,6.6,n,a
+1238,9,1,Kapulula,Kapulula sp1,4,7.4,n,a
+1238,9,2,Kapulula,Kapulula sp1,NA,5.5,n,a
+1238,9,3,Kapulula,Kapulula sp1,NA,7,n,a
+1238,10,1,Mtowa,Diplorhynchus condylocarpon,5.2,9.3,n,a
+1238,10,2,Mtowa,Diplorhynchus condylocarpon,NA,4.5,n,a
+1238,11,1,Kalukulukuku,Kalukulukuku sp1,2.8,6,n,a
+1238,12,1,Kalukulukuku,Kalukulukuku sp1,3.4,7.2,n,a
+1238,13,1,Kamemena,Jasminum fluminense,6,6.1,n,a
+1238,13,2,Kamemena,Jasminum fluminense,NA,6.1,n,a
+1238,13,3,Kamemena,Jasminum fluminense,NA,6.5,n,a
+1238,14,1,Kamponi,Julbernardia globiflora,3.8,5.2,n,a
+1238,15,1,Changwe,Xylopia odoratissima,4,8,n,a
+1238,16,1,Mulivwi,Mulivwi sp1,4.8,6.5,n,a
+1238,17,1,Mtowa,Diplorhynchus condylocarpon,2.6,7.5,n,a
+1238,17,2,Mtowa,Diplorhynchus condylocarpon,NA,5.5,n,a
+1238,18,1,Mulivwi,Mulivwi sp1,2.2,7.9,n,a
+1238,19,1,Kamponi,Julbernardia globiflora,4.2,6.1,n,a
+1238,20,1,Mtowa,Diplorhynchus condylocarpon,6,11.5,n,a
+1238,21,1,Chisimbwe,Chisimbwe sp1,5.2,18.2,n,a
+1238,21,2,Chisimbwe,Chisimbwe sp1,NA,6.1,n,a
+1238,21,3,Chisimbwe,Chisimbwe sp1,NA,7,n,a
+1238,21,4,Chisimbwe,Chisimbwe sp1,NA,16.5,n,a
+4430,1,1,Kalama,Combretum adenogonium,5.4,9,n,a
+4430,2,1,Lwanhko,Lwankho sp1,6.4,20.6,n,a
+4430,3,1,Chiyombo 2,Brachystegia utilis,11.4,26.6,n,a
+4430,4,1,Chiyombo 2,Brachystegia utilis,4,11,n,a
+4430,5,1,Kabesha 2,Terminalia sericea,4.6,6.3,n,a
+4430,6,1,Chizutu,Kigelia africanum,4.8,9.1,n,a
+4430,7,1,Mtowa,Diplorhynchus condylocarpon,4,6,n,a
+4430,8,1,Kalama,Combretum adenogonium,4.4,6,n,a
+4430,9,1,Chiyombo 2,Brachystegia utilis,7,10.5,n,a
+4430,10,1,Lwanhko,Lwankho sp1,6.2,10.3,n,a
+4430,11,1,Chiyombo 2,Brachystegia utilis,3,5.5,n,a
+4430,12,1,Kamponi,Julbernardia globiflora,5,5.5,n,a
+4430,12,2,Kamponi,Julbernardia globiflora,NA,5.5,n,a
+4430,13,1,Kalama,Combretum adenogonium,6,6.6,n,a
+4430,14,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,6.1,n,a
+4430,14,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.5,n,a
+4430,15,1,Chiyombo 2,Brachystegia utilis,10.6,25.5,n,a
+4430,15,2,Chiyombo 2,Brachystegia utilis,NA,24.6,n,a
+4430,16,1,Kaumbu,Lannea discolor,4.2,5.5,n,a
+4430,17,1,Msolo,Pseudolachnostylis maprouneifolia,6.4,11,n,a
+4430,17,2,Msolo,Pseudolachnostylis maprouneifolia,NA,12.3,n,a
+4430,18,1,Kabesha 1,Terminalia stuhlmannii,4,8.8,n,a
+4430,19,1,Chiyombo 2,Brachystegia utilis,3.8,11.6,n,a
+4430,20,1,Kabesha 1,Terminalia stuhlmannii,3,5.4,n,a
+4430,21,1,Chiyombo 2,Brachystegia utilis,5.6,18.7,n,a
+4430,21,2,Chiyombo 2,Brachystegia utilis,NA,17.2,n,a
+4430,21,3,Chiyombo 2,Brachystegia utilis,NA,14.9,n,a
+4430,22,1,Mbwabwa,Cussonia arborea,4.8,9.1,n,a
+4430,23,1,Msolo,Pseudolachnostylis maprouneifolia,5,10,n,a
+4430,23,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.5,n,a
+4430,24,1,Kabesha 1,Terminalia stuhlmannii,2.6,5.5,n,a
+4332,1,1,Kamponi,Julbernardia globiflora,5.8,10.3,n,a
+4332,2,1,Mulombe,Pterocarpus angolensis,5.2,9.3,n,a
+4332,3,1,Mulombe,Pterocarpus angolensis,8.4,9.3,n,a
+4332,4,1,Chiyombo 2,Brachystegia utilis,7.8,16.6,n,a
+4332,5,1,Kamponi,Julbernardia globiflora,7.8,13,n,a
+4332,6,1,Buwa,Albizia versicolor,7,11.3,n,a
+4332,6,2,Buwa,Albizia versicolor,NA,11.9,n,a
+4332,6,3,Buwa,Albizia versicolor,NA,8.1,n,a
+4332,7,1,Mpundu,Parinari curatellifolia,4.8,9,n,a
+4332,8,1,Kamponi,Julbernardia globiflora,7,8.3,n,a
+4332,9,1,Mulombe,Pterocarpus angolensis,7.2,8.4,n,a
+4332,10,1,Kamponi,Julbernardia globiflora,9.4,14.7,n,a
+4332,11,1,Mulundu,Swartzia madagascariensis,2.8,6.2,n,a
+4332,12,1,Kamponi,Julbernardia globiflora,7.2,8.5,n,a
+4332,13,1,Chakalamu,Chakalamu sp1,5,8,n,a
+4332,14,1,Kamponi,Julbernardia globiflora,6.4,7,n,a
+4332,15,1,Kamponi,Julbernardia globiflora,9.2,15.8,n,a
+4332,16,1,Mulombe,Pterocarpus angolensis,6,6.2,n,a
+4332,17,1,Kamemenambuzi,Cassipourea mollis,6.8,16,n,a
+4332,18,1,Kamponi,Julbernardia globiflora,7.8,8.4,n,a
+4332,19,1,Kamponi,Julbernardia globiflora,10.8,12.5,n,a
+4332,20,1,Chakalamu,Chakalamu sp1,3.4,5.4,n,a
+4332,21,1,Kamponi,Julbernardia globiflora,11,16.7,n,a
+4332,22,1,Kamponi,Julbernardia globiflora,9.8,10.5,n,a
+4332,23,1,Kamponi,Julbernardia globiflora,12.8,36,n,a
+4332,24,1,Kambandule,Kambandule sp1,4.8,5.8,n,a
+4332,25,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,7,n,a
+4332,25,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.9,n,a
+4332,25,3,Msolo,Pseudolachnostylis maprouneifolia,NA,8.9,n,a
+4332,26,1,Kamponi,Julbernardia globiflora,7.6,11,n,a
+4332,27,1,Kamponi,Julbernardia globiflora,13.8,27.5,n,a
+4332,28,1,Kambandule,Kambandule sp1,5,5.2,n,a
+4332,28,2,Kambandule,Kambandule sp1,NA,6.1,n,a
+2041,1,1,Kamponi,Julbernardia globiflora,7,8.9,n,a
+2041,2,1,Kamponi,Julbernardia globiflora,6.6,6,n,a
+2041,3,1,Kamponi,Julbernardia globiflora,5.6,6.9,n,a
+2041,3,2,Kamponi,Julbernardia globiflora,NA,9.5,n,a
+2041,4,1,Kamponi,Julbernardia globiflora,3,8,n,a
+2041,5,1,Chiyombo 2,Brachystegia utilis,4.2,5.5,n,a
+2041,5,2,Chiyombo 2,Brachystegia utilis,NA,9.9,n,a
+2041,6,1,Kamponi,Julbernardia globiflora,5.8,5.5,n,a
+2041,7,1,Kamponi,Julbernardia globiflora,6.2,5.5,n,a
+2041,8,1,Kamponi,Julbernardia globiflora,6,6.5,n,a
+2041,9,1,Kamemena,Jasminum fluminense,5,6.8,n,a
+2041,10,1,Kalama,Combretum adenogonium,5.8,8.9,n,a
+2041,11,1,Kamponi,Julbernardia globiflora,5.6,8,n,a
+2041,12,1,Kamponi,Julbernardia globiflora,4.2,5.1,n,a
+2041,13,1,Kamponi,Julbernardia globiflora,4,7.5,n,a
+2041,14,1,Kamponi,Julbernardia globiflora,4.6,5.8,n,a
+2041,15,1,Msolo,Pseudolachnostylis maprouneifolia,4.4,23,n,a
+2041,15,2,Msolo,Pseudolachnostylis maprouneifolia,NA,7.9,n,a
+2041,16,1,Kamponi,Julbernardia globiflora,6,5,n,a
+2041,17,1,Kamponi,Julbernardia globiflora,4.6,5.8,n,a
+2041,18,1,Kamponi,Julbernardia globiflora,4,5.2,n,a
+2041,18,2,Kamponi,Julbernardia globiflora,NA,5.5,n,a
+2041,19,1,Mopani,Colophosphermum mopane,8.8,15.1,n,a
+2041,20,1,Kalama,Combretum adenogonium,6.4,12.5,n,a
+2041,21,1,Chiyombo 1,Brachystegia boehmii,6.6,7.3,n,a
+2041,21,2,Chiyombo 1,Brachystegia boehmii,NA,9.2,n,a
+2041,22,1,Kamponi,Julbernardia globiflora,4,5.4,n,a
+2041,23,1,Kamponi,Julbernardia globiflora,5.4,6,n,a
+409,1,1,Museza,Museza sp1,11,35.8,n,a
+409,2,1,Mtowa,Diplorhynchus condylocarpon,3.6,5.5,n,a
+409,3,1,Chiyombo 2,Brachystegia utilis,10.2,11.9,n,a
+409,4,1,Kamponi,Julbernardia globiflora,6.4,6.5,n,a
+409,5,1,Mubanga,Pericopsis angolensis,4.4,8.8,n,a
+409,6,1,Kamponi,Julbernardia globiflora,4.6,5.1,n,a
+409,7,1,Kabesha 2,Terminalia sericea,3,5.7,n,a
+409,8,1,Chiyombo 2,Brachystegia utilis,6,7.5,n,a
+409,9,1,Kamponi,Julbernardia globiflora,6.4,7.7,n,a
+409,10,1,Chiyombo 2,Brachystegia utilis,5,5.5,n,a
+409,11,1,Kachele,Kachele sp1,5,7.5,n,a
+409,12,1,Chiyombo 2,Brachystegia utilis,6,7.5,n,a
+409,13,1,Museza,Museza sp1,7.4,6.6,n,a
+409,14,1,Kamponi,Julbernardia globiflora,7.4,7.1,n,a
+409,15,1,Kamponi,Julbernardia globiflora,4.4,5.2,n,a
+409,16,1,Kamponi,Julbernardia globiflora,6.2,21,n,a
+409,17,1,Kamponi,Julbernardia globiflora,6.2,5.6,n,a
+409,18,1,Mugulo,Diospyros kirkii,2.8,5.6,n,a
+409,19,1,Chiyombo 2,Brachystegia utilis,5,10,n,a
+409,20,1,Chimpakasa,Lonchocarpus capassa,6.8,10.4,n,a
+409,21,1,Chiyombo 2,Brachystegia utilis,6,8,n,a
+409,21,2,Chiyombo 2,Brachystegia utilis,NA,6.1,n,a
+409,22,1,Chiyombo 2,Brachystegia utilis,4,5.5,n,a
+409,23,1,Kamponi,Julbernardia globiflora,7.4,7,n,a
+409,24,1,Mugulo,Diospyros kirkii,4.4,6.2,n,a
+409,25,1,Mugulo,Diospyros kirkii,2.8,5.5,n,a
+409,25,2,Mugulo,Diospyros kirkii,NA,6.2,n,a
+409,25,3,Mugulo,Diospyros kirkii,NA,7.8,n,a
+409,27,1,Kamponi,Julbernardia globiflora,5,6.9,n,a
+409,28,1,Kamponi,Julbernardia globiflora,6.6,9.2,n,a
+409,28,2,Kamponi,Julbernardia globiflora,NA,7.3,n,a
+409,29,1,Kamponi,Julbernardia globiflora,6.2,9.8,n,a
+409,30,1,Mugulo,Diospyros kirkii,4.8,7,n,a
+409,31,1,Kafifi,Acacia gerrardii,3,7.9,n,a
+409,32,1,Kamponi,Julbernardia globiflora,6.8,9.1,n,a
+409,33,1,Kabesha 1,Terminalia stuhlmannii,6,14.7,n,a
+409,34,1,Chiyombo 2,Brachystegia utilis,6.4,6.5,n,a
+409,35,1,Kamponi,Julbernardia globiflora,6.6,9.9,n,a
+409,36,1,Kamponi,Julbernardia globiflora,6.8,6.1,n,a
+409,37,1,Kaumbu,Lannea discolor,3.8,7.9,n,a
+4787,1,1,Museza,Museza sp1,7.6,5.5,n,a
+4787,2,1,Museza,Museza sp1,10.2,7.3,n,a
+4787,3,1,Museza,Museza sp1,17.8,12.8,n,a
+4787,4,1,Museza,Museza sp1,11.2,7.5,n,a
+4787,5,1,Museza,Museza sp1,12.8,7.8,n,a
+4787,6,1,Museza,Museza sp1,18.4,17,n,a
+4787,7,1,Museza,Museza sp1,13.2,15.1,n,a
+4787,8,1,Museza,Museza sp1,9.4,6.1,n,a
+4787,9,1,Mtowa,Diplorhynchus condylocarpon,4.8,5.5,n,a
+4787,10,1,Museza,Museza sp1,9,5,n,a
+4787,11,1,Museza,Museza sp1,10.8,6.5,n,a
+4787,12,1,Museza,Museza sp1,19.4,21.9,n,a
+4787,13,1,Museza,Museza sp1,14.6,13,n,a
+4787,14,1,Museza,Museza sp1,10.2,5.6,n,a
+4787,15,1,Museza,Museza sp1,10,6,n,a
+4787,16,1,Museza,Museza sp1,15.6,12,n,a
+4787,17,1,Museza,Museza sp1,17,16.2,n,a
+4787,18,1,Mubanga,Pericopsis angolensis,6,7,n,a
+4787,19,1,Mtowa,Diplorhynchus condylocarpon,7.8,6.7,n,a
+4787,20,1,Kaumbu,Lannea discolor,6,6.4,n,a
+4787,21,1,Museza,Museza sp1,16,15.3,n,a
+4787,22,1,Museza,Museza sp1,17,10.5,n,a
+4787,23,1,Museza,Museza sp1,14.2,11.5,n,a
+4787,24,1,Museza,Museza sp1,6.8,5.5,n,a
+4787,25,1,Kaumbu,Lannea discolor,7.8,10,n,a
+4787,26,1,Museza,Museza sp1,10.2,8.5,n,a
+4787,27,1,Museza,Museza sp1,11.6,13.9,n,a
+4787,28,1,Museza,Museza sp1,11.2,7,n,a
+4787,29,1,Museza,Museza sp1,10.6,6.1,n,a
+4787,30,1,Museza,Museza sp1,11.4,9.5,n,a
+4787,31,1,Museza,Museza sp1,9,7.1,n,a
+4787,32,1,Museza,Museza sp1,13.2,16.6,n,a
+4787,33,1,Museza,Museza sp1,14.6,16.8,n,a
+4787,34,1,Museza,Museza sp1,10.6,9,n,a
+4787,35,1,Museza,Museza sp1,12.2,15,n,a
+4787,35,2,Museza,Museza sp1,NA,8.5,n,a
+4787,36,1,Museza,Museza sp1,14.4,12,n,a
+4787,37,1,Museza,Museza sp1,12.8,5.6,n,a
+4787,37,2,Museza,Museza sp1,NA,15,n,a
+4787,38,1,Museza,Museza sp1,12.2,12.9,n,a
+4787,39,1,Museza,Museza sp1,15,12.4,n,a
+4787,40,1,Chiyombo 2,Brachystegia utilis,5.2,5.5,n,a
+4787,41,1,Museza,Museza sp1,12.8,9.9,n,a
+4787,41,2,Museza,Museza sp1,NA,3,n,a
+4787,42,1,Mtondo,Julbernardia paniculata,15.4,17,n,a
+4787,42,2,Mtondo,Julbernardia paniculata,NA,13,n,a
+4787,43,1,Museza,Museza sp1,23.2,25.8,n,a
+4787,44,1,Museza,Museza sp1,16.4,20.2,n,a
+5052,1,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,9.9,n,a
+5052,1,2,Msolo,Pseudolachnostylis maprouneifolia,NA,11,n,a
+5052,2,1,Kalamafupa,Combretum zeyheri,7.4,7.5,n,a
+5052,3,1,Msolo,Pseudolachnostylis maprouneifolia,6,10.9,n,a
+5052,4,1,Museza,Museza sp1,6.8,6,n,a
+5052,5,1,Museza,Museza sp1,12.4,16.1,n,a
+5052,6,1,Kalamafupa,Combretum zeyheri,6.6,9,n,a
+5052,7,1,Museza,Museza sp1,9.8,15,n,a
+5052,8,1,Museza,Museza sp1,12.8,21.2,n,a
+5052,9,1,Museza,Museza sp1,7.4,9.3,n,a
+5052,10,1,Museza,Museza sp1,8.2,7.2,n,a
+5052,11,1,Chiyombo 1,Brachystegia boehmii,10.6,12.2,n,a
+5052,12,1,Museza,Museza sp1,8.4,7.3,n,a
+5052,13,1,Museza,Museza sp1,11.4,23,n,a
+5052,14,1,Kalamafupa,Combretum zeyheri,6.8,8,n,a
+5052,15,1,Museza,Museza sp1,10.6,10.3,n,a
+5052,16,1,Mtowa,Diplorhynchus condylocarpon,5,6,n,a
+5052,17,1,Museza,Museza sp1,6.8,6.1,n,a
+5052,18,1,Museza,Museza sp1,6.4,6,n,a
+5052,19,1,Museza,Museza sp1,12.4,13.9,n,a
+5052,20,1,Museza,Museza sp1,9.2,9.9,n,a
+5052,21,1,Museza,Museza sp1,8,7.9,n,a
+5052,22,1,Chiyombo 1,Brachystegia boehmii,10.2,13,n,a
+5052,23,1,Chiyombo 1,Brachystegia boehmii,8.8,7.2,n,a
+5052,24,1,Museza,Museza sp1,11.8,9.9,n,a
+5052,25,1,Museza,Museza sp1,10.6,66.6,n,a
+5052,26,1,Mugulo,Diospyros kirkii,6,18.5,n,a
+5052,27,1,Museza,Museza sp1,12.4,11.3,n,a
+5052,28,1,Msolo,Pseudolachnostylis maprouneifolia,6.8,17.5,n,a
+5052,29,1,Mubanga,Pericopsis angolensis,6.2,8.2,n,a
+5052,30,1,Museza,Museza sp1,12.2,16.1,n,a
+1749,1,1,Chiyombo 2,Brachystegia utilis,5.6,10,n,a
+1749,2,1,Chiyombo 2,Brachystegia utilis,8.8,12.1,n,a
+1749,3,1,Chiyombo 2,Brachystegia utilis,6.2,8.8,n,a
+1749,3,2,Chiyombo 2,Brachystegia utilis,NA,9.7,n,a
+1749,4,1,Chiyombo 2,Brachystegia utilis,6,7.1,n,a
+1749,5,1,Msolo,Pseudolachnostylis maprouneifolia,6.2,7.6,n,a
+1749,6,1,Chiyombo 2,Brachystegia utilis,9,14.2,n,a
+1749,6,2,Chiyombo 2,Brachystegia utilis,NA,7.8,n,a
+1749,7,1,Mtowa,Diplorhynchus condylocarpon,6,5.3,n,a
+1749,8,1,Chiyombo 2,Brachystegia utilis,8.8,8,n,a
+1749,9,1,Kalama,Combretum adenogonium,5.6,6.9,n,a
+1749,10,1,Kalama,Combretum adenogonium,9.2,20,n,a
+1749,11,1,Chiyombo 2,Brachystegia utilis,9,5.2,n,a
+1749,11,2,Chiyombo 2,Brachystegia utilis,NA,23,n,a
+1749,11,3,Chiyombo 2,Brachystegia utilis,NA,15.8,n,a
+1749,11,4,Chiyombo 2,Brachystegia utilis,NA,8,n,a
+1749,11,5,Chiyombo 2,Brachystegia utilis,NA,10.4,n,a
+1749,12,1,Chiyombo 2,Brachystegia utilis,4.6,7.5,n,a
+1749,13,1,Chiyombo 2,Brachystegia utilis,4.8,7.6,n,a
+1749,14,1,Chiyombo 2,Brachystegia utilis,4.4,7.3,n,a
+1749,15,1,Mugulo,Diospyros kirkii,4.8,10.4,n,a
+1749,16,1,Chiyombo 2,Brachystegia utilis,4,5,n,a
+1749,17,1,Chiyombo 1,Brachystegia boehmii,4.8,5.5,n,a
+1749,17,2,Chiyombo 1,Brachystegia boehmii,NA,5.5,n,a
+1749,18,1,Chiyombo 1,Brachystegia boehmii,7.2,8,n,a
+1749,18,2,Chiyombo 1,Brachystegia boehmii,NA,7,n,a
+1749,19,1,Mtowa,Diplorhynchus condylocarpon,4.8,5.9,n,a
+1749,20,1,Mtowa,Diplorhynchus condylocarpon,5,5.6,n,a
+1749,21,1,Chiyombo 1,Brachystegia boehmii,5.6,10.5,n,a
+1749,22,1,Chiyombo 1,Brachystegia boehmii,7,6.9,n,a
+1749,23,1,Kalama,Combretum adenogonium,7.2,9,n,a
+1749,24,1,Chiyombo 2,Brachystegia utilis,9.6,16.5,n,a
+1749,25,1,Mugulo,Diospyros kirkii,3.6,6.1,n,a
+1749,25,2,Mugulo,Diospyros kirkii,NA,6.9,n,a
+1749,26,1,Msolo,Pseudolachnostylis maprouneifolia,7,9.9,n,a
+1749,27,1,Chiyombo 2,Brachystegia utilis,9,12,n,a
+1749,27,2,Chiyombo 2,Brachystegia utilis,NA,10,n,a
+1749,28,1,Chiyombo 2,Brachystegia utilis,4.2,8,n,a
+1749,28,2,Chiyombo 2,Brachystegia utilis,NA,5.9,n,a
+1749,29,1,Mugulo,Diospyros kirkii,5.2,11.7,n,a
+1749,30,1,Chiyombo 2,Brachystegia utilis,5,7.8,n,a
+1749,31,1,Chiyombo 2,Brachystegia utilis,7.8,12.8,n,a
+1749,32,1,Chiyombo 2,Brachystegia utilis,4,6,n,a
+1749,33,1,Chiyombo 1,Brachystegia boehmii,3.8,7.4,n,a
+1749,33,2,Chiyombo 1,Brachystegia boehmii,NA,7.6,n,a
+1749,34,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,10,n,a
+1749,35,1,Chiyombo 1,Brachystegia boehmii,5.6,7.8,n,a
+1749,35,2,Chiyombo 1,Brachystegia boehmii,NA,7.9,n,a
+1749,35,3,Chiyombo 1,Brachystegia boehmii,NA,9.5,n,a
+1749,35,4,Chiyombo 1,Brachystegia boehmii,NA,8.5,n,a
+1749,36,1,Chiyombo 1,Brachystegia boehmii,6.4,8.6,n,a
+372,1,1,Kalama,Combretum adenogonium,4.2,9,n,a
+372,2,1,Chitondotondo,Xeroderris stuhlmannii,2.8,6.5,n,a
+372,2,2,Chitondotondo,Xeroderris stuhlmannii,NA,6.2,n,a
+372,3,1,Kalama,Combretum adenogonium,9,17.7,n,a
+372,4,1,Mulombe,Pterocarpus angolensis,9,11.1,n,a
+372,5,1,Mulombe,Pterocarpus angolensis,8.8,17.7,n,a
+372,6,1,Kalama,Combretum adenogonium,5.2,5.6,n,a
+372,7,1,Kalama,Combretum adenogonium,5.4,8.5,n,a
+372,7,2,Kalama,Combretum adenogonium,NA,9,n,a
+372,7,3,Kalama,Combretum adenogonium,NA,6,n,a
+372,7,4,Kalama,Combretum adenogonium,NA,8,n,a
+372,8,1,Mulombe,Pterocarpus angolensis,8.6,11.6,n,a
+372,9,1,Mulombe,Pterocarpus angolensis,5.8,10.3,n,a
+372,10,1,Mulombe,Pterocarpus angolensis,6.4,12.7,n,a
+372,11,1,Mulombe,Pterocarpus angolensis,6,10,n,a
+372,12,1,Mulombe,Pterocarpus angolensis,8,13.8,n,a
+372,13,1,Mulombe,Pterocarpus angolensis,4.4,7.6,n,a
+372,14,1,Mulombe,Pterocarpus angolensis,7,10.6,n,a
+372,15,1,Mulombe,Pterocarpus angolensis,6.8,19.8,n,a
+372,16,1,Mbangozi,Pterocarpus rotundifolius,4.2,6.6,n,a
+372,17,1,Mulombe,Pterocarpus angolensis,4.8,6.6,n,a
+372,18,1,Mulombe,Pterocarpus angolensis,5.2,9.9,n,a
+372,19,1,Mpyoka,Hymenocardia acida,4.4,6.6,n,a
+372,20,1,Kalama,Combretum adenogonium,5.4,12.7,n,a
+372,21,1,Kalama,Combretum adenogonium,5,9.2,n,a
+372,21,2,Kalama,Combretum adenogonium,NA,5,n,a
+372,21,3,Kalama,Combretum adenogonium,NA,5.5,n,a
+372,22,1,Kalama,Combretum adenogonium,3.6,14.4,n,a
+372,22,2,Kalama,Combretum adenogonium,NA,5.5,n,a
+372,22,3,Kalama,Combretum adenogonium,NA,4.8,n,a
+372,22,4,Kalama,Combretum adenogonium,NA,4.9,n,a
+372,23,1,Chitondotondo,Xeroderris stuhlmannii,3.8,8,n,a
+372,24,1,Mpyoka,Hymenocardia acida,6.4,13.5,n,a
+372,25,1,Kalama,Combretum adenogonium,4.2,7.3,n,a
+372,26,1,Kalama,Combretum adenogonium,6.4,12.7,n,a
+372,27,1,Kalama,Combretum adenogonium,5.8,8.7,n,a
+372,28,1,Kalama,Combretum adenogonium,3.8,5.5,n,a
+372,29,1,Kalama,Combretum adenogonium,5.2,11,n,a
+372,30,1,Kalama,Combretum adenogonium,6,8.3,n,a
+372,30,2,Kalama,Combretum adenogonium,NA,12.6,n,a
+372,31,1,Kalama,Combretum adenogonium,4.4,10.4,n,a
+372,32,1,Kalama,Combretum adenogonium,3,7,n,a
+372,33,1,Mulombe,Pterocarpus angolensis,5.6,10.4,n,a
+372,34,1,Kabesha 2,Terminalia sericea,7.6,25,n,a
+372,35,1,Mulombe,Pterocarpus angolensis,2.6,6.1,n,a
+372,36,1,Mulombe,Pterocarpus angolensis,6.6,11.5,n,a
+372,37,1,Mulombe,Pterocarpus angolensis,7,15.2,n,a
+372,38,1,Kalama,Combretum adenogonium,3.4,7.2,n,a
+372,39,1,Kalama,Combretum adenogonium,5.6,6.1,n,a
+372,40,1,Kalama,Combretum adenogonium,4.4,5.6,n,a
+372,41,1,Kabesha 1,Terminalia stuhlmannii,7.6,16.9,n,a
+372,42,1,Kalama,Combretum adenogonium,4.6,7.3,n,a
+372,43,1,Kabesha 1,Terminalia stuhlmannii,3.4,6.1,n,a
+372,44,1,Kalama,Combretum adenogonium,3.2,8.2,n,a
+372,45,1,Chitongolosi,Peltophorum africanum,3.6,8.2,n,a
+372,45,2,Chitongolosi,Peltophorum africanum,NA,9.3,n,a
+372,46,1,Kabesha 1,Terminalia stuhlmannii,3,7.2,n,a
+372,47,1,Kalama,Combretum adenogonium,3.8,11.5,n,a
+372,48,1,Msolo,Pseudolachnostylis maprouneifolia,7.8,25.9,n,a
+372,49,1,Chitongolosi,Peltophorum africanum,4.6,16.5,n,a
+372,50,1,Msolo,Pseudolachnostylis maprouneifolia,2.6,8.4,n,d
+372,51,1,Kalama,Combretum adenogonium,3.8,6.1,n,a
+372,52,1,Kabesha 1,Terminalia stuhlmannii,4.8,8.1,n,a
+372,53,1,Msolo,Pseudolachnostylis maprouneifolia,4.6,11.8,n,a
+372,54,1,Kalama,Combretum adenogonium,4.2,14,n,a
+372,55,1,Chitongolosi,Peltophorum africanum,4.4,7,n,a
+372,55,2,Chitongolosi,Peltophorum africanum,NA,7.3,n,a
+372,56,1,Chitongolosi,Peltophorum africanum,5.4,18.2,n,a
+372,57,1,Kalama,Combretum adenogonium,4.6,8,n,a
+372,58,1,Mulombe,Pterocarpus angolensis,5,9.3,n,a
+372,59,1,Mbangozi,Pterocarpus rotundifolius,3,12,n,a
+372,60,1,Mbangozi,Pterocarpus rotundifolius,3,8.9,n,a
+372,61,1,Mbangozi,Pterocarpus rotundifolius,2.8,7.5,n,a
+372,62,1,Mbangozi,Pterocarpus rotundifolius,3,7.2,n,a
+370,1,1,Kabesha 2,Terminalia sericea,3.4,7.3,n,a
+370,2,1,Kalama musweta,Combretum collinum,3.6,6.7,n,a
+370,3,1,Chiyombo 2,Brachystegia utilis,5.8,8,n,a
+370,3,2,Chiyombo 2,Brachystegia utilis,NA,7.1,n,a
+370,3,3,Chiyombo 2,Brachystegia utilis,NA,20.3,n,a
+370,3,4,Chiyombo 2,Brachystegia utilis,NA,15.8,n,a
+370,3,5,Chiyombo 2,Brachystegia utilis,NA,12.9,n,a
+370,4,1,Mtowa,Diplorhynchus condylocarpon,4.8,5.5,n,a
+370,5,1,Mtowa,Diplorhynchus condylocarpon,4.6,7,n,a
+370,6,1,Chiyombo 2,Brachystegia utilis,5.4,8.8,n,a
+370,6,2,Chiyombo 2,Brachystegia utilis,NA,11.9,n,a
+370,7,1,Mukalakate,Monotes glaber,3.6,6.2,n,a
+370,7,2,Mukalakate,Monotes glaber,NA,6.5,n,a
+370,8,1,Chiyombo 2,Brachystegia utilis,5.2,12.3,n,a
+370,8,2,Chiyombo 2,Brachystegia utilis,NA,7.5,n,a
+370,8,3,Chiyombo 2,Brachystegia utilis,NA,16,n,a
+370,9,1,Mukalakate,Monotes glaber,4,7.2,n,a
+370,10,1,Mukalakate,Monotes glaber,3.8,5.9,n,a
+370,11,1,Msolo,Pseudolachnostylis maprouneifolia,5.2,6.3,n,a
+370,12,1,Kabesha 2,Terminalia sericea,4,6.2,n,a
+370,13,1,Kabesha 2,Terminalia sericea,3.8,5.2,n,a
+370,14,1,Chiyombo 1,Brachystegia boehmii,4.2,7.5,n,a
+370,15,1,Mukalakate,Monotes glaber,4,6.2,n,a
+370,16,1,Chiyombo 1,Brachystegia boehmii,3.8,5.1,n,a
+370,17,1,Gobogobo,Crosspteryx febrijuga,4,5.9,n,a
+370,18,1,Gobogobo,Crosspteryx febrijuga,3,6,n,a
+370,19,1,Chimpakasa,Lonchocarpus capassa,2.2,8,n,a
+370,20,1,Chimpakasa,Lonchocarpus capassa,2,5.5,n,a
+370,21,1,Kabesha 2,Terminalia sericea,5.2,9.5,n,a
+370,22,1,Chiyombo 1,Brachystegia boehmii,6.4,11,n,a
+1172,1,1,Chiyombo 2,Brachystegia utilis,8,8.2,n,a
+1172,2,1,Kamponi,Julbernardia globiflora,8,9.9,n,a
+1172,3,1,Chiyombo 2,Brachystegia utilis,5.2,6.2,n,a
+1172,4,1,Chiyombo 2,Brachystegia utilis,7.6,12.4,n,a
+1172,5,1,Kamponi,Julbernardia globiflora,9,10.5,n,a
+1172,6,1,Lumpangala,Lumpangala_sp1,4.4,6.4,n,a
+1172,7,1,Chiyombo 2,Brachystegia utilis,10,18.5,n,a
+1172,7,2,Chiyombo 2,Brachystegia utilis,NA,5.5,n,a
+1172,8,1,Chiyombo 2,Brachystegia utilis,7.2,5,n,a
+1172,8,2,Chiyombo 2,Brachystegia utilis,NA,10,n,a
+1172,9,1,Kapipa,Kapipa_sp1,5,5.5,n,a
+1172,10,1,Kamponi,Julbernardia globiflora,7,5.5,n,a
+1172,11,1,Mtondo,Julbernardia paniculata,10.4,18.7,n,a
+1172,12,1,Kamponi,Julbernardia globiflora,8,12.7,n,a
+1172,12,2,Kamponi,Julbernardia globiflora,NA,11.9,n,a
+1172,13,1,Mtondo,Julbernardia paniculata,8.2,8.2,n,a
+1172,13,2,Mtondo,Julbernardia paniculata,NA,5.1,n,a
+1172,14,1,Mtondo,Julbernardia paniculata,7.6,7.8,n,a
+1172,15,1,Kamponi,Julbernardia globiflora,4,6.8,n,a
+1172,16,1,Mtondo,Julbernardia paniculata,7.2,7.3,n,a
+1172,17,1,Mulombe,Pterocarpus angolensis,4.4,5.5,n,a
+1172,18,1,Mtondo,Julbernardia paniculata,8,12.2,n,a
+1172,19,1,Changwe,Xylopia odoratissima,5.8,6.3,n,a
+1172,20,1,Chagaga,Maprounea africana,4,7.3,n,a
+1172,21,1,Mufinsa,Syzygium guineense,4.8,10.2,n,a
+1172,21,2,Mufinsa,Syzygium guineense,NA,8.5,n,a
+1172,21,3,Mufinsa,Syzygium guineense,NA,11.5,n,a
+1172,21,4,Mufinsa,Syzygium guineense,NA,9.5,n,a
+1172,22,1,Masuku,Uapaca Kirkiana,4.8,13,n,a
+1172,22,2,Masuku,Uapaca Kirkiana,NA,12,n,a
+1172,23,1,Masuku,Uapaca Kirkiana,5.2,10.3,n,a
+1172,23,2,Masuku,Uapaca Kirkiana,NA,12,n,a
+1172,24,1,Mtondo,Julbernardia paniculata,7,5.5,n,a
+1172,25,1,Kamemena,Jasminum fluminense,3,7.8,n,a
+1172,26,1,Kamponi,Julbernardia globiflora,4.8,6.1,n,a
+1172,27,1,Mtondo,Julbernardia paniculata,5.6,7.5,n,a
+1172,28,1,Chiyombo 2,Brachystegia utilis,6.6,8.2,n,a
+1172,29,1,Kamponi,Julbernardia globiflora,6.4,6.6,n,a
+1172,30,1,Mulundu,Swartzia madagascariensis,3.6,6.9,n,a
+1172,30,2,Mulundu,Swartzia madagascariensis,NA,6,n,a
+1172,30,3,Mulundu,Swartzia madagascariensis,3.6,5.6,n,a
+1172,31,1,Kamponi,Julbernardia globiflora,6.4,6.5,n,a
+1172,31,2,Kamponi,Julbernardia globiflora,NA,8.9,n,a
+1172,32,1,Mtondo,Julbernardia paniculata,8.6,12.2,n,a
+1172,33,1,Mtondo,Julbernardia paniculata,7.4,9.5,n,a
+4450,1,1,Chiyombo 1 ,Brachystegia boehmii,9.4,27,n,a
+4450,1,2,Chiyombo 1 ,Brachystegia boehmii,NA,13.5,n,a
+4450,1,3,Chiyombo 1 ,Brachystegia boehmii,NA,7.4,n,a
+4450,2,1,Chagaga,Maprounea africana,3.8,5.4,n,a
+4450,3,1,Chagaga,Maprounea africana,3.4,6,n,a
+4450,4,1,Mpundu,Parinari curatellifolia,3.4,6.3,n,a
+4450,5,1,Mpundu,Parinari curatellifolia,3.2,5.2,n,a
+4450,6,1,Mufinsa,Syzygium guineense,5.4,12,n,a
+4450,6,2,Mufinsa,Syzygium guineense,NA,18.1,n,a
+4450,7,1,Mpundu,Parinari curatellifolia,9.8,32.9,n,a
+4450,8,1,Mufinsa,Syzygium guineense,6.6,15,n,a
+4450,8,2,Mufinsa,Syzygium guineense,NA,17.5,n,a
+4450,9,1,Chagaga,Maprounea africana,4.2,10.4,n,a
+4450,9,2,Chagaga,Maprounea africana,NA,15,n,a
+4450,10,1,Kaumbu,Lannea discolor,3.4,5,n,a
+4450,10,2,Kaumbu,Lannea discolor,NA,6.8,n,a
+4450,10,3,Kaumbu,Lannea discolor,NA,5.1,n,a
+3612,1,1,Mtowa,Diplorhynchus condylocarpon,6.6,8.4,n,a
+3612,1,2,Mtowa,Diplorhynchus condylocarpon,NA,6.5,n,a
+3612,1,3,Mtowa,Diplorhynchus condylocarpon,NA,7.5,n,a
+3612,2,1,Chiyombo 1,Brachystegia boehmii,12.6,27,n,a
+3612,3,1,Kamponi,Julbernardia globiflora,9.8,12.1,n,a
+3612,4,1,Kamponi,Julbernardia globiflora,5.8,6,n,a
+3612,5,1,Museza,Museza sp1,12.4,5.5,n,a
+3612,5,2,Museza,Museza sp1,NA,9.5,n,a
+3612,6,1,Luvungwe,Dalbergia nitidula,5,6.7,n,a
+3612,6,2,Luvungwe,Dalbergia nitidula,NA,9.9,n,a
+3612,7,1,Museza,Museza sp1,11.4,11,n,a
+3612,7,2,Museza,Museza sp1,NA,14.5,n,a
+3612,8,1,Kaumbu,Lannea discolor,2.2,6.1,n,a
+3612,9,1,Mupapa,Afzelia quanzensis,7.6,9,n,a
+3612,10,1,Mtowa,Diplorhynchus condylocarpon,9.4,11,n,a
+3612,10,2,Mtowa,Diplorhynchus condylocarpon,NA,16.9,n,a
+3612,11,1,Mtowa,Diplorhynchus condylocarpon,4.2,5.5,n,a
+3612,12,1,Kalamafupa,Combretum zeyheri,3.8,6.1,n,a
+3612,13,1,Kalamafupa,Combretum zeyheri,5.2,6.9,n,a
+3612,14,1,Kalamafupa,Combretum zeyheri,5.4,6.7,n,a
+3612,15,1,Kaseze,Kaseze sp1,8.8,22.9,n,a
+3612,15,2,Kaseze,Kaseze sp1,NA,5,n,a
+3612,15,3,Kaseze,Kaseze sp1,NA,12,n,a
+3612,15,4,Kaseze,Kaseze sp1,NA,8.1,n,a
+3612,16,1,Kalamafupa,Combretum zeyheri,8,9,n,a
+3612,17,1,Kalamafupa,Combretum zeyheri,7.2,7.4,n,a
+3612,18,1,Mtowa,Diplorhynchus condylocarpon,6.4,9,n,a
+3612,18,2,Mtowa,Diplorhynchus condylocarpon,NA,8.9,n,a
+3612,19,1,Mugulo,Diospyros kirkii,3.8,12.5,n,a
+3612,20,1,Chibangalume,Zanha africana,10.6,22.2,n,a
+3612,21,1,Kalamafupa,Combretum zeyheri,6.4,9.3,n,a
+3612,22,1,Mugulo,Diospyros kirkii,7.4,18.2,n,a
+3612,23,1,Mugulo,Diospyros kirkii,3.8,5.5,n,a
+3612,24,1,Kalamafupa,Combretum zeyheri,3.8,6.5,n,a
+3612,25,1,Msolo,Pseudolachnostylis maprouneifolia,7,10.6,n,a
+3612,25,2,Msolo,Pseudolachnostylis maprouneifolia,NA,10.5,n,a
+3612,25,3,Msolo,Pseudolachnostylis maprouneifolia,NA,25,n,a
+3612,25,4,Msolo,Pseudolachnostylis maprouneifolia,NA,12,n,a
+3612,26,1,Mtondo,Julbernardia paniculata,7.4,10.4,n,a
+3612,27,1,Mtowa,Diplorhynchus condylocarpon,4.2,5.4,n,a
+3187,1,1,Mpyoka,Hymenocardia acida,4.6,6,n,a
+3187,2,1,Mtondo,Julbernardia paniculata,5.4,6,n,a
+3187,3,1,Kabesha 1,Terminalia stuhlmannii,9.2,11.1,n,a
+3187,4,1,Kabizi,Kabizi sp1,12.4,37,n,a
+3187,5,1,Mtondo,Julbernardia paniculata,5.4,6.6,n,a
+3187,6,1,Mtondo,Julbernardia paniculata,9.6,10.5,n,a
+3187,7,1,Mugulo,Diospyros kirkii,3.6,9,n,a
+3187,8,1,Mtondo,Julbernardia paniculata,7.4,7.6,n,a
+3187,9,1,Kabizi,Kabizi sp1,9,8.9,n,a
+3187,10,1,Mtondo,Julbernardia paniculata,7.6,6.8,n,a
+3187,11,1,Mtowa,Diplorhynchus condylocarpon,8.7,14.7,n,a
+3187,12,1,Kabizi,Kabizi sp1,8.2,5.8,n,a
+3187,13,1,Kabizi,Kabizi sp1,4.6,5.3,n,a
+3187,14,1,Mpyoka,Hymenocardia acida,5.4,5.1,n,a
+3187,15,1,Mufinsa,Syzygium guineense,11.8,19.5,n,a
+3187,15,2,Mufinsa,Syzygium guineense,NA,6,n,a
+3187,15,3,Mufinsa,Syzygium guineense,NA,11,n,a
+3187,16,1,Kabesha 2,Terminalia sericea,4.2,6.1,n,a
+3187,17,1,Mtondo,Julbernardia paniculata,9.2,7,n,a
+3187,18,1,Kabizi,Kabizi sp1,9,10.9,n,a
+3187,19,1,Kabizi,Kabizi sp1,8.4,7.5,n,a
+3187,20,1,Mufinsa,Syzygium guineense,10.6,16,n,a
+3187,20,2,Mufinsa,Syzygium guineense,NA,8.9,n,a
+3187,21,1,Kabesha 2,Terminalia sericea,4.2,8,n,a
+3187,22,1,Kabesha 2,Terminalia sericea,6,7,n,a
+3187,23,1,Mpyoka,Hymenocardia acida,4.6,7.2,n,a
+3187,24,1,Kaumbu,Lannea discolor,6.2,10,n,a
+3187,25,1,Mpyoka,Hymenocardia acida,4.6,6.5,n,a
+3187,26,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,11.5,n,a
+3187,26,2,Msolo,Pseudolachnostylis maprouneifolia,NA,8.5,n,a
+3187,27,1,Kabesha 2,Terminalia sericea,6.6,7.4,n,a
+3187,28,1,Mtondo,Julbernardia paniculata,4.2,6.1,n,a
+3187,29,1,Changwe,Xylopia odoratissima,4,5.2,n,a
+3187,30,1,Mtondo,Julbernardia paniculata,9.2,15.5,n,a
+3187,31,1,Mpyoka,Hymenocardia acida,3.6,6.4,n,a
+3187,32,1,Mtondo,Julbernardia paniculata,9,8.1,n,a
+3187,32,2,Mtondo,Julbernardia paniculata,NA,8.5,n,a
+3187,33,1,Kabizi,Kabizi sp1,9.2,10.8,n,a
+3187,34,1,Mtondo,Julbernardia paniculata,8.4,8.9,n,a
+822,1,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,12,n,a
+822,1,2,Msolo,Pseudolachnostylis maprouneifolia,NA,7.8,n,a
+822,2,1,Chiyombo 1,Brachystegia boehmii,5.4,9.4,n,a
+822,3,1,Kamponi,Julbernardia globiflora,9.8,19.5,n,a
+822,4,1,Mubanga,Pericopsis angolensis,7.4,22.5,n,d
+822,5,1,Chiyombo 1,Brachystegia boehmii,4.2,6.8,n,a
+822,6,1,Musumbu,Brachystegia allenii,9.4,22.3,n,a
+822,7,1,Chiyombo 1,Brachystegia boehmii,3.8,10.9,n,a
+822,7,2,Chiyombo 1,Brachystegia boehmii,NA,6.6,n,a
+822,8,1,Kaumbu,Lannea discolor,3,6.1,n,a
+822,9,1,Musumbu,Brachystegia allenii,17.2,40.5,n,a
+822,10,1,Chiyombo 1,Brachystegia boehmii,7,7.4,n,a
+822,11,1,Msolo,Pseudolachnostylis maprouneifolia,6.6,12.3,n,a
+822,12,1,Chiyombo 1,Brachystegia boehmii,7.2,9.8,n,a
+822,13,1,Wabona,Wabona sp1,4.4,7,n,a
+822,14,1,Luvungwe,Dalbergia nitidula,6.8,8.9,n,a
+822,15,1,Chiyombo 1,Brachystegia boehmii,6.5,8.2,n,a
+822,16,1,Mtowa,Diplorhynchus condylocarpon,7.4,13.3,n,a
+822,17,1,Kamponi,Julbernardia globiflora,10,21.5,n,a
+822,18,1,Chiyombo 1,Brachystegia utilis,6.4,5.6,n,a
+822,19,1,Kalukulukuku,Kalukulukuku sp1,4,5.8,n,a
+822,20,1,Msolo,Pseudolachnostylis maprouneifolia,6.8,14,n,a
+3979,1,1,Chiyombo 2,Brachystegia utilis,3.4,4.3,n,a
+3979,2,1,Mugulo,Diospyros kirkii,5,9.7,n,a
+3979,3,1,Chiyombo 2,Brachystegia utilis,6.2,11,n,a
+3979,4,1,Chiyombo 2,Brachystegia utilis,3.5,6,n,a
+3979,5,1,Msolo,Pseudolachnostylis maprouneifolia,5,23.9,n,a
+3979,6,1,Kalama,Combretum adenogonium,5.4,9,n,a
+3979,7,1,Kalama,Combretum adenogonium,4.4,5.2,n,a
+3979,8,1,Kalama,Combretum adenogonium,7.2,,n,a
+2790,1,1,Kafifi,Acacia gerrardii,3.8,6.1,n,a
+2790,2,1,Msolo,Pseudolachnostylis maprouneifolia,4.8,7.5,n,a
+2790,3,1,Mtowa,Diplorhynchus condylocarpon,5,7.1,n,a
+2790,4,1,Lwankho,Lwankho sp1,4,5.5,n,a
+2790,5,1,Chiyombo 2,Brachystegia utilis,5,15.3,n,a
+2790,5,2,Chiyombo 2,Brachystegia utilis,NA,12.9,n,a
+2790,6,1,Chiyombo 2,Brachystegia utilis,4.6,5.5,n,a
+2790,7,1,Chiyombo 2,Brachystegia utilis,4.6,9.5,n,a
+2790,7,2,Chiyombo 2,Brachystegia utilis,NA,10.3,n,a
+2790,7,3,Chiyombo 2,Brachystegia utilis,NA,10.5,n,a
+2790,7,4,Chiyombo 2,Brachystegia utilis,NA,12.4,n,a
+2790,7,5,Chiyombo 2,Brachystegia utilis,NA,7.5,n,a
+2790,7,6,Chiyombo 2,Brachystegia utilis,NA,9.8,n,a
+2790,7,7,Chiyombo 2,Brachystegia utilis,NA,11,n,a
+2790,7,8,Chiyombo 2,Brachystegia utilis,NA,9.9,n,a
+2790,7,9,Chiyombo 2,Brachystegia utilis,NA,7.2,n,a
+2790,7,10,Chiyombo 2,Brachystegia utilis,NA,6.7,n,a
+2790,7,11,Chiyombo 2,Brachystegia utilis,NA,6.9,n,a
+2790,8,1,Mugulo,Diospyros kirkii,2.8,6.8,n,a
+2790,9,1,Kabesha 1,Terminalia stuhlmannii,4.6,6.8,n,a
+2790,10,1,Kabesha 1,Terminalia stuhlmannii,5.2,7.2,n,a
+2790,11,1,Chiyombo 2,Brachystegia utilis,4.2,11.4,n,a
+2790,12,1,Mtowa,Diplorhynchus condylocarpon,5,7.4,n,a
+2790,13,1,Mtowa,Diplorhynchus condylocarpon,5,7.4,n,a
+2790,14,1,Chiyombo 1,Brachystegia boehmii,7.6,18.7,n,a
+2790,14,2,Chiyombo 1,Brachystegia boehmii,NA,6.2,n,a
+2790,14,3,Chiyombo 1,Brachystegia boehmii,NA,18,n,a
+2790,15,1,Msolo,Pseudolachnostylis maprouneifolia,3.6,5,n,a
+2790,16,1,Chiyombo 1,Brachystegia boehmii,3.6,8.1,n,a
+2790,17,1,Chiyombo 2,Brachystegia utilis,3.8,6.8,n,a
+2790,18,1,Kalama,Combretum adenogonium,2.6,6.6,n,a
+2790,19,1,Kafifi,Acacia gerrardii,8,15.8,n,a
+3443,1,1,Mtangatanga,Albizia versicolor,4.8,9.5,n,a
+3443,1,2,Mtangatanga,Albizia versicolor,NA,7.7,n,a
+3443,2,1,Kalama,Combretum adenogonium,4.6,5.9,n,a
+3443,3,1,Chitimbe,Piliostigma thonningii,6.2,6.4,n,a
+3443,3,2,Chitimbe,Piliostigma thonningii,NA,8.6,n,a
+3443,3,3,Chitimbe,Piliostigma thonningii,NA,7.6,n,a
+3443,3,4,Chitimbe,Piliostigma thonningii,NA,7.7,n,a
+3443,3,5,Chitimbe,Piliostigma thonningii,NA,9.9,n,a
+3443,3,6,Chitimbe,Piliostigma thonningii,NA,6.3,n,a
+3443,4,1,Kalama,Combretum adenogonium,3.6,6.8,n,a
+3443,5,1,Kalama,Combretum adenogonium,4.6,6.8,n,a
+3443,6,1,Ngobe,Ngobe sp1,4.4,10.7,n,a
+3443,7,1,Musebe,Musebe sp1,3.2,7.1,n,a
+3443,7,2,Musebe,Musebe sp1,NA,5.4,n,a
+3443,8,1,Kalama,Combretum adenogonium,3.6,5,n,a
+4253,1,1,Chizutu,Kigelia africanum,13,44.5,n,a
+4253,2,1,Musuche,Musuche sp1,10.2,7.4,n,a
+4253,2,2,Musuche,Musuche sp1,NA,9.5,n,a
+4253,3,1,Mbwabwa,Cussonia arborea,12.6,9.4,n,a
+4253,4,1,Mbwabwa,Cussonia arborea,5.8,54.1,n,a
+4253,5,1,Chitondotondo,Xeroderris stuhlmannii,15,10.4,n,a
+4253,5,2,Chitondotondo,Xeroderris stuhlmannii,12.4,38.7,n,a
+4253,6,1,Mukute,Mukute sp1,3.2,7.4,n,a
+4253,6,2,Mukute,Mukute sp1,NA,4.6,n,a
+4253,7,1,Musikizi,Trichelia emetica,5.6,11.5,n,a
+4253,8,1,Chitimbe,Piliostigma thonningii,0.82,15.3,n,a
+4253,9,1,Musumbu,Brachystegia allenii,0.75,27.8,n,a
+4253,10,1,Mtowa,Diplorhynchus condylocarpon,0.94,14.3,n,a
+4253,10,2,Mtowa,Diplorhynchus condylocarpon,NA,11.2,n,a
+381,1,1,Kalama,Combretum adenogonium,6,8.7,n,a
+381,1,2,Kalama,Combretum adenogonium,NA,10.8,n,a
+381,2,1,Kalama,Combretum adenogonium,7.4,9.3,n,d
+381,2,2,Kalama,Combretum adenogonium,NA,18.9,n,a
+381,3,1,Kalama,Combretum adenogonium,3,5.9,n,a
+381,4,1,Kaimwamye,Kaimwamye sp1,1.33,8.6,n,a
+381,5,1,Kaimwamye,Kaimwamye sp1,2.2,12.9,n,a
+381,6,1,Kaimwamye,Kaimwamye sp1,1.41,4.8,n,a
+3462,1,1,Kamponi,Julbernardia globiflora,20.6,53.9,n,a
+3462,2,1,Mulumila,Mulumila sp1,9.2,14.9,n,a
+3462,3,1,Lwankho,Lwankho sp1,4.8,5.6,n,a
+3462,4,1,Lumpangala,Lumpangala_sp1,3.2,7.8,n,a
+3462,4,2,Lumpangala,Lumpangala_sp1,NA,6.4,n,a
+3462,5,1,Mpondo,Bauhinia petersiana,6.6,11.5,n,a
+3462,5,2,Mpondo,Bauhinia petersiana,NA,6.4,n,a
+3462,6,1,Mugulo,Diospyros kirkii,7.4,13.4,n,a
+3462,7,1,Mtowa,Diplorhynchus condylocarpon,9,9.4,n,a
+3462,8,1,Chiyombo 2,Brachystegia utilis,10.6,15.5,n,a
+3462,8,2,Chiyombo 2,Brachystegia utilis,NA,13.8,n,a
+3462,9,1,Mtowa,Diplorhynchus condylocarpon,6.8,9.9,n,a
+3462,10,1,Msolo,Pseudolachnostylis maprouneifolia,5.6,9.3,n,a
+3462,11,1,Mtowa,Diplorhynchus condylocarpon,6,7.7,n,a
+3462,12,1,Chiyombo 2,Brachystegia utilis,5.2,10.5,n,a
+3462,12,2,Chiyombo 2,Brachystegia utilis,NA,9.9,n,a
+3462,13,1,Mtowa,Diplorhynchus condylocarpon,7,9.9,n,a
+3462,14,1,Chimpakasa,Lonchocarpus capassa,11,17.8,n,a
+3462,15,1,Mtowa,Diplorhynchus condylocarpon,9.2,10.5,n,a
+3462,16,1,Kaumbu,Lannea discolor,6,6.9,n,a
+3462,17,1,Kalamafupa,Combretum zeyheri,5,6.4,n,a
+3462,18,1,Kalamafupa,Combretum zeyheri,1.8,18.5,n,d
+3462,19,1,Kalamafupa,Combretum zeyheri,3.4,11.9,n,d
+3462,20,1,Kalama,Combretum adenogonium,5.8,11.1,n,a
+3462,21,1,Musumbu,Brachystegia allenii,22,34.3,n,a
+3462,22,1,Kalama musweta,Combretum collinum,7.4,12.9,n,a
+3462,22,2,Kalama musweta,Combretum collinum,NA,10.6,n,a
+3462,23,1,Mulumila,Mulumila sp1,2.6,7.4,n,a
+3462,24,1,Mulumila,Mulumila sp1,4.4,9.9,n,a
+3462,25,1,Musumbu,Brachystegia allenii,13.8,18.4,n,a
+3462,26,1,Musumbu,Brachystegia allenii,14.6,16.8,n,a
+3462,27,1,Mtowa,Diplorhynchus condylocarpon,7.4,9.1,n,a
+3462,27,2,Mtowa,Diplorhynchus condylocarpon,NA,8.7,n,a
+3462,27,3,Mtowa,Diplorhynchus condylocarpon,NA,7.8,n,a
+3462,27,4,Mtowa,Diplorhynchus condylocarpon,NA,8.9,n,a
+3462,27,5,Mtowa,Diplorhynchus condylocarpon,NA,5.8,n,a
+3462,27,6,Mtowa,Diplorhynchus condylocarpon,NA,8.7,n,a
+3462,28,1,Kalama,Combretum adenogonium,6.2,11.9,n,a
+3462,28,2,Kalama,Combretum adenogonium,NA,11.8,n,a
+3462,29,1,Mtowa,Diplorhynchus condylocarpon,6.8,7.4,n,a
+4882,1,1,Museza,Museza sp1,14.2,18.2,n,a
+4882,2,1,Museza,Museza sp1,15.6,20.4,n,a
+4882,3,1,Museza,Museza sp1,15.4,14.3,n,a
+4882,4,1,Mtowa,Diplorhynchus condylocarpon,3.8,5.5,n,a
+4882,5,1,Luvungwe,Dalbergia nitidula,3.2,6.6,n,a
+4882,6,1,Kabesha 1,Terminalia stuhlmannii,5,10.5,n,a
+4882,7,1,Chiyombo 1,Brachystegia boehmii,7,11.3,n,a
+4882,8,1,Museza,Museza sp1,15.2,29.8,n,a
+4882,9,1,Mugulo,Diospyros kirkii,3.4,5.8,n,a
+4882,10,1,Chiyombo 1,Brachystegia boehmii,10.4,17.5,n,a
+4882,11,1,Luvungwe,Dalbergia nitidula,3.6,5.3,n,a
+4882,12,1,Kabesha 1,Terminalia stuhlmannii,7.4,8.5,n,a
+4882,13,1,Museza,Museza sp1,5.6,5.6,n,a
+4882,14,1,Museza,Museza sp1,15.4,19.1,n,a
+4882,15,1,Museza,Museza sp1,13.4,17.9,n,a
+4882,16,1,Museza,Museza sp1,12.4,24.4,n,a
+4882,17,1,Museza,Museza sp1,11.8,18.4,n,a
+4882,18,1,Mugulo,Diospyros kirkii,5.6,9.3,n,a
+3193,1,1,Mtowa,Diplorhynchus condylocarpon,7.2,7.5,n,a
+3193,2,1,Kamponi,Julbernardia globiflora,10.8,11.4,n,a
+3193,3,1,Chiyombo 2,Brachystegia utilis,9.6,15.8,n,a
+3193,4,1,Msolo,Pseudolachnostylis maprouneifolia,9.4,37.1,n,a
+3193,5,1,Msolo,Pseudolachnostylis maprouneifolia,8.6,31.1,n,a
+3193,6,1,Kamponi,Julbernardia globiflora,6.4,9.8,n,a
+3193,7,1,Chiyombo 2,Brachystegia utilis,8.6,17.9,n,a
