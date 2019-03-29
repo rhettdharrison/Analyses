@@ -151,3 +151,11 @@ points(meta_plots$points[plots$RECLASSIFICATION[-60]=="Wetland",1:2],col="blue",
 points(meta_plots$points[plots$RECLASSIFICATION[-60]=="Grassland",1:2],col="green",pch=20, cex=3)
 dev.off()
 
+
+## AF data from HH survey
+AF <- c(68,11,1,2,14)
+AF_SPP <- c("Gliricidia sepium", "Faidherbia albidia","Sesbania sesban", "Moringa oleifera", "P. angolensis" )
+
+png("Outputs/aagroforestry species.png")
+barplot(AF,names.arg=AF_SPP, main="Agroforestry species")
+dev.off()
